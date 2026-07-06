@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Product placeholder</title>
+  <desc id="desc">Neutral placeholder image for product cards.</desc>
+  <rect width="512" height="512" rx="32" fill="#eef2f6"/>
+  <rect x="72" y="120" width="368" height="272" rx="24" fill="#ffffff" stroke="#d9dee5" stroke-width="8"/>
+  <path d="M144 336l72-84 54 62 40-46 58 68H144z" fill="#dff4f1"/>
+  <circle cx="342" cy="188" r="34" fill="#0a8a80"/>
+  <text x="256" y="440" text-anchor="middle" fill="#5f6975" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">PRODUCT</text>
+</svg>

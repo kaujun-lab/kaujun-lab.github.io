@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Kaujun Lab Shorts product links</title>
+  <desc id="desc">Open graph image for the Kaujun Lab product links page.</desc>
+  <rect width="1200" height="630" fill="#f6f7f9"/>
+  <rect x="72" y="72" width="1056" height="486" rx="24" fill="#ffffff" stroke="#d9dee5" stroke-width="4"/>
+  <path d="M146 132h66l34 57-34 57h-66l-34-57 34-57z" fill="none" stroke="#0a8a80" stroke-width="10"/>
+  <text x="179" y="202" text-anchor="middle" fill="#0a8a80" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="800">AI</text>
+  <text x="280" y="178" fill="#0a8a80" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="800">KAU-JUN LAB</text>
+  <text x="112" y="330" fill="#12161c" font-family="Segoe UI, Arial, sans-serif" font-size="70" font-weight="900">Shorts Product Links</text>
+  <text x="112" y="412" fill="#5f6975" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="600">Products introduced in YouTube Shorts</text>
+  <rect x="112" y="468" width="322" height="56" rx="8" fill="#fff3c4" stroke="#d9a441" stroke-width="3"/>
+  <text x="273" y="506" text-anchor="middle" fill="#4a3410" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="800">Affiliate disclosure</text>
+</svg>

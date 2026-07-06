@@ -1,49 +1,58 @@
 # Profile Product Links Page
 
-このディレクトリは、YouTubeチャンネルプロフィールに設定する商品まとめページです。
+`links/` は、YouTubeチャンネルのプロフィールに設置する商品まとめページです。
 
 ## 公開URL
 
-静的ホスティングでは `links/` を公開し、チャンネルプロフィールにはこのページURLを1つだけ設定します。
-
-無料公開URL:
+推奨URL:
 
 ```text
-https://momiyama-ai.github.io/
+https://kaujun-lab.com/links/
 ```
 
-運用例:
+運用:
 
 - Shorts内の案内: `商品リンクはプロフィールから`
-- YouTubeチャンネルプロフィール: `https://momiyama-ai.github.io/`
-- 商品一覧ページ: `index.html`
+- YouTubeチャンネルプロフィール: `https://kaujun-lab.com/links/`
+- 商品一覧ページ: `links/index.html`
 
-## 商品の追加・編集
+## 商品データの更新
 
-商品データは `links/products.js` の `window.KAUJUN_PRODUCTS` に追加します。
+商品データは `links/products.js` の `window.KAUJUN_PRODUCTS` に入ります。
+手で直接編集することもできますが、通常はリンク台帳から生成します。
+
+```powershell
+py scripts\build_links_products.py
+```
+
+生成元:
+
+- `09_monetization/link_registry.csv`
+- `05_tracking/growth_sprint_1_shorts_registry.csv`
+- `09_monetization/*_rakuten_api_product_shortlist.csv`
 
 必須フィールド:
 
-- `id`: 商品ごとの一意なID
+- `id`: 商品ごとの一意ID
 - `title`: 商品名
 - `description`: 事実ベースの短い説明
-- `imageUrl`: 商品画像または `./product-placeholder.svg`
-- `affiliateUrl`: 差し替え可能なアフィリエイトURL
-- `merchant`: 販売元・ショップ名
+- `imageUrl`: 商品画像URL、または `./product-placeholder.svg`
+- `affiliateUrl`: 商品ごとに差し替え可能なアフィリエイトURL
+- `merchant`: 販売元/ショップ名
 - `category`: 絞り込みカテゴリ
 - `shortTitle`: 紹介元Shorts名
 - `shortUrl`: 紹介元Shorts URL
-- `isPr`: アフィリエイト/PRリンクなら `true`
-- `priority`: おすすめ順の並び替え値。大きいほど上
+- `isPr`: PR/アフィリエイトリンクなら `true`
+- `priority`: おすすめ順の並び替え値
 - `updatedAt`: 確認日。`YYYY-MM-DD`
 
 ## リンク運用ルール
 
 - `09_monetization/link_registry.csv` で `ProgramStatus=承認済み` かつ `Publishable=Yes` のリンクだけ掲載します。
-- 公開前に価格、在庫、仕様、送料、キャンペーンを販売ページで確認します。
-- 商品カードには `PR / アフィリエイトリンク` を表示します。
+- 商品カードには `PR / アフィリエイトリンク` を明示します。
 - 外部アフィリエイトリンクには `target="_blank"` と `rel="sponsored nofollow noopener noreferrer"` を付けます。
 - ユーザーに分からないリダイレクトやリンク隠しは使いません。
+- 公開前に価格、在庫、送料、仕様を販売ページで再確認します。
 
 ## クリック計測
 
@@ -69,4 +78,11 @@ https://momiyama-ai.github.io/
 py scripts\validate_links_page.py
 ```
 
-この検証では、商品データの必須フィールド、PR表示、外部リンク属性、クリックイベント名、README運用メモを確認します。
+検証内容:
+
+- 商品データの必須フィールド
+- PR表記
+- 外部リンク属性
+- クリックイベント名
+- SEO/OGP
+- READMEの運用メモ
