@@ -1,6 +1,51 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s077-01-7-in-1-usb-c",
+    "title": "定番7-in-1 USB-Cハブ",
+    "description": "USB-Cハブ 7-in-1としてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/goodhammond/cabinet/qg_c_010/qg_c_016_00_0928.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tlkxn.k9qwp065.g00tlkxn.k9qwqd2e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgoodhammond%2Fqg_c_016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgoodhammond%2Fi%2F10000105%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "GWAAN",
+    "category": "USB-Cハブ",
+    "itemCategory": "USB-Cハブ 7-in-1",
+    "shortTitle": "USB-Cハブ、買う前にこの3つだけ見て #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=J8-RtFnJd10",
+    "isPr": true,
+    "priority": 37,
+    "updatedAt": "2026-07-10"
+  },
+  {
+    "id": "s077-02-usb-c",
+    "title": "外部モニター向けUSB-Cハブ",
+    "description": "4K60Hz HDMI対応USB-CハブとしてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/best-plice/cabinet/g/30/e9g6tg4civ-1.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ulp2n.k9qwp221.g00ulp2n.k9qwqde4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbest-plice%2Fgr-e9g6tg4civ%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbest-plice%2Fi%2F10119215%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "ベストプライスオンラインストア",
+    "category": "USB-Cハブ",
+    "itemCategory": "4K60Hz HDMI対応USB-Cハブ",
+    "shortTitle": "USB-Cハブ、買う前にこの3つだけ見て #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=J8-RtFnJd10",
+    "isPr": true,
+    "priority": 36,
+    "updatedAt": "2026-07-10"
+  },
+  {
+    "id": "s077-03-lan",
+    "title": "在宅ワーク向け有線LAN付きハブ",
+    "description": "有線LAN付きUSB-CハブとしてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sinkoss/cabinet/09921460/111.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uggon.k9qwpa28.g00uggon.k9qwq16c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsinkoss%2Fhub8i1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsinkoss%2Fi%2F10000011%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "sinco楽天市場店",
+    "category": "USB-Cハブ",
+    "itemCategory": "有線LAN付きUSB-Cハブ",
+    "shortTitle": "USB-Cハブ、買う前にこの3つだけ見て #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=J8-RtFnJd10",
+    "isPr": true,
+    "priority": 35,
+    "updatedAt": "2026-07-10"
+  },
+  {
     "id": "s076-01-item",
     "title": "定番ガススプリング式モニターアーム",
     "description": "ガススプリング式モニターアームとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
