@@ -1,6 +1,21 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s078-01-item",
+    "title": "持ち運び向け折りたたみスタンド",
+    "description": "折りたたみノートPCスタンドとしてShortsで紹介した候補です。対応インチ、高さと角度の調整幅、安定性、放熱性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/dotline/cabinet/pc/s-laptop7dan/2511laptop/2511laptop-1.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tf97n.k9qwpaa7.g00tf97n.k9qwqa6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdotline%2F998002pcstand%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdotline%2Fi%2F10000195%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "Dot Line 便利雑貨&レディース靴",
+    "category": "ノートPCスタンド",
+    "itemCategory": "折りたたみノートPCスタンド",
+    "shortTitle": "ノートPCスタンド、買う前にこの3つだけ見て #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
+    "isPr": true,
+    "priority": 40,
+    "updatedAt": "2026-07-10"
+  },
+  {
     "id": "s077-01-7-in-1-usb-c",
     "title": "定番7-in-1 USB-Cハブ",
     "description": "USB-Cハブ 7-in-1としてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
@@ -12,7 +27,22 @@
     "shortTitle": "USB-Cハブ、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=J8-RtFnJd10",
     "isPr": true,
-    "priority": 37,
+    "priority": 39,
+    "updatedAt": "2026-07-10"
+  },
+  {
+    "id": "s078-02-item",
+    "title": "目線を上げる高さ調整スタンド",
+    "description": "高さ調整ノートPCスタンドとしてShortsで紹介した候補です。対応インチ、高さと角度の調整幅、安定性、放熱性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/onishishop/cabinet/250905103/on031770_01.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00urkin.k9qwp66d.g00urkin.k9qwq2d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonishishop%2Fon031770%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonishishop%2Fi%2F10002078%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "生活応援 大西屋",
+    "category": "ノートPCスタンド",
+    "itemCategory": "高さ調整ノートPCスタンド",
+    "shortTitle": "ノートPCスタンド、買う前にこの3つだけ見て #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
+    "isPr": true,
+    "priority": 38,
     "updatedAt": "2026-07-10"
   },
   {
@@ -26,6 +56,21 @@
     "itemCategory": "4K60Hz HDMI対応USB-Cハブ",
     "shortTitle": "USB-Cハブ、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=J8-RtFnJd10",
+    "isPr": true,
+    "priority": 37,
+    "updatedAt": "2026-07-10"
+  },
+  {
+    "id": "s078-03-item",
+    "title": "長時間作業向け冷却台スタンド",
+    "description": "冷却台タイプノートPCスタンドとしてShortsで紹介した候補です。対応インチ、高さと角度の調整幅、安定性、放熱性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/4/400-cln031.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pmmbn.k9qwpbfc.g00pmmbn.k9qwqbef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F400-cln031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10097993%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "サンワダイレクト楽天市場店",
+    "category": "ノートPCスタンド",
+    "itemCategory": "冷却台タイプノートPCスタンド",
+    "shortTitle": "ノートPCスタンド、買う前にこの3つだけ見て #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
     "isPr": true,
     "priority": 36,
     "updatedAt": "2026-07-10"
