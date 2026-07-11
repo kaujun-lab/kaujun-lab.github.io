@@ -1,6 +1,51 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s080-01-redsack-30-45-60ml",
+    "title": "Redsack 30/45/60ml定量タイプ",
+    "description": "30/45/60ml定量型ウイスキーポンプとしてShortsで紹介した候補です。定量設定、大容量ボトル対応、電源方式、レビュー実績を購入前に確認してください。20歳未満の飲酒は法律で禁止されています。",
+    "imageUrl": "https://banshaku-lp-site.pages.dev/assets/og/whiskey-pump-comparison-2026.png",
+    "affiliateUrl": "https://www.amazon.co.jp/dp/B0D4V9YX1T?tag=satsusubuke-22",
+    "merchant": "Amazon.co.jp / Redsack Innovation",
+    "category": "家飲み用品",
+    "itemCategory": "30/45/60ml定量型ウイスキーポンプ",
+    "shortTitle": "電動ウイスキーポンプ、ラクさだけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=Ryny0JJG55s",
+    "isPr": true,
+    "priority": 46,
+    "updatedAt": "2026-07-12"
+  },
+  {
+    "id": "s080-02-redsack-5-in-1-1-999ml",
+    "title": "Redsack 5-in-1 1〜999ml調整タイプ",
+    "description": "1〜999ml調整型ウイスキーポンプとしてShortsで紹介した候補です。定量設定、大容量ボトル対応、電源方式、レビュー実績を購入前に確認してください。20歳未満の飲酒は法律で禁止されています。",
+    "imageUrl": "https://banshaku-lp-site.pages.dev/assets/og/whiskey-pump-comparison-2026.png",
+    "affiliateUrl": "https://www.amazon.co.jp/dp/B0BQHL576R?tag=satsusubuke-22",
+    "merchant": "Amazon.co.jp / Redsack Innovation",
+    "category": "家飲み用品",
+    "itemCategory": "1〜999ml調整型ウイスキーポンプ",
+    "shortTitle": "電動ウイスキーポンプ、ラクさだけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=Ryny0JJG55s",
+    "isPr": true,
+    "priority": 45,
+    "updatedAt": "2026-07-12"
+  },
+  {
+    "id": "s080-03-item",
+    "title": "乾電池式 ワンタッチタイプ",
+    "description": "乾電池式ワンタッチウイスキーポンプとしてShortsで紹介した候補です。定量設定、大容量ボトル対応、電源方式、レビュー実績を購入前に確認してください。20歳未満の飲酒は法律で禁止されています。",
+    "imageUrl": "https://banshaku-lp-site.pages.dev/assets/og/whiskey-pump-comparison-2026.png",
+    "affiliateUrl": "https://www.amazon.co.jp/dp/B0H5D52YBZ?tag=satsusubuke-22",
+    "merchant": "Amazon.co.jp",
+    "category": "家飲み用品",
+    "itemCategory": "乾電池式ワンタッチウイスキーポンプ",
+    "shortTitle": "電動ウイスキーポンプ、ラクさだけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=Ryny0JJG55s",
+    "isPr": true,
+    "priority": 44,
+    "updatedAt": "2026-07-12"
+  },
+  {
     "id": "s079-01-item",
     "title": "配列を選びやすい薄型キーボード",
     "description": "外付けキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
