@@ -1,6 +1,51 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s081-01-item",
+    "title": "ケーブルボックス 電源タップ収納",
+    "description": "ケーブル収納ボックスとしてShortsで紹介した候補です。収納サイズ、電源タップの収まり、放熱、配線の取り回しを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/gekiyasukaguya/cabinet/living/z100714y2401g.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pxm3n.k9qwp69a.g00pxm3n.k9qwq3c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgekiyasukaguya%2Fetc001228c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgekiyasukaguya%2Fi%2F10014254%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "インテリアのゲキカグ",
+    "category": "ケーブル整理",
+    "itemCategory": "ケーブル収納ボックス",
+    "shortTitle": "デスク配線整理、買う前にこの3つだけ見て #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
+    "isPr": true,
+    "priority": 46,
+    "updatedAt": "2026-07-12"
+  },
+  {
+    "id": "s081-02-wish-sun",
+    "title": "WISH SUN ケーブルトレー",
+    "description": "デスク下ケーブルトレーとしてShortsで紹介した候補です。収納サイズ、電源タップの収まり、放熱、配線の取り回しを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/wishsun/cabinet/biiino/item/main-image/20230227134004_1.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00thrkn.k9qwpdae.g00thrkn.k9qwq681/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwishsun%2Fwire_storage_a2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwishsun%2Fi%2F10000411%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "WISH SUN",
+    "category": "ケーブル整理",
+    "itemCategory": "デスク下ケーブルトレー",
+    "shortTitle": "デスク配線整理、買う前にこの3つだけ見て #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
+    "isPr": true,
+    "priority": 45,
+    "updatedAt": "2026-07-12"
+  },
+  {
+    "id": "s081-03-anker-magnetic-cable-holder",
+    "title": "Anker Magnetic Cable Holder",
+    "description": "ケーブルホルダーとしてShortsで紹介した候補です。収納サイズ、電源タップの収まり、放熱、配線の取り回しを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/a8891_sn.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8891%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000881%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "category": "ケーブル整理",
+    "itemCategory": "ケーブルホルダー",
+    "shortTitle": "デスク配線整理、買う前にこの3つだけ見て #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
+    "isPr": true,
+    "priority": 44,
+    "updatedAt": "2026-07-12"
+  },
+  {
     "id": "s079-01-item",
     "title": "配列を選びやすい薄型キーボード",
     "description": "外付けキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
