@@ -1,6 +1,51 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s084-01-quntis-41cm",
+    "title": "Quntis 41cm 自動調光・リモコン型",
+    "description": "モニターライトとしてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
+    "imageUrl": "./product-placeholder.svg",
+    "affiliateUrl": "https://www.amazon.co.jp/dp/B0DZHJZWMM/ref=nosim?tag=satsusubuke-22",
+    "merchant": "Amazon.co.jp",
+    "category": "モニターライト",
+    "itemCategory": "モニターライト",
+    "shortTitle": "モニターライト、値段だけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=MHSdPhBmYCs",
+    "isPr": true,
+    "priority": 55,
+    "updatedAt": "2026-07-13"
+  },
+  {
+    "id": "s084-02-quntis-51cm",
+    "title": "Quntis 51cm バックライト・無線リモコン型",
+    "description": "バックライト付きモニターライトとしてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
+    "imageUrl": "./product-placeholder.svg",
+    "affiliateUrl": "https://www.amazon.co.jp/dp/B0CSM3CRWZ/ref=nosim?tag=satsusubuke-22",
+    "merchant": "Amazon.co.jp",
+    "category": "モニターライト",
+    "itemCategory": "バックライト付きモニターライト",
+    "shortTitle": "モニターライト、値段だけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=MHSdPhBmYCs",
+    "isPr": true,
+    "priority": 54,
+    "updatedAt": "2026-07-13"
+  },
+  {
+    "id": "s084-03-benq-screenbar-halo-2",
+    "title": "BenQ ScreenBar Halo 2",
+    "description": "上位モニターライトとしてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
+    "imageUrl": "./product-placeholder.svg",
+    "affiliateUrl": "https://www.amazon.co.jp/dp/B0DK59YKRS/ref=nosim?tag=satsusubuke-22",
+    "merchant": "Amazon.co.jp",
+    "category": "モニターライト",
+    "itemCategory": "上位モニターライト",
+    "shortTitle": "モニターライト、値段だけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=MHSdPhBmYCs",
+    "isPr": true,
+    "priority": 53,
+    "updatedAt": "2026-07-13"
+  },
+  {
     "id": "s083-01-item",
     "title": "配列を選びやすい薄型キーボード",
     "description": "外付けキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
