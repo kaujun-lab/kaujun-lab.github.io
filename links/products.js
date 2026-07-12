@@ -1,6 +1,21 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s083-01-item",
+    "title": "配列を選びやすい薄型キーボード",
+    "description": "外付けキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k380sgr/k380sgr_r_.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk380sgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000560%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "ロジクール 公式ストア",
+    "category": "入力機器",
+    "itemCategory": "外付けキーボード",
+    "shortTitle": "ノートPC外付け、安い順で買うとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=1G6s41VSCkQ",
+    "isPr": true,
+    "priority": 52,
+    "updatedAt": "2026-07-12"
+  },
+  {
     "id": "s082-01-amazon",
     "title": "Amazonで探す: モニターライト",
     "description": "モニターライトとしてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
@@ -12,7 +27,7 @@
     "shortTitle": "プライムデーのデスク用品、買う順番を間違えないで #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=YZMo6aJwE6I",
     "isPr": true,
-    "priority": 49,
+    "priority": 51,
     "updatedAt": "2026-07-12"
   },
   {
@@ -27,7 +42,22 @@
     "shortTitle": "デスク配線整理、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
     "isPr": true,
-    "priority": 48,
+    "priority": 50,
+    "updatedAt": "2026-07-12"
+  },
+  {
+    "id": "s083-02-item",
+    "title": "手に合わせる静音マウス",
+    "description": "ワイヤレスマウスとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m750mgr/m750mgr_r_.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm750mgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000503%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "ロジクール 公式ストア",
+    "category": "入力機器",
+    "itemCategory": "ワイヤレスマウス",
+    "shortTitle": "ノートPC外付け、安い順で買うとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=1G6s41VSCkQ",
+    "isPr": true,
+    "priority": 49,
     "updatedAt": "2026-07-12"
   },
   {
@@ -42,7 +72,7 @@
     "shortTitle": "プライムデーのデスク用品、買う順番を間違えないで #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=YZMo6aJwE6I",
     "isPr": true,
-    "priority": 47,
+    "priority": 48,
     "updatedAt": "2026-07-12"
   },
   {
@@ -56,6 +86,21 @@
     "itemCategory": "デスク下ケーブルトレー",
     "shortTitle": "デスク配線整理、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
+    "isPr": true,
+    "priority": 47,
+    "updatedAt": "2026-07-12"
+  },
+  {
+    "id": "s083-03-usb-c",
+    "title": "必要ポートを足すUSB-Cハブ",
+    "description": "USB-CハブとしてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/goodhammond/cabinet/qg_c_010/qg_c_016_00_0928.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tlkxn.k9qwp065.g00tlkxn.k9qwqd2e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgoodhammond%2Fqg_c_016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgoodhammond%2Fi%2F10000105%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "GWAAN",
+    "category": "USB-Cハブ",
+    "itemCategory": "USB-Cハブ",
+    "shortTitle": "ノートPC外付け、安い順で買うとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=1G6s41VSCkQ",
     "isPr": true,
     "priority": 46,
     "updatedAt": "2026-07-12"
