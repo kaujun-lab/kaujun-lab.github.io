@@ -1,6 +1,21 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s082-01-amazon",
+    "title": "Amazonで探す: モニターライト",
+    "description": "モニターライトとしてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
+    "imageUrl": "./product-placeholder.svg",
+    "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88&tag=satsusubuke-22",
+    "merchant": "Amazon.co.jp",
+    "category": "モニターライト",
+    "itemCategory": "モニターライト",
+    "shortTitle": "プライムデーのデスク用品、買う順番を間違えないで #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=YZMo6aJwE6I",
+    "isPr": true,
+    "priority": 49,
+    "updatedAt": "2026-07-12"
+  },
+  {
     "id": "s081-01-item",
     "title": "ケーブルボックス 電源タップ収納",
     "description": "ケーブル収納ボックスとしてShortsで紹介した候補です。収納サイズ、電源タップの収まり、放熱、配線の取り回しを購入前に確認してください。",
@@ -12,7 +27,22 @@
     "shortTitle": "デスク配線整理、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
     "isPr": true,
-    "priority": 46,
+    "priority": 48,
+    "updatedAt": "2026-07-12"
+  },
+  {
+    "id": "s082-02-amazon",
+    "title": "Amazonで探す: デスク下ケーブルトレー",
+    "description": "デスク下ケーブルトレーとしてShortsで紹介した候補です。収納サイズ、電源タップの収まり、放熱、配線の取り回しを購入前に確認してください。",
+    "imageUrl": "./product-placeholder.svg",
+    "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%B9%E3%82%AF%E4%B8%8B+%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%83%88%E3%83%AC%E3%83%BC&tag=satsusubuke-22",
+    "merchant": "Amazon.co.jp",
+    "category": "ケーブル整理",
+    "itemCategory": "デスク下ケーブルトレー",
+    "shortTitle": "プライムデーのデスク用品、買う順番を間違えないで #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=YZMo6aJwE6I",
+    "isPr": true,
+    "priority": 47,
     "updatedAt": "2026-07-12"
   },
   {
@@ -26,6 +56,21 @@
     "itemCategory": "デスク下ケーブルトレー",
     "shortTitle": "デスク配線整理、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
+    "isPr": true,
+    "priority": 46,
+    "updatedAt": "2026-07-12"
+  },
+  {
+    "id": "s082-03-amazon-usb-c-pd-hdmi",
+    "title": "Amazonで探す: USB-Cハブ PD HDMI",
+    "description": "USB-CハブとしてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
+    "imageUrl": "./product-placeholder.svg",
+    "affiliateUrl": "https://www.amazon.co.jp/s?k=USB-C%E3%83%8F%E3%83%96+PD+HDMI&tag=satsusubuke-22",
+    "merchant": "Amazon.co.jp",
+    "category": "USB-Cハブ",
+    "itemCategory": "USB-Cハブ",
+    "shortTitle": "プライムデーのデスク用品、買う順番を間違えないで #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=YZMo6aJwE6I",
     "isPr": true,
     "priority": 45,
     "updatedAt": "2026-07-12"
