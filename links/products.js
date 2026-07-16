@@ -11,7 +11,7 @@
     "itemCategory": "標準デスクでキーボードを収納する構成",
     "shortTitle": "モニター台、横幅だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=e2nRpLuA2_k",
-    "shortStatus": "uploaded_private",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 64,
     "updatedAt": "2026-07-17"
@@ -27,7 +27,7 @@
     "itemCategory": "手元のAC・USBポートもまとめる構成",
     "shortTitle": "モニター台、横幅だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=e2nRpLuA2_k",
-    "shortStatus": "uploaded_private",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 63,
     "updatedAt": "2026-07-17"
@@ -43,7 +43,7 @@
     "itemCategory": "高さを細かく合わせる構成",
     "shortTitle": "モニター台、横幅だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=e2nRpLuA2_k",
-    "shortStatus": "uploaded_private",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 62,
     "updatedAt": "2026-07-17"
