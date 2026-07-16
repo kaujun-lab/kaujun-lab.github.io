@@ -1,6 +1,54 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s087-01-100-mr217bk",
+    "title": "サンワダイレクト 100-MR217BK モニター台",
+    "description": "標準デスクでキーボードを収納する構成としてShortsで紹介した候補です。モニター台座の奥行き、耐荷重、キーボードを置く高さ、デスクの奥行きを購入前に確認してください。",
+    "imageUrl": "./product-placeholder.svg",
+    "affiliateUrl": "https://www.amazon.co.jp/s?k=100-MR217BK&tag=satsusubuke-22",
+    "merchant": "Amazon.co.jp",
+    "category": "モニター台",
+    "itemCategory": "標準デスクでキーボードを収納する構成",
+    "shortTitle": "モニター台、横幅だけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=e2nRpLuA2_k",
+    "shortStatus": "uploaded_private",
+    "isPr": true,
+    "priority": 64,
+    "updatedAt": "2026-07-17"
+  },
+  {
+    "id": "s087-02-100-mr137bk",
+    "title": "サンワダイレクト 100-MR137BK モニター台",
+    "description": "手元のAC・USBポートもまとめる構成としてShortsで紹介した候補です。モニター台座の奥行き、耐荷重、キーボードを置く高さ、デスクの奥行きを購入前に確認してください。",
+    "imageUrl": "./product-placeholder.svg",
+    "affiliateUrl": "https://www.amazon.co.jp/s?k=100-MR137BK&tag=satsusubuke-22",
+    "merchant": "Amazon.co.jp",
+    "category": "モニター台",
+    "itemCategory": "手元のAC・USBポートもまとめる構成",
+    "shortTitle": "モニター台、横幅だけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=e2nRpLuA2_k",
+    "shortStatus": "uploaded_private",
+    "isPr": true,
+    "priority": 63,
+    "updatedAt": "2026-07-17"
+  },
+  {
+    "id": "s087-03-boyata-d2",
+    "title": "BoYata D2 モニター台",
+    "description": "高さを細かく合わせる構成としてShortsで紹介した候補です。モニター台座の奥行き、耐荷重、キーボードを置く高さ、デスクの奥行きを購入前に確認してください。",
+    "imageUrl": "./product-placeholder.svg",
+    "affiliateUrl": "https://www.amazon.co.jp/s?k=BoYata%20D2%20%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E5%8F%B0&tag=satsusubuke-22",
+    "merchant": "Amazon.co.jp",
+    "category": "モニター台",
+    "itemCategory": "高さを細かく合わせる構成",
+    "shortTitle": "モニター台、横幅だけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=e2nRpLuA2_k",
+    "shortStatus": "uploaded_private",
+    "isPr": true,
+    "priority": 62,
+    "updatedAt": "2026-07-17"
+  },
+  {
     "id": "s086-01-anker-usb-power-strip-10-in-1-20",
     "title": "Anker USB Power Strip (10-in-1, 20W)",
     "description": "ACとUSBをまとめる基本構成としてShortsで紹介した候補です。出力W数、ポート数、対応端末、設置場所を購入前に確認してください。",
@@ -11,6 +59,7 @@
     "itemCategory": "ACとUSBをまとめる基本構成",
     "shortTitle": "電源タップ、口数だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=YzE0X1NGEaE",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 61,
     "updatedAt": "2026-07-16"
@@ -26,6 +75,7 @@
     "itemCategory": "基本構成 / 4K@30Hz",
     "shortTitle": "USB-Cハブ、PDのW数だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=prOR5pSejcE",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 60,
     "updatedAt": "2026-07-16"
@@ -41,6 +91,7 @@
     "itemCategory": "AC差込口を多く使う構成",
     "shortTitle": "電源タップ、口数だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=YzE0X1NGEaE",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 59,
     "updatedAt": "2026-07-16"
@@ -56,6 +107,7 @@
     "itemCategory": "PC専用 / 5-in-1",
     "shortTitle": "USB-Cハブ、PDのW数だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=prOR5pSejcE",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 58,
     "updatedAt": "2026-07-16"
@@ -71,6 +123,7 @@
     "itemCategory": "天板クランプとUSB-C給電を優先する構成",
     "shortTitle": "電源タップ、口数だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=YzE0X1NGEaE",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 57,
     "updatedAt": "2026-07-16"
@@ -86,6 +139,7 @@
     "itemCategory": "高出力仕様 / 4K@60Hz",
     "shortTitle": "USB-Cハブ、PDのW数だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=prOR5pSejcE",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 56,
     "updatedAt": "2026-07-16"
@@ -101,6 +155,7 @@
     "itemCategory": "モニターライト",
     "shortTitle": "モニターライト、値段だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=MHSdPhBmYCs",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 55,
     "updatedAt": "2026-07-13"
@@ -116,6 +171,7 @@
     "itemCategory": "バックライト付きモニターライト",
     "shortTitle": "モニターライト、値段だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=MHSdPhBmYCs",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 54,
     "updatedAt": "2026-07-13"
@@ -131,6 +187,7 @@
     "itemCategory": "上位モニターライト",
     "shortTitle": "モニターライト、値段だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=MHSdPhBmYCs",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 53,
     "updatedAt": "2026-07-13"
@@ -146,6 +203,7 @@
     "itemCategory": "外付けキーボード",
     "shortTitle": "ノートPC外付け、安い順で買うとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=1G6s41VSCkQ",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 52,
     "updatedAt": "2026-07-12"
@@ -161,6 +219,7 @@
     "itemCategory": "モニターライト",
     "shortTitle": "プライムデーのデスク用品、買う順番を間違えないで #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=YZMo6aJwE6I",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 51,
     "updatedAt": "2026-07-12"
@@ -176,6 +235,7 @@
     "itemCategory": "ケーブル収納ボックス",
     "shortTitle": "デスク配線整理、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 50,
     "updatedAt": "2026-07-12"
@@ -191,6 +251,7 @@
     "itemCategory": "ワイヤレスマウス",
     "shortTitle": "ノートPC外付け、安い順で買うとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=1G6s41VSCkQ",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 49,
     "updatedAt": "2026-07-12"
@@ -206,6 +267,7 @@
     "itemCategory": "デスク下ケーブルトレー",
     "shortTitle": "プライムデーのデスク用品、買う順番を間違えないで #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=YZMo6aJwE6I",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 48,
     "updatedAt": "2026-07-12"
@@ -221,6 +283,7 @@
     "itemCategory": "デスク下ケーブルトレー",
     "shortTitle": "デスク配線整理、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 47,
     "updatedAt": "2026-07-12"
@@ -236,6 +299,7 @@
     "itemCategory": "USB-Cハブ",
     "shortTitle": "ノートPC外付け、安い順で買うとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=1G6s41VSCkQ",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 46,
     "updatedAt": "2026-07-12"
@@ -251,6 +315,7 @@
     "itemCategory": "USB-Cハブ",
     "shortTitle": "プライムデーのデスク用品、買う順番を間違えないで #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=YZMo6aJwE6I",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 45,
     "updatedAt": "2026-07-12"
@@ -266,6 +331,7 @@
     "itemCategory": "ケーブルホルダー",
     "shortTitle": "デスク配線整理、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 44,
     "updatedAt": "2026-07-12"
@@ -281,6 +347,7 @@
     "itemCategory": "外付けキーボード",
     "shortTitle": "ノートPC作業、スタンド化したらこの3つも見直して #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=2TpPLRQwItw",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 43,
     "updatedAt": "2026-07-11"
@@ -296,6 +363,7 @@
     "itemCategory": "ワイヤレスマウス",
     "shortTitle": "ノートPC作業、スタンド化したらこの3つも見直して #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=2TpPLRQwItw",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 42,
     "updatedAt": "2026-07-11"
@@ -311,6 +379,7 @@
     "itemCategory": "USB-Cハブ",
     "shortTitle": "ノートPC作業、スタンド化したらこの3つも見直して #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=2TpPLRQwItw",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 41,
     "updatedAt": "2026-07-11"
@@ -326,6 +395,7 @@
     "itemCategory": "折りたたみノートPCスタンド",
     "shortTitle": "ノートPCスタンド、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 40,
     "updatedAt": "2026-07-10"
@@ -341,6 +411,7 @@
     "itemCategory": "USB-Cハブ 7-in-1",
     "shortTitle": "USB-Cハブ、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=J8-RtFnJd10",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 39,
     "updatedAt": "2026-07-10"
@@ -356,6 +427,7 @@
     "itemCategory": "高さ調整ノートPCスタンド",
     "shortTitle": "ノートPCスタンド、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 38,
     "updatedAt": "2026-07-10"
@@ -371,6 +443,7 @@
     "itemCategory": "4K60Hz HDMI対応USB-Cハブ",
     "shortTitle": "USB-Cハブ、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=J8-RtFnJd10",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 37,
     "updatedAt": "2026-07-10"
@@ -386,6 +459,7 @@
     "itemCategory": "冷却台タイプノートPCスタンド",
     "shortTitle": "ノートPCスタンド、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 36,
     "updatedAt": "2026-07-10"
@@ -401,6 +475,7 @@
     "itemCategory": "有線LAN付きUSB-Cハブ",
     "shortTitle": "USB-Cハブ、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=J8-RtFnJd10",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 35,
     "updatedAt": "2026-07-10"
@@ -416,6 +491,7 @@
     "itemCategory": "ガススプリング式モニターアーム",
     "shortTitle": "モニターアーム、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=37gZZ8Bz1_M",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 34,
     "updatedAt": "2026-07-08"
@@ -431,6 +507,7 @@
     "itemCategory": "高耐荷重モニターアーム",
     "shortTitle": "モニターアーム、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=37gZZ8Bz1_M",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 33,
     "updatedAt": "2026-07-08"
@@ -446,6 +523,7 @@
     "itemCategory": "省スペースシングルモニターアーム",
     "shortTitle": "モニターアーム、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=37gZZ8Bz1_M",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 32,
     "updatedAt": "2026-07-08"
@@ -461,6 +539,7 @@
     "itemCategory": "27インチ4K USB-Cモニター",
     "shortTitle": "4Kモニター、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=D9QYV36Br2s",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 31,
     "updatedAt": "2026-07-07"
@@ -476,6 +555,7 @@
     "itemCategory": "27インチWQHD比較候補",
     "shortTitle": "4Kモニター、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=D9QYV36Br2s",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 30,
     "updatedAt": "2026-07-07"
@@ -491,6 +571,7 @@
     "itemCategory": "24インチFHD比較候補",
     "shortTitle": "4Kモニター、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=D9QYV36Br2s",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 29,
     "updatedAt": "2026-07-07"
@@ -506,6 +587,7 @@
     "itemCategory": "24インチ標準モニター",
     "shortTitle": "デスクトップモニター、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=MXArN2xXicA",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 28,
     "updatedAt": "2026-07-06"
@@ -521,6 +603,7 @@
     "itemCategory": "27インチ作業用モニター",
     "shortTitle": "デスクトップモニター、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=MXArN2xXicA",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 27,
     "updatedAt": "2026-07-06"
@@ -536,6 +619,7 @@
     "itemCategory": "USB-C/高さ調整モニター",
     "shortTitle": "デスクトップモニター、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=MXArN2xXicA",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 26,
     "updatedAt": "2026-07-06"
@@ -551,6 +635,7 @@
     "itemCategory": "曲面モニター向けライト",
     "shortTitle": "モニターライト、曲面モニターは買う前にこの3つ #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=Ku6Ainy7BIA",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 25,
     "updatedAt": "2026-07-05"
@@ -566,6 +651,7 @@
     "itemCategory": "自動調光モニターライト",
     "shortTitle": "モニターライト、曲面モニターは買う前にこの3つ #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=Ku6Ainy7BIA",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 24,
     "updatedAt": "2026-07-05"
@@ -581,6 +667,7 @@
     "itemCategory": "低価格モニターライト",
     "shortTitle": "モニターライト、曲面モニターは買う前にこの3つ #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=Ku6Ainy7BIA",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 23,
     "updatedAt": "2026-07-05"
@@ -596,6 +683,7 @@
     "itemCategory": "クリップ式デスクライト",
     "shortTitle": "クリップ式デスクライト、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=cLeo3SzwjYw",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 22,
     "updatedAt": "2026-06-30"
@@ -611,6 +699,7 @@
     "itemCategory": "クリップ式デスクライト",
     "shortTitle": "デスクライト、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=gFRPB7CyreU",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 21,
     "updatedAt": "2026-06-30"
@@ -626,6 +715,7 @@
     "itemCategory": "高レビュークリップライト",
     "shortTitle": "クリップ式デスクライト、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=cLeo3SzwjYw",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 20,
     "updatedAt": "2026-06-30"
@@ -641,6 +731,7 @@
     "itemCategory": "スタンド式デスクライト",
     "shortTitle": "デスクライト、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=gFRPB7CyreU",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 19,
     "updatedAt": "2026-06-30"
@@ -656,6 +747,7 @@
     "itemCategory": "アーム付きクリップライト",
     "shortTitle": "クリップ式デスクライト、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=cLeo3SzwjYw",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 18,
     "updatedAt": "2026-06-30"
@@ -671,6 +763,7 @@
     "itemCategory": "アーム式デスクライト",
     "shortTitle": "デスクライト、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=gFRPB7CyreU",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 17,
     "updatedAt": "2026-06-30"
@@ -686,6 +779,7 @@
     "itemCategory": "省スペースライト",
     "shortTitle": "デスクライト、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=gFRPB7CyreU",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 16,
     "updatedAt": "2026-06-30"
@@ -701,6 +795,7 @@
     "itemCategory": "モニターライト",
     "shortTitle": "モニターライトかデスクライト、買う前に見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=TosLYOCdOm4",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 15,
     "updatedAt": "2026-06-27"
@@ -716,6 +811,7 @@
     "itemCategory": "モニターライト",
     "shortTitle": "モニターライトかデスクライト、買う前に見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=TosLYOCdOm4",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 14,
     "updatedAt": "2026-06-27"
@@ -731,6 +827,7 @@
     "itemCategory": "デスクライト",
     "shortTitle": "モニターライトかデスクライト、買う前に見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=TosLYOCdOm4",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 13,
     "updatedAt": "2026-06-27"
@@ -746,6 +843,7 @@
     "itemCategory": "モニターライト/デスクライト",
     "shortTitle": "買う前に見て。AIが選んだ後悔しやすいデスク用品 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=nbT1nysOhpA",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 12,
     "updatedAt": "2026-06-23"
@@ -761,6 +859,7 @@
     "itemCategory": "モニターライト",
     "shortTitle": "モニターライト、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=9GkA-fnYZUA",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 11,
     "updatedAt": "2026-06-23"
@@ -776,6 +875,7 @@
     "itemCategory": "ケーブル収納ボックス",
     "shortTitle": "ケーブルボックス、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=kJgQ6BhywAs",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 10,
     "updatedAt": "2026-06-23"
@@ -791,6 +891,7 @@
     "itemCategory": "ケーブル整理クリップ",
     "shortTitle": "買う前に見て。AIが選んだ後悔しやすいデスク用品 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=nbT1nysOhpA",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 9,
     "updatedAt": "2026-06-23"
@@ -806,6 +907,7 @@
     "itemCategory": "モニターライト",
     "shortTitle": "モニターライト、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=9GkA-fnYZUA",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 8,
     "updatedAt": "2026-06-23"
@@ -821,6 +923,7 @@
     "itemCategory": "デスク下ケーブルトレー",
     "shortTitle": "ケーブルボックス、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=kJgQ6BhywAs",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 7,
     "updatedAt": "2026-06-23"
@@ -836,6 +939,7 @@
     "itemCategory": "ワイヤレスマウス",
     "shortTitle": "買う前に見て。AIが選んだ後悔しやすいデスク用品 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=nbT1nysOhpA",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 6,
     "updatedAt": "2026-06-23"
@@ -851,6 +955,7 @@
     "itemCategory": "モニターライト",
     "shortTitle": "モニターライト、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=9GkA-fnYZUA",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 5,
     "updatedAt": "2026-06-23"
@@ -866,6 +971,7 @@
     "itemCategory": "ケーブルホルダー",
     "shortTitle": "ケーブルボックス、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=kJgQ6BhywAs",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 4,
     "updatedAt": "2026-06-23"
@@ -881,6 +987,7 @@
     "itemCategory": "低価格キーボード",
     "shortTitle": "買う前に見て。AIが選んだ後悔しやすいデスク用品 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=nbT1nysOhpA",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 3,
     "updatedAt": "2026-06-23"
@@ -896,6 +1003,7 @@
     "itemCategory": "デスクライト",
     "shortTitle": "モニターライト、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=9GkA-fnYZUA",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 2,
     "updatedAt": "2026-06-23"
@@ -911,6 +1019,7 @@
     "itemCategory": "USB充電器",
     "shortTitle": "買う前に見て。AIが選んだ後悔しやすいデスク用品 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=nbT1nysOhpA",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 1,
     "updatedAt": "2026-06-23"
