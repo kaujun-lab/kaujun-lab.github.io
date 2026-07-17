@@ -13,7 +13,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=e2nRpLuA2_k",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 70,
+    "priority": 73,
     "updatedAt": "2026-07-17"
   },
   {
@@ -29,7 +29,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=UD6nUKnMV9E",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 69,
+    "priority": 72,
     "updatedAt": "2026-07-17"
   },
   {
@@ -45,7 +45,23 @@
     "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 68,
+    "priority": 71,
+    "updatedAt": "2026-07-17"
+  },
+  {
+    "id": "s091-01-logicool-pebble-keys-2-k380s",
+    "title": "Logicool Pebble Keys 2 K380s",
+    "description": "コンパクト乾電池式キーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k380sgr/k380sgr_r_.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk380sgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000560%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "ロジクール 公式ストア",
+    "category": "入力機器",
+    "itemCategory": "コンパクト乾電池式キーボード",
+    "shortTitle": "ワイヤレスキーボード、薄さだけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=VzGLiokVMPI",
+    "shortStatus": "uploaded_private",
+    "isPr": true,
+    "priority": 70,
     "updatedAt": "2026-07-17"
   },
   {
@@ -61,7 +77,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=e2nRpLuA2_k",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 67,
+    "priority": 69,
     "updatedAt": "2026-07-17"
   },
   {
@@ -77,7 +93,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=UD6nUKnMV9E",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 66,
+    "priority": 68,
     "updatedAt": "2026-07-17"
   },
   {
@@ -93,7 +109,23 @@
     "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 65,
+    "priority": 67,
+    "updatedAt": "2026-07-17"
+  },
+  {
+    "id": "s091-02-logicool-signature-slim-k950",
+    "title": "Logicool Signature Slim K950",
+    "description": "テンキー付きフルサイズキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k950/k950gr_n.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk950gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000595%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "ロジクール 公式ストア",
+    "category": "入力機器",
+    "itemCategory": "テンキー付きフルサイズキーボード",
+    "shortTitle": "ワイヤレスキーボード、薄さだけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=VzGLiokVMPI",
+    "shortStatus": "uploaded_private",
+    "isPr": true,
+    "priority": 66,
     "updatedAt": "2026-07-17"
   },
   {
@@ -109,7 +141,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=e2nRpLuA2_k",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 64,
+    "priority": 65,
     "updatedAt": "2026-07-17"
   },
   {
@@ -125,7 +157,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=UD6nUKnMV9E",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 63,
+    "priority": 64,
     "updatedAt": "2026-07-17"
   },
   {
@@ -139,6 +171,22 @@
     "itemCategory": "60fps対応ストリーミングカメラ",
     "shortTitle": "Webカメラ、画素数だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
+    "shortStatus": "uploaded_private",
+    "isPr": true,
+    "priority": 63,
+    "updatedAt": "2026-07-17"
+  },
+  {
+    "id": "s091-03-logicool-mx-keys-mini-kx700",
+    "title": "Logicool MX Keys Mini KX700",
+    "description": "充電式イルミネーションキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/kx700gr/kx700gr_01_r.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fkx700gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000432%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "ロジクール 公式ストア",
+    "category": "入力機器",
+    "itemCategory": "充電式イルミネーションキーボード",
+    "shortTitle": "ワイヤレスキーボード、薄さだけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=VzGLiokVMPI",
     "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 62,
