@@ -4,7 +4,14 @@
 
 ## 公開URL
 
-推奨URL:
+現在の公開URL:
+
+```text
+https://kaujun-lab.github.io/
+https://kaujun-lab.github.io/links/
+```
+
+将来、独自ドメインを設定する場合の推奨URL:
 
 ```text
 https://kaujun-lab.com/links/
@@ -13,7 +20,7 @@ https://kaujun-lab.com/links/
 運用:
 
 - Shorts内の案内: `商品リンクはプロフィールから`
-- YouTubeチャンネルプロフィール: `https://kaujun-lab.com/links/`
+- YouTubeチャンネルプロフィール: まずは `https://kaujun-lab.github.io/links/`
 - 商品一覧ページ: `links/index.html`
 
 ## 商品データの更新
@@ -71,6 +78,12 @@ py scripts\build_links_products.py
 - `merchant`
 - `category`
 - `short_title`
+
+## 表示と公開状態
+
+- ページ上部は、最新の紹介テーマ、カテゴリチップ、キーワード検索、並び替えを優先して表示します。スマホではカテゴリチップを横スクロールして絞り込めます。
+- `Status=uploaded_private` のShortsは商品カードへ掲載しても「紹介動画は公開準備中」と表示し、視聴できないYouTube動画へのリンクを出しません。
+- 公開後は `05_tracking/growth_sprint_1_shorts_registry.csv` の該当行を `public` に更新すると、次回の生成で「紹介動画を開く」リンクが有効になります。
 
 ## 検証
 
