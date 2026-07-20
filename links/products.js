@@ -1,6 +1,54 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s088-01-mot-crbl360-led",
+    "title": "MOT-CRBL360 クリップ式LEDデスクライト",
+    "description": "省スペースな充電式クリップライトとしてShortsで紹介した候補です。設置スペース、明るさ、角度調整、給電方法を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/hotprice/cabinet/12000/crbl360_1.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sl7wn.k9qwp74e.g00sl7wn.k9qwqcc8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhotprice%2Fmot04678%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhotprice%2Fi%2F10005022%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "ほっとプライス 楽天市場店",
+    "category": "デスクライト",
+    "itemCategory": "省スペースな充電式クリップライト",
+    "shortTitle": "デスクライト、明るさだけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=Mu3Ma9d7gUw",
+    "shortStatus": "public",
+    "isPr": true,
+    "priority": 76,
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "s088-02-ankoo-td-3w",
+    "title": "Ankoo TD-3W クリップ式デスクライト",
+    "description": "調光・調色対応のクリップライトとしてShortsで紹介した候補です。設置スペース、明るさ、角度調整、給電方法を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/shopapalus/cabinet/desk-light/desklight-cp.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00syo5n.k9qwp6b4.g00syo5n.k9qwqe8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopapalus%2Ftd-3w-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopapalus%2Fi%2F10000025%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "Ankoo",
+    "category": "デスクライト",
+    "itemCategory": "調光・調色対応のクリップライト",
+    "shortTitle": "デスクライト、明るさだけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=Mu3Ma9d7gUw",
+    "shortStatus": "public",
+    "isPr": true,
+    "priority": 75,
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "s088-03-ankoo-led",
+    "title": "Ankoo LEDアーム式クリップライト",
+    "description": "照射位置を動かしやすいアーム式ライトとしてShortsで紹介した候補です。設置スペース、明るさ、角度調整、給電方法を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/shopapalus/cabinet/09909388/led-amlight-s2.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00syo5n.k9qwp6b4.g00syo5n.k9qwqe8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopapalus%2Fdesk-light-04%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopapalus%2Fi%2F10000543%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "Ankoo",
+    "category": "デスクライト",
+    "itemCategory": "照射位置を動かしやすいアーム式ライト",
+    "shortTitle": "デスクライト、明るさだけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=Mu3Ma9d7gUw",
+    "shortStatus": "public",
+    "isPr": true,
+    "priority": 74,
+    "updatedAt": "2026-07-21"
+  },
+  {
     "id": "s087-01-100-mr217bk",
     "title": "サンワダイレクト 100-MR217BK モニター台",
     "description": "標準デスクでキーボードを収納する構成としてShortsで紹介した候補です。モニター台座の奥行き、耐荷重、キーボードを置く高さ、デスクの奥行きを購入前に確認してください。",
@@ -27,7 +75,7 @@
     "itemCategory": "薄型コンパクトマウス",
     "shortTitle": "ワイヤレスマウス、静音だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=UD6nUKnMV9E",
-    "shortStatus": "uploaded_private",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 72,
     "updatedAt": "2026-07-17"
@@ -43,7 +91,7 @@
     "itemCategory": "固定フォーカスHDカメラ",
     "shortTitle": "Webカメラ、画素数だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
-    "shortStatus": "uploaded_private",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 71,
     "updatedAt": "2026-07-17"
@@ -59,7 +107,7 @@
     "itemCategory": "コンパクト乾電池式キーボード",
     "shortTitle": "ワイヤレスキーボード、薄さだけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=VzGLiokVMPI",
-    "shortStatus": "uploaded_private",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 70,
     "updatedAt": "2026-07-17"
@@ -91,7 +139,7 @@
     "itemCategory": "標準サイズ静音マウス",
     "shortTitle": "ワイヤレスマウス、静音だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=UD6nUKnMV9E",
-    "shortStatus": "uploaded_private",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 68,
     "updatedAt": "2026-07-17"
@@ -107,7 +155,7 @@
     "itemCategory": "オートフォーカスFull HDカメラ",
     "shortTitle": "Webカメラ、画素数だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
-    "shortStatus": "uploaded_private",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 67,
     "updatedAt": "2026-07-17"
@@ -123,7 +171,7 @@
     "itemCategory": "テンキー付きフルサイズキーボード",
     "shortTitle": "ワイヤレスキーボード、薄さだけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=VzGLiokVMPI",
-    "shortStatus": "uploaded_private",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 66,
     "updatedAt": "2026-07-17"
@@ -155,7 +203,7 @@
     "itemCategory": "縦型エルゴノミックマウス",
     "shortTitle": "ワイヤレスマウス、静音だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=UD6nUKnMV9E",
-    "shortStatus": "uploaded_private",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 64,
     "updatedAt": "2026-07-17"
@@ -171,7 +219,7 @@
     "itemCategory": "60fps対応ストリーミングカメラ",
     "shortTitle": "Webカメラ、画素数だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
-    "shortStatus": "uploaded_private",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 63,
     "updatedAt": "2026-07-17"
@@ -187,7 +235,7 @@
     "itemCategory": "充電式イルミネーションキーボード",
     "shortTitle": "ワイヤレスキーボード、薄さだけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=VzGLiokVMPI",
-    "shortStatus": "uploaded_private",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 62,
     "updatedAt": "2026-07-17"
