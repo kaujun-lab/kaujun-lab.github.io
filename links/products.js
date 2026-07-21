@@ -13,7 +13,23 @@
     "shortUrl": "https://www.youtube.com/watch?v=Mu3Ma9d7gUw",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 76,
+    "priority": 79,
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "s093-01-elecom-esd-ewc0500gbk",
+    "title": "ELECOM ESD-EWC0500GBK",
+    "description": "Type-A・Type-C一体型ポータブルSSD 500GBとしてShortsで紹介した候補です。サイズ、置き場所、毎日の使いやすさを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elecom/cabinet/s500_28/esd-ewc0500gbk_03r.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkoxn.k9qwpe11.g00pkoxn.k9qwqd7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F4549550343169%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10066530%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "エレコムダイレクトショップ",
+    "category": "デスク用品",
+    "itemCategory": "Type-A・Type-C一体型ポータブルSSD 500GB",
+    "shortTitle": "外付けSSD、容量だけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=OqX7vpwF33o",
+    "shortStatus": "uploaded_private",
+    "isPr": true,
+    "priority": 78,
     "updatedAt": "2026-07-21"
   },
   {
@@ -29,7 +45,23 @@
     "shortUrl": "https://www.youtube.com/watch?v=Mu3Ma9d7gUw",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 75,
+    "priority": 77,
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "s093-02-elecom-esd-epa0500gsv",
+    "title": "ELECOM ESD-EPA0500GSV",
+    "description": "回転カバー付きポータブルSSD 500GBとしてShortsで紹介した候補です。サイズ、置き場所、毎日の使いやすさを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elecom/cabinet/s500_27/esd-epa0500gsv_03r.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkoxn.k9qwpe11.g00pkoxn.k9qwqd7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F4549550316729%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10064929%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "エレコムダイレクトショップ",
+    "category": "デスク用品",
+    "itemCategory": "回転カバー付きポータブルSSD 500GB",
+    "shortTitle": "外付けSSD、容量だけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=OqX7vpwF33o",
+    "shortStatus": "uploaded_private",
+    "isPr": true,
+    "priority": 76,
     "updatedAt": "2026-07-21"
   },
   {
@@ -44,6 +76,22 @@
     "shortTitle": "デスクライト、明るさだけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=Mu3Ma9d7gUw",
     "shortStatus": "public",
+    "isPr": true,
+    "priority": 75,
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "s093-03-lacie-rugged-mini-ssd-stmf500400",
+    "title": "LaCie Rugged Mini SSD STMF500400",
+    "description": "ケーブル式耐衝撃ポータブルSSD 500GBとしてShortsで紹介した候補です。収納サイズ、電源タップの収まり、放熱、配線の取り回しを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elecom/cabinet/s500_27/stmf500400_03r.jpg?_ex=128x128",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkoxn.k9qwpe11.g00pkoxn.k9qwqd7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F8719706044684%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10064995%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+    "merchant": "エレコムダイレクトショップ",
+    "category": "ケーブル整理",
+    "itemCategory": "ケーブル式耐衝撃ポータブルSSD 500GB",
+    "shortTitle": "外付けSSD、容量だけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=OqX7vpwF33o",
+    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 74,
     "updatedAt": "2026-07-21"
