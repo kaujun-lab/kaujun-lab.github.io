@@ -288,58 +288,11 @@
       color: #ffffff;
     }
 
-    .store-filter {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      margin: 2px 0 9px;
-    }
-
-    .store-filter-label {
-      flex: 0 0 auto;
+    .marketplace-note {
+      margin: 2px 0 10px;
       color: var(--muted);
-      font-size: 11px;
-      font-weight: 900;
-    }
-
-    .store-rail {
-      display: flex;
-      gap: 7px;
-      min-width: 0;
-      overflow-x: auto;
-      padding: 2px 1px;
-      scrollbar-width: thin;
-    }
-
-    .store-chip {
-      flex: 0 0 auto;
-      min-height: 34px;
-      padding: 6px 11px;
-      border: 1px solid var(--line);
-      border-radius: 6px;
-      background: var(--surface);
-      color: var(--ink);
       font-size: 12px;
-      font-weight: 900;
-    }
-
-    .store-chip[data-store="amazon"][aria-pressed="true"] {
-      border-color: #c87800;
-      background: #ff9900;
-      color: #161e2d;
-    }
-
-    .store-chip[data-store="rakuten"][aria-pressed="true"] {
-      border-color: #a80b22;
-      background: #bf0000;
-      color: #ffffff;
-    }
-
-    .store-chip[data-store="all"][aria-pressed="true"],
-    .store-chip[data-store="other"][aria-pressed="true"] {
-      border-color: var(--teal);
-      background: var(--teal);
-      color: #ffffff;
+      font-weight: 800;
     }
 
     .query-row {
@@ -561,6 +514,13 @@
       background: #fbfcfc;
     }
 
+    .offer-actions {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 8px;
+      min-width: 0;
+    }
+
     .source-line {
       min-width: 0;
       color: var(--muted);
@@ -605,6 +565,8 @@
       font-size: 14px;
       font-weight: 900;
       text-decoration: none;
+      min-width: 0;
+      white-space: nowrap;
     }
 
     .cta:hover { background: #084b46; }
@@ -662,7 +624,6 @@
     .footer-note strong { color: var(--ink); }
 
     .category-chip:focus-visible,
-    .store-chip:focus-visible,
     .search-input:focus-visible,
     .sort-select:focus-visible,
     .clear-search:focus-visible,
@@ -672,6 +633,21 @@
     .channel-link:focus-visible {
       outline: 3px solid var(--focus);
       outline-offset: 2px;
+    }
+
+    @media (max-width: 699px) {
+      .cta {
+        gap: 6px;
+        min-height: 50px;
+        padding: 9px;
+        font-size: 13px;
+      }
+
+      .cta-arrow { font-size: 16px; }
+    }
+
+    @media (max-width: 359px) {
+      .offer-actions { grid-template-columns: 1fr; }
     }
 
     @media (min-width: 700px) {
@@ -697,9 +673,9 @@
 
       .card-details { margin: 12px 16px 0 152px; }
 
-      .card-footer { grid-template-columns: minmax(0, 1fr) 228px; align-items: center; padding: 13px 16px; }
+      .card-footer { grid-template-columns: minmax(0, 1fr) minmax(340px, 430px); align-items: center; padding: 13px 16px; }
 
-      .cta { min-width: 228px; }
+      .cta { min-width: 0; }
     }
   </style>
 </head>
@@ -720,7 +696,7 @@
         <div>
           <p class="eyebrow">YouTube Shorts product guide</p>
           <h1>ショートで紹介した<br>デスク用品一覧</h1>
-          <p class="lead">動画で触れた商品と、購入前に確認したいポイントをまとめています。AIリサーチを起点に、用途・サイズ・対応機器の順で比較しやすく整理しています。</p>
+          <p class="lead">動画で触れた商品と、購入前に確認したいポイントをまとめています。各商品から楽天市場とAmazonの両方を確認できます。</p>
         </div>
         <aside class="latest-theme" aria-label="最新の紹介テーマ">
           <p class="latest-kicker">LATEST SHORTS TOPIC</p>
@@ -742,10 +718,7 @@
         <p class="result-count" id="resultCount" aria-live="polite">商品を読み込み中です。</p>
       </div>
       <div class="category-rail" id="categoryRail" role="group" aria-label="カテゴリで絞り込む"></div>
-      <div class="store-filter">
-        <span class="store-filter-label">購入先</span>
-        <div class="store-rail" id="storeRail" role="group" aria-label="購入先で絞り込む"></div>
-      </div>
+      <p class="marketplace-note">全商品に楽天市場とAmazonの購入先を掲載しています。「Amazonで探す」はAmazon内の商品名検索を開きます。</p>
       <div class="query-row">
         <div class="search-wrap">
           <label for="searchInput">商品名・用途で検索</label>
@@ -773,20 +746,20 @@
 
     <section class="footer-note" aria-label="利用上の注意">
       <p><strong>掲載方針:</strong> 商品説明は、動画で整理した比較軸と購入前の確認点です。価格、在庫、性能、適合を保証するものではありません。購入前に販売ページの最新情報をご確認ください。</p>
-      <p><strong>広告表示:</strong> 商品カードに「PR / アフィリエイトリンク」とある楽天市場・Amazon等のリンクは広告を含みます。リンク先は各販売ページです。</p>
+      <p><strong>広告表示:</strong> 商品カードに「PR / アフィリエイトリンク」とある楽天市場・Amazon等のリンクは広告を含みます。リンク先は販売ページまたは商品検索結果です。</p>
+      <p><strong>Amazonリンク:</strong> 「Amazonで探す」は商品名によるAmazon内検索です。検索結果の商品名・型番・販売元をご確認ください。</p>
       <p><strong>Amazonアソシエイト:</strong> Amazonのアソシエイトとして、買う順ラボは適格販売により収入を得ています。</p>
       <p><strong>YouTube導線:</strong> Shorts内では「商品リンクはプロフィールから」と案内し、チャンネルプロフィールにはこのページURLを設定します。</p>
     </section>
   </main>
 
-  <script src="./products.js?v=20260722-marketplace"></script>
+  <script src="./products.js?v=20260722-dual-offers"></script>
   <script src="./analytics.js"></script>
   <script>
     (function () {
       var products = Array.isArray(window.KAUJUN_PRODUCTS) ? window.KAUJUN_PRODUCTS.slice() : [];
       var productList = document.getElementById("productList");
       var categoryRail = document.getElementById("categoryRail");
-      var storeRail = document.getElementById("storeRail");
       var searchInput = document.getElementById("searchInput");
       var clearSearch = document.getElementById("clearSearch");
       var sortOrder = document.getElementById("sortOrder");
@@ -798,7 +771,6 @@
       var latestTitle = document.getElementById("latestTitle");
       var latestMeta = document.getElementById("latestMeta");
       var selectedCategory = "all";
-      var selectedStore = "all";
       var linkRel = "sponsored nofollow noopener noreferrer";
 
       function formatDate(value) {
@@ -836,7 +808,10 @@
 
       function matchesSearch(product, query) {
         if (!query) return true;
-        var haystack = [product.title, product.description, product.category, product.itemCategory, product.merchant, product.storeLabel, product.shortTitle].join(" ").toLowerCase();
+        var offerText = (product.offers || []).map(function (offer) {
+          return [offer.storeLabel, offer.merchant].join(" ");
+        }).join(" ");
+        var haystack = [product.title, product.description, product.category, product.itemCategory, product.merchant, product.shortTitle, offerText].join(" ").toLowerCase();
         return haystack.indexOf(query.toLowerCase()) >= 0;
       }
 
@@ -846,49 +821,6 @@
 
       function isPrivateShort(product) {
         return product.shortStatus !== "public";
-      }
-
-      function storeCtaLabel(product) {
-        if (product.store === "amazon") return "Amazonで見る";
-        if (product.store === "rakuten") return "楽天市場で見る";
-        return product.storeLabel + "で見る";
-      }
-
-      function storeCounts() {
-        return products.reduce(function (counts, product) {
-          counts[product.store] = (counts[product.store] || 0) + 1;
-          return counts;
-        }, {});
-      }
-
-      function createStoreChip(value, label, count) {
-        var chip = document.createElement("button");
-        chip.type = "button";
-        chip.className = "store-chip";
-        chip.dataset.store = value;
-        chip.setAttribute("aria-pressed", String(selectedStore === value));
-        chip.textContent = label + " " + count;
-        chip.addEventListener("click", function () {
-          selectedStore = value;
-          updateStoreChips();
-          renderProducts();
-        });
-        return chip;
-      }
-
-      function populateStoreChips() {
-        var counts = storeCounts();
-        storeRail.textContent = "";
-        storeRail.appendChild(createStoreChip("all", "すべて", products.length));
-        if (counts.amazon) storeRail.appendChild(createStoreChip("amazon", "Amazon", counts.amazon));
-        if (counts.rakuten) storeRail.appendChild(createStoreChip("rakuten", "楽天市場", counts.rakuten));
-        if (counts.other) storeRail.appendChild(createStoreChip("other", "その他", counts.other));
-      }
-
-      function updateStoreChips() {
-        Array.prototype.forEach.call(storeRail.querySelectorAll(".store-chip"), function (chip) {
-          chip.setAttribute("aria-pressed", String(chip.dataset.store === selectedStore));
-        });
       }
 
       function createCategoryChip(value, label) {
@@ -949,7 +881,8 @@
         var badges = document.createElement("div");
         badges.className = "badges";
         if (product.isPr) badges.appendChild(createTextElement("span", "badge badge-pr", "PR / アフィリエイトリンク"));
-        badges.appendChild(createTextElement("span", "badge badge-store-" + product.store, product.storeLabel));
+        badges.appendChild(createTextElement("span", "badge badge-store-rakuten", "楽天市場"));
+        badges.appendChild(createTextElement("span", "badge badge-store-amazon", "Amazon"));
         badges.appendChild(createTextElement("span", "badge badge-category", product.category));
         if (product.updatedAt === newestUpdatedAt) badges.appendChild(createTextElement("span", "badge badge-new", "最新更新"));
 
@@ -962,7 +895,7 @@
         var details = document.createElement("div");
         details.className = "card-details";
         details.appendChild(createTextElement("span", "", "比較軸: " + product.itemCategory));
-        details.appendChild(createTextElement("span", "", "購入先: " + product.storeLabel + " / 販売元: " + product.merchant + " / 更新: " + formatDate(product.updatedAt)));
+        details.appendChild(createTextElement("span", "", "楽天販売元: " + product.merchant + " / 更新: " + formatDate(product.updatedAt)));
 
         var footer = document.createElement("div");
         footer.className = "card-footer";
@@ -981,23 +914,30 @@
           source.appendChild(shortLink);
         }
 
-        var cta = document.createElement("a");
-        cta.className = "cta cta-" + product.store;
-        cta.href = product.affiliateUrl;
-        cta.target = "_blank";
-        cta.rel = linkRel;
-        cta.dataset.productId = product.id;
-        cta.setAttribute("aria-label", product.title + "を" + product.storeLabel + "で見る。アフィリエイトリンクです。");
-        cta.appendChild(createTextElement("span", "", storeCtaLabel(product)));
-        cta.appendChild(createTextElement("span", "cta-arrow", "→"));
-        cta.addEventListener("click", function () {
-          if (window.KaujunAnalytics && typeof window.KaujunAnalytics.trackAffiliateClick === "function") {
-            window.KaujunAnalytics.trackAffiliateClick(product);
-          }
+        var offerActions = document.createElement("div");
+        offerActions.className = "offer-actions";
+        (product.offers || []).forEach(function (offer) {
+          var cta = document.createElement("a");
+          cta.className = "cta cta-" + offer.store;
+          cta.href = offer.affiliateUrl;
+          cta.target = "_blank";
+          cta.rel = linkRel;
+          cta.dataset.productId = product.id;
+          cta.dataset.store = offer.store;
+          cta.dataset.linkType = offer.linkType;
+          cta.setAttribute("aria-label", product.title + "を" + offer.storeLabel + (offer.linkType === "search" ? "で探す" : "で見る") + "。アフィリエイトリンクです。");
+          cta.appendChild(createTextElement("span", "", offer.ctaLabel));
+          cta.appendChild(createTextElement("span", "cta-arrow", "→"));
+          cta.addEventListener("click", function () {
+            if (window.KaujunAnalytics && typeof window.KaujunAnalytics.trackAffiliateClick === "function") {
+              window.KaujunAnalytics.trackAffiliateClick(product, offer);
+            }
+          });
+          offerActions.appendChild(cta);
         });
 
         footer.appendChild(source);
-        footer.appendChild(cta);
+        footer.appendChild(offerActions);
         item.appendChild(main);
         item.appendChild(details);
         item.appendChild(footer);
@@ -1008,7 +948,6 @@
         var query = searchInput.value.trim();
         var filtered = products.filter(function (product) {
           return (selectedCategory === "all" || product.category === selectedCategory) &&
-            (selectedStore === "all" || product.store === selectedStore) &&
             matchesSearch(product, query);
         });
         var sorted = sortProducts(filtered, sortOrder.value);
@@ -1032,18 +971,15 @@
 
         resultCount.textContent = sorted.length + "件を表示中";
         sortStatus.textContent = activeSortLabel() +
-          (selectedCategory === "all" ? "" : " / " + selectedCategory) +
-          (selectedStore === "all" ? "" : " / " + (selectedStore === "amazon" ? "Amazon" : selectedStore === "rakuten" ? "楽天市場" : "その他"));
+          (selectedCategory === "all" ? "" : " / " + selectedCategory);
         clearSearch.hidden = !query;
       }
 
       function resetFilters() {
         selectedCategory = "all";
-        selectedStore = "all";
         searchInput.value = "";
         sortOrder.value = "priority";
         updateCategoryChips();
-        updateStoreChips();
         renderProducts();
         searchInput.focus();
       }
@@ -1062,7 +998,6 @@
       }
 
       populateCategoryChips();
-      populateStoreChips();
       initializeSummary();
       searchInput.addEventListener("input", renderProducts);
       clearSearch.addEventListener("click", function () {
