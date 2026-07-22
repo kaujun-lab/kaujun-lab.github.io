@@ -4,6 +4,7 @@
       product_id: product.id,
       product_title: product.title,
       merchant: product.merchant,
+      store: product.store,
       category: product.category,
       short_title: product.shortTitle
     };
