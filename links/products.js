@@ -1,6 +1,111 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s097-01-anker-usb-power-strip-10-in-1-20",
+    "title": "Anker USB Power Strip (10-in-1, 20W)",
+    "description": "ACとUSBをまとめる基本構成としてShortsで紹介した候補です。AC定格、差込口とUSBポートの数、USB出力、コード長、設置条件を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/variation/a91f2521_normal.jpg?_ex=128x128",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa91f2-ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10002014%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/dp/B0CN3HPGRW/ref=nosim?tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "direct",
+        "ctaLabel": "Amazonで見る"
+      }
+    ],
+    "category": "電源タップ",
+    "itemCategory": "ACとUSBをまとめる基本構成",
+    "shortTitle": "電源タップ、置き場所を決めずに買うとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 50,
+    "updatedAt": "2026-07-23"
+  },
+  {
+    "id": "s097-02-tessan-9ac-usb-cx1-usb-ax2",
+    "title": "TESSAN 電源タップ 9ACコンセント USB-Cx1 USB-Ax2",
+    "description": "AC差込口を多く使う構成としてShortsで紹介した候補です。AC定格、差込口とUSBポートの数、USB出力、コード長、設置条件を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rougesportshop/cabinet/pfid2-5700/b09byxf75m_1.jpg?_ex=128x128",
+    "merchant": "Rougeスポーツショップ楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "Rougeスポーツショップ楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00utvkn.k9qwp7c9.g00utvkn.k9qwq26b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frougesportshop%2Fp-b09byxf75m244%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frougesportshop%2Fi%2F10019000%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/dp/B09BYXF75M/ref=nosim?tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "direct",
+        "ctaLabel": "Amazonで見る"
+      }
+    ],
+    "category": "電源タップ",
+    "itemCategory": "AC差込口を多く使う構成",
+    "shortTitle": "電源タップ、置き場所を決めずに買うとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 49,
+    "updatedAt": "2026-07-23"
+  },
+  {
+    "id": "s097-03-anker-nano-power-strip-10-in-1-7",
+    "title": "Anker Nano Power Strip (10-in-1, 70W, クランプ式)",
+    "description": "天板クランプとUSB-C給電を優先する構成としてShortsで紹介した候補です。AC定格、差込口とUSBポートの数、USB出力、コード長、設置条件を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/plusyu/cabinet/system/rlydhuvsxc/50fi4rt71qo7dpi.jpg?_ex=128x128",
+    "merchant": "PLUSYU楽天堂",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "PLUSYU楽天堂",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkknn.k9qwp8fd.g00pkknn.k9qwq3df/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplusyu%2F4571651015973%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplusyu%2Fi%2F10680864%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/dp/B0GTKDCZ8D/ref=nosim?tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "direct",
+        "ctaLabel": "Amazonで見る"
+      }
+    ],
+    "category": "電源タップ",
+    "itemCategory": "天板クランプとUSB-C給電を優先する構成",
+    "shortTitle": "電源タップ、置き場所を決めずに買うとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 48,
+    "updatedAt": "2026-07-23"
+  },
+  {
     "id": "s094-01-elecom-dpa-ss02bk",
     "title": "ELECOM DPA-SS02BK",
     "description": "標準シングルガス式モニターアームとしてShortsで紹介した候補です。画面ごとの重量、VESA規格、天板の固定条件、必要な可動域を購入前に確認してください。",
@@ -668,7 +773,7 @@
   {
     "id": "s081-01-item",
     "title": "ケーブルボックス 電源タップ収納",
-    "description": "ケーブル収納ボックスとしてShortsで紹介した候補です。収納サイズ、電源タップの収まり、放熱、配線の取り回しを購入前に確認してください。",
+    "description": "ケーブル収納ボックスとしてShortsで紹介した候補です。AC定格、差込口とUSBポートの数、USB出力、コード長、設置条件を購入前に確認してください。",
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/gekiyasukaguya/cabinet/living/z100714y2401g.jpg?_ex=128x128",
     "merchant": "インテリアのゲキカグ",
     "offers": [
@@ -691,7 +796,7 @@
         "ctaLabel": "Amazonで探す"
       }
     ],
-    "category": "ケーブル整理",
+    "category": "電源タップ",
     "itemCategory": "ケーブル収納ボックス",
     "shortTitle": "デスク配線整理、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
