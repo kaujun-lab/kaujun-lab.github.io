@@ -1,6 +1,496 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s103-01-item",
+    "title": "モニターライト 曲面モニター対応",
+    "description": "曲面モニター向けライトとしてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/mnrtepo21/cabinet/10216182/imgrc0163800333.jpg?_ex=128x128",
+    "merchant": "明美商事楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "明美商事楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u4i7n.k9qwp98b.g00u4i7n.k9qwq5c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmnrtepo21%2Fhl230695%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmnrtepo21%2Fi%2F10001557%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88+%E6%9B%B2%E9%9D%A2%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E5%AF%BE%E5%BF%9C&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "モニターライト",
+    "itemCategory": "曲面モニター向けライト",
+    "shortTitle": "モニターライト、取付幅だけで選ぶとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 50,
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "id": "s103-02-item",
+    "title": "モニターライト 自動調光 リモコン",
+    "description": "自動調光モニターライトとしてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/japannext/cabinet/08935491/4589511170328/4589511170328_th.jpg?_ex=128x128",
+    "merchant": "JAPANNEXTオンラインストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "JAPANNEXTオンラインストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u7aon.k9qwp881.g00u7aon.k9qwqc0d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjapannext%2F4589511170328%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjapannext%2Fi%2F10000522%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88+%E8%87%AA%E5%8B%95%E8%AA%BF%E5%85%89+%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "モニターライト",
+    "itemCategory": "自動調光モニターライト",
+    "shortTitle": "モニターライト、取付幅だけで選ぶとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 49,
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "id": "s103-03-usb",
+    "title": "モニターライト USB 調光 調色",
+    "description": "低価格モニターライトとしてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/nishimuta/cabinet/ec/4589655282017_main.jpg?_ex=128x128",
+    "merchant": "ニシムタ 楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ニシムタ 楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00swwgn.k9qwp7cf.g00swwgn.k9qwqa0d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnishimuta%2F4589655282017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnishimuta%2Fi%2F10200471%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88+USB+%E8%AA%BF%E5%85%89+%E8%AA%BF%E8%89%B2&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "モニターライト",
+    "itemCategory": "低価格モニターライト",
+    "shortTitle": "モニターライト、取付幅だけで選ぶとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 48,
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "id": "s102-01-mot-crbl360-led",
+    "title": "MOT-CRBL360 クリップ式LEDデスクライト",
+    "description": "省スペースな充電式クリップライトとしてShortsで紹介した候補です。設置スペース、明るさ、角度調整、給電方法を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/hotprice/cabinet/12000/crbl360_1.jpg?_ex=128x128",
+    "merchant": "ほっとプライス 楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ほっとプライス 楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sl7wn.k9qwp74e.g00sl7wn.k9qwqcc8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhotprice%2Fmot04678%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhotprice%2Fi%2F10005022%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=MOT-CRBL360+%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E5%BC%8FLED%E3%83%87%E3%82%B9%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%88&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "デスクライト",
+    "itemCategory": "省スペースな充電式クリップライト",
+    "shortTitle": "狭い机のデスクライト、買う前にこの3つ #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 47,
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "id": "s102-02-ankoo-td-3w",
+    "title": "Ankoo TD-3W クリップ式デスクライト",
+    "description": "調光・調色対応のクリップライトとしてShortsで紹介した候補です。設置スペース、明るさ、角度調整、給電方法を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/shopapalus/cabinet/desk-light/desklight-cp.jpg?_ex=128x128",
+    "merchant": "Ankoo",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "Ankoo",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00syo5n.k9qwp6b4.g00syo5n.k9qwqe8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopapalus%2Ftd-3w-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopapalus%2Fi%2F10000025%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Ankoo+TD-3W+%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E5%BC%8F%E3%83%87%E3%82%B9%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%88&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "デスクライト",
+    "itemCategory": "調光・調色対応のクリップライト",
+    "shortTitle": "狭い机のデスクライト、買う前にこの3つ #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 46,
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "id": "s102-03-ankoo-led",
+    "title": "Ankoo LEDアーム式クリップライト",
+    "description": "照射位置を動かしやすいアーム式ライトとしてShortsで紹介した候補です。設置スペース、明るさ、角度調整、給電方法を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/shopapalus/cabinet/09909388/led-amlight-s2.jpg?_ex=128x128",
+    "merchant": "Ankoo",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "Ankoo",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00syo5n.k9qwp6b4.g00syo5n.k9qwqe8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopapalus%2Fdesk-light-04%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopapalus%2Fi%2F10000543%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Ankoo+LED%E3%82%A2%E3%83%BC%E3%83%A0%E5%BC%8F%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%A9%E3%82%A4%E3%83%88&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "デスクライト",
+    "itemCategory": "照射位置を動かしやすいアーム式ライト",
+    "shortTitle": "狭い机のデスクライト、買う前にこの3つ #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 45,
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "id": "s101-01-logicool-pebble-mouse-2-m350s",
+    "title": "Logicool Pebble Mouse 2 M350s",
+    "description": "薄型コンパクトマウスとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m350sgr/m350sgr_r_.jpg?_ex=128x128",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm350sgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000559%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Pebble+Mouse+2+M350s&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "薄型コンパクトマウス",
+    "shortTitle": "ワイヤレスマウス、接続方式だけで選ぶとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 44,
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "id": "s101-02-logicool-signature-m750",
+    "title": "Logicool Signature M750",
+    "description": "標準サイズ静音マウスとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m750mgr/m750mgr_r_.jpg?_ex=128x128",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm750mgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000503%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+M750&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "標準サイズ静音マウス",
+    "shortTitle": "ワイヤレスマウス、接続方式だけで選ぶとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 43,
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "id": "s101-03-logicool-lift-m800",
+    "title": "Logicool Lift M800",
+    "description": "縦型エルゴノミックマウスとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m800gr/m800gr_r.jpg?_ex=128x128",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm800gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000454%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Lift+M800&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "縦型エルゴノミックマウス",
+    "shortTitle": "ワイヤレスマウス、接続方式だけで選ぶとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 42,
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "id": "s100-01-elecom-esd-ewc0500gbk",
+    "title": "ELECOM ESD-EWC0500GBK",
+    "description": "Type-A・Type-C一体型ポータブルSSD 500GBとしてShortsで紹介した候補です。端子、接続機器側の対応速度、直挿しかケーブル式か、対応OSを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elecom/cabinet/s500_28/esd-ewc0500gbk_03r.jpg?_ex=128x128",
+    "merchant": "エレコムダイレクトショップ",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "エレコムダイレクトショップ",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkoxn.k9qwpe11.g00pkoxn.k9qwqd7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F4549550343169%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10066530%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=ELECOM+ESD-EWC0500GBK&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "外付けSSD",
+    "itemCategory": "Type-A・Type-C一体型ポータブルSSD 500GB",
+    "shortTitle": "外付けSSD、速度だけで選ぶとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 41,
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "id": "s100-02-elecom-esd-epa0500gsv",
+    "title": "ELECOM ESD-EPA0500GSV",
+    "description": "回転カバー付きポータブルSSD 500GBとしてShortsで紹介した候補です。端子、接続機器側の対応速度、直挿しかケーブル式か、対応OSを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elecom/cabinet/s500_27/esd-epa0500gsv_03r.jpg?_ex=128x128",
+    "merchant": "エレコムダイレクトショップ",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "エレコムダイレクトショップ",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkoxn.k9qwpe11.g00pkoxn.k9qwqd7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F4549550316729%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10064929%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=ELECOM+ESD-EPA0500GSV&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "外付けSSD",
+    "itemCategory": "回転カバー付きポータブルSSD 500GB",
+    "shortTitle": "外付けSSD、速度だけで選ぶとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 40,
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "id": "s100-03-lacie-rugged-mini-ssd-stmf500400",
+    "title": "LaCie Rugged Mini SSD STMF500400",
+    "description": "ケーブル式耐衝撃ポータブルSSD 500GBとしてShortsで紹介した候補です。端子、接続機器側の対応速度、直挿しかケーブル式か、対応OSを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elecom/cabinet/s500_27/stmf500400_03r.jpg?_ex=128x128",
+    "merchant": "エレコムダイレクトショップ",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "エレコムダイレクトショップ",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkoxn.k9qwpe11.g00pkoxn.k9qwqd7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F8719706044684%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10064995%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=LaCie+Rugged+Mini+SSD+STMF500400&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "外付けSSD",
+    "itemCategory": "ケーブル式耐衝撃ポータブルSSD 500GB",
+    "shortTitle": "外付けSSD、速度だけで選ぶとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 39,
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "id": "s099-01-item",
+    "title": "配列を選びやすい薄型キーボード",
+    "description": "外付けキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k380sgr/k380sgr_r_.jpg?_ex=128x128",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk380sgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000560%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E9%85%8D%E5%88%97%E3%82%92%E9%81%B8%E3%81%B3%E3%82%84%E3%81%99%E3%81%84%E8%96%84%E5%9E%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "外付けキーボード",
+    "shortTitle": "ノートPC作業、スタンドだけ買うとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 38,
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "id": "s099-03-usb-c",
+    "title": "必要ポートを足すUSB-Cハブ",
+    "description": "USB-CハブとしてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/goodhammond/cabinet/qg_c_010/qg_c_016_00_0928.jpg?_ex=128x128",
+    "merchant": "GWAAN",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "GWAAN",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tlkxn.k9qwp065.g00tlkxn.k9qwqd2e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgoodhammond%2Fqg_c_016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgoodhammond%2Fi%2F10000105%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E5%BF%85%E8%A6%81%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E8%B6%B3%E3%81%99USB-C%E3%83%8F%E3%83%96&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "USB-Cハブ",
+    "itemCategory": "USB-Cハブ",
+    "shortTitle": "ノートPC作業、スタンドだけ買うとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 37,
+    "updatedAt": "2026-07-24"
+  },
+  {
     "id": "s097-01-anker-usb-power-strip-10-in-1-20",
     "title": "Anker USB Power Strip (10-in-1, 20W)",
     "description": "ACとUSBをまとめる基本構成としてShortsで紹介した候補です。AC定格、差込口とUSBポートの数、USB出力、コード長、設置条件を購入前に確認してください。",
@@ -32,7 +522,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 50,
+    "priority": 36,
     "updatedAt": "2026-07-23"
   },
   {
@@ -67,7 +557,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 49,
+    "priority": 35,
     "updatedAt": "2026-07-23"
   },
   {
@@ -102,7 +592,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 48,
+    "priority": 34,
     "updatedAt": "2026-07-23"
   },
   {
@@ -137,7 +627,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=FRF-SJQkaSc",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 47,
+    "priority": 33,
     "updatedAt": "2026-07-22"
   },
   {
@@ -172,7 +662,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=FRF-SJQkaSc",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 46,
+    "priority": 32,
     "updatedAt": "2026-07-22"
   },
   {
@@ -207,253 +697,8 @@
     "shortUrl": "https://www.youtube.com/watch?v=FRF-SJQkaSc",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 45,
+    "priority": 31,
     "updatedAt": "2026-07-22"
-  },
-  {
-    "id": "s093-01-elecom-esd-ewc0500gbk",
-    "title": "ELECOM ESD-EWC0500GBK",
-    "description": "Type-A・Type-C一体型ポータブルSSD 500GBとしてShortsで紹介した候補です。端子、接続機器側の対応速度、直挿しかケーブル式か、対応OSを購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elecom/cabinet/s500_28/esd-ewc0500gbk_03r.jpg?_ex=128x128",
-    "merchant": "エレコムダイレクトショップ",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "エレコムダイレクトショップ",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkoxn.k9qwpe11.g00pkoxn.k9qwqd7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F4549550343169%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10066530%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=ELECOM+ESD-EWC0500GBK&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "外付けSSD",
-    "itemCategory": "Type-A・Type-C一体型ポータブルSSD 500GB",
-    "shortTitle": "外付けSSD、容量だけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=OqX7vpwF33o",
-    "shortStatus": "uploaded_private",
-    "isPr": true,
-    "priority": 44,
-    "updatedAt": "2026-07-21"
-  },
-  {
-    "id": "s093-02-elecom-esd-epa0500gsv",
-    "title": "ELECOM ESD-EPA0500GSV",
-    "description": "回転カバー付きポータブルSSD 500GBとしてShortsで紹介した候補です。端子、接続機器側の対応速度、直挿しかケーブル式か、対応OSを購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elecom/cabinet/s500_27/esd-epa0500gsv_03r.jpg?_ex=128x128",
-    "merchant": "エレコムダイレクトショップ",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "エレコムダイレクトショップ",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkoxn.k9qwpe11.g00pkoxn.k9qwqd7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F4549550316729%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10064929%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=ELECOM+ESD-EPA0500GSV&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "外付けSSD",
-    "itemCategory": "回転カバー付きポータブルSSD 500GB",
-    "shortTitle": "外付けSSD、容量だけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=OqX7vpwF33o",
-    "shortStatus": "uploaded_private",
-    "isPr": true,
-    "priority": 43,
-    "updatedAt": "2026-07-21"
-  },
-  {
-    "id": "s093-03-lacie-rugged-mini-ssd-stmf500400",
-    "title": "LaCie Rugged Mini SSD STMF500400",
-    "description": "ケーブル式耐衝撃ポータブルSSD 500GBとしてShortsで紹介した候補です。端子、接続機器側の対応速度、直挿しかケーブル式か、対応OSを購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elecom/cabinet/s500_27/stmf500400_03r.jpg?_ex=128x128",
-    "merchant": "エレコムダイレクトショップ",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "エレコムダイレクトショップ",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkoxn.k9qwpe11.g00pkoxn.k9qwqd7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F8719706044684%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10064995%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=LaCie+Rugged+Mini+SSD+STMF500400&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "外付けSSD",
-    "itemCategory": "ケーブル式耐衝撃ポータブルSSD 500GB",
-    "shortTitle": "外付けSSD、容量だけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=OqX7vpwF33o",
-    "shortStatus": "uploaded_private",
-    "isPr": true,
-    "priority": 42,
-    "updatedAt": "2026-07-21"
-  },
-  {
-    "id": "s088-01-mot-crbl360-led",
-    "title": "MOT-CRBL360 クリップ式LEDデスクライト",
-    "description": "省スペースな充電式クリップライトとしてShortsで紹介した候補です。設置スペース、明るさ、角度調整、給電方法を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/hotprice/cabinet/12000/crbl360_1.jpg?_ex=128x128",
-    "merchant": "ほっとプライス 楽天市場店",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ほっとプライス 楽天市場店",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sl7wn.k9qwp74e.g00sl7wn.k9qwqcc8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhotprice%2Fmot04678%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhotprice%2Fi%2F10005022%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=MOT-CRBL360+%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E5%BC%8FLED%E3%83%87%E3%82%B9%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%88&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "デスクライト",
-    "itemCategory": "省スペースな充電式クリップライト",
-    "shortTitle": "デスクライト、明るさだけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=Mu3Ma9d7gUw",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 41,
-    "updatedAt": "2026-07-21"
-  },
-  {
-    "id": "s088-02-ankoo-td-3w",
-    "title": "Ankoo TD-3W クリップ式デスクライト",
-    "description": "調光・調色対応のクリップライトとしてShortsで紹介した候補です。設置スペース、明るさ、角度調整、給電方法を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/shopapalus/cabinet/desk-light/desklight-cp.jpg?_ex=128x128",
-    "merchant": "Ankoo",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "Ankoo",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00syo5n.k9qwp6b4.g00syo5n.k9qwqe8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopapalus%2Ftd-3w-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopapalus%2Fi%2F10000025%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Ankoo+TD-3W+%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E5%BC%8F%E3%83%87%E3%82%B9%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%88&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "デスクライト",
-    "itemCategory": "調光・調色対応のクリップライト",
-    "shortTitle": "デスクライト、明るさだけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=Mu3Ma9d7gUw",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 40,
-    "updatedAt": "2026-07-21"
-  },
-  {
-    "id": "s088-03-ankoo-led",
-    "title": "Ankoo LEDアーム式クリップライト",
-    "description": "照射位置を動かしやすいアーム式ライトとしてShortsで紹介した候補です。設置スペース、明るさ、角度調整、給電方法を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/shopapalus/cabinet/09909388/led-amlight-s2.jpg?_ex=128x128",
-    "merchant": "Ankoo",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "Ankoo",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00syo5n.k9qwp6b4.g00syo5n.k9qwqe8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopapalus%2Fdesk-light-04%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopapalus%2Fi%2F10000543%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Ankoo+LED%E3%82%A2%E3%83%BC%E3%83%A0%E5%BC%8F%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%A9%E3%82%A4%E3%83%88&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "デスクライト",
-    "itemCategory": "照射位置を動かしやすいアーム式ライト",
-    "shortTitle": "デスクライト、明るさだけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=Mu3Ma9d7gUw",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 39,
-    "updatedAt": "2026-07-21"
-  },
-  {
-    "id": "s091-01-logicool-pebble-keys-2-k380s",
-    "title": "Logicool Pebble Keys 2 K380s",
-    "description": "コンパクト乾電池式キーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k380sgr/k380sgr_r_.jpg?_ex=128x128",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk380sgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000560%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Pebble+Keys+2+K380s&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "コンパクト乾電池式キーボード",
-    "shortTitle": "ワイヤレスキーボード、薄さだけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=VzGLiokVMPI",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 38,
-    "updatedAt": "2026-07-17"
   },
   {
     "id": "s091-02-logicool-signature-slim-k950",
@@ -487,7 +732,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=VzGLiokVMPI",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 37,
+    "priority": 30,
     "updatedAt": "2026-07-17"
   },
   {
@@ -522,7 +767,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=VzGLiokVMPI",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 36,
+    "priority": 29,
     "updatedAt": "2026-07-17"
   },
   {
@@ -557,7 +802,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 35,
+    "priority": 28,
     "updatedAt": "2026-07-17"
   },
   {
@@ -592,7 +837,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 34,
+    "priority": 27,
     "updatedAt": "2026-07-17"
   },
   {
@@ -627,148 +872,8 @@
     "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 33,
+    "priority": 26,
     "updatedAt": "2026-07-17"
-  },
-  {
-    "id": "s089-01-logicool-pebble-mouse-2-m350s",
-    "title": "Logicool Pebble Mouse 2 M350s",
-    "description": "薄型コンパクトマウスとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m350sgr/m350sgr_r_.jpg?_ex=128x128",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm350sgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000559%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Pebble+Mouse+2+M350s&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "薄型コンパクトマウス",
-    "shortTitle": "ワイヤレスマウス、静音だけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=UD6nUKnMV9E",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 32,
-    "updatedAt": "2026-07-17"
-  },
-  {
-    "id": "s089-02-logicool-signature-m750",
-    "title": "Logicool Signature M750",
-    "description": "標準サイズ静音マウスとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m750mgr/m750mgr_r_.jpg?_ex=128x128",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm750mgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000503%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+M750&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "標準サイズ静音マウス",
-    "shortTitle": "ワイヤレスマウス、静音だけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=UD6nUKnMV9E",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 31,
-    "updatedAt": "2026-07-17"
-  },
-  {
-    "id": "s089-03-logicool-lift-m800",
-    "title": "Logicool Lift M800",
-    "description": "縦型エルゴノミックマウスとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m800gr/m800gr_r.jpg?_ex=128x128",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm800gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000454%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Lift+M800&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "縦型エルゴノミックマウス",
-    "shortTitle": "ワイヤレスマウス、静音だけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=UD6nUKnMV9E",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 30,
-    "updatedAt": "2026-07-17"
-  },
-  {
-    "id": "s083-03-usb-c",
-    "title": "必要ポートを足すUSB-Cハブ",
-    "description": "USB-CハブとしてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/goodhammond/cabinet/qg_c_010/qg_c_016_00_0928.jpg?_ex=128x128",
-    "merchant": "GWAAN",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "GWAAN",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tlkxn.k9qwp065.g00tlkxn.k9qwqd2e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgoodhammond%2Fqg_c_016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgoodhammond%2Fi%2F10000105%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E5%BF%85%E8%A6%81%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E8%B6%B3%E3%81%99USB-C%E3%83%8F%E3%83%96&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "USB-Cハブ",
-    "itemCategory": "USB-Cハブ",
-    "shortTitle": "ノートPC外付け、安い順で買うとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=1G6s41VSCkQ",
-    "shortStatus": "uploaded_private",
-    "isPr": true,
-    "priority": 29,
-    "updatedAt": "2026-07-12"
   },
   {
     "id": "s081-01-item",
@@ -802,7 +907,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 28,
+    "priority": 25,
     "updatedAt": "2026-07-12"
   },
   {
@@ -837,7 +942,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 27,
+    "priority": 24,
     "updatedAt": "2026-07-12"
   },
   {
@@ -872,7 +977,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 26,
+    "priority": 23,
     "updatedAt": "2026-07-12"
   },
   {
@@ -907,7 +1012,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 25,
+    "priority": 22,
     "updatedAt": "2026-07-10"
   },
   {
@@ -942,7 +1047,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 24,
+    "priority": 21,
     "updatedAt": "2026-07-10"
   },
   {
@@ -977,7 +1082,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 23,
+    "priority": 20,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1012,7 +1117,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=J8-RtFnJd10",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 22,
+    "priority": 19,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1047,7 +1152,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=J8-RtFnJd10",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 21,
+    "priority": 18,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1082,7 +1187,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=37gZZ8Bz1_M",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 20,
+    "priority": 17,
     "updatedAt": "2026-07-08"
   },
   {
@@ -1117,7 +1222,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=37gZZ8Bz1_M",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 19,
+    "priority": 16,
     "updatedAt": "2026-07-08"
   },
   {
@@ -1152,7 +1257,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=37gZZ8Bz1_M",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 18,
+    "priority": 15,
     "updatedAt": "2026-07-08"
   },
   {
@@ -1187,7 +1292,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=D9QYV36Br2s",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 17,
+    "priority": 14,
     "updatedAt": "2026-07-07"
   },
   {
@@ -1222,7 +1327,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=D9QYV36Br2s",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 16,
+    "priority": 13,
     "updatedAt": "2026-07-07"
   },
   {
@@ -1257,7 +1362,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=D9QYV36Br2s",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 15,
+    "priority": 12,
     "updatedAt": "2026-07-07"
   },
   {
@@ -1292,7 +1397,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=MXArN2xXicA",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 14,
+    "priority": 11,
     "updatedAt": "2026-07-06"
   },
   {
@@ -1327,113 +1432,8 @@
     "shortUrl": "https://www.youtube.com/watch?v=MXArN2xXicA",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 13,
-    "updatedAt": "2026-07-06"
-  },
-  {
-    "id": "s073-01-item",
-    "title": "モニターライト 曲面モニター対応",
-    "description": "曲面モニター向けライトとしてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/mnrtepo21/cabinet/10216182/imgrc0163800333.jpg?_ex=128x128",
-    "merchant": "明美商事楽天市場店",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "明美商事楽天市場店",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u4i7n.k9qwp98b.g00u4i7n.k9qwq5c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmnrtepo21%2Fhl230695%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmnrtepo21%2Fi%2F10001557%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88+%E6%9B%B2%E9%9D%A2%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E5%AF%BE%E5%BF%9C&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "モニターライト",
-    "itemCategory": "曲面モニター向けライト",
-    "shortTitle": "モニターライト、曲面モニターは買う前にこの3つ #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=Ku6Ainy7BIA",
-    "shortStatus": "uploaded_private",
-    "isPr": true,
-    "priority": 12,
-    "updatedAt": "2026-07-05"
-  },
-  {
-    "id": "s073-02-item",
-    "title": "モニターライト 自動調光 リモコン",
-    "description": "自動調光モニターライトとしてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/japannext/cabinet/08935491/4589511170328/4589511170328_th.jpg?_ex=128x128",
-    "merchant": "JAPANNEXTオンラインストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "JAPANNEXTオンラインストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u7aon.k9qwp881.g00u7aon.k9qwqc0d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjapannext%2F4589511170328%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjapannext%2Fi%2F10000522%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88+%E8%87%AA%E5%8B%95%E8%AA%BF%E5%85%89+%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "モニターライト",
-    "itemCategory": "自動調光モニターライト",
-    "shortTitle": "モニターライト、曲面モニターは買う前にこの3つ #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=Ku6Ainy7BIA",
-    "shortStatus": "uploaded_private",
-    "isPr": true,
-    "priority": 11,
-    "updatedAt": "2026-07-05"
-  },
-  {
-    "id": "s073-03-usb",
-    "title": "モニターライト USB 調光 調色",
-    "description": "低価格モニターライトとしてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/nishimuta/cabinet/ec/4589655282017_main.jpg?_ex=128x128",
-    "merchant": "ニシムタ 楽天市場店",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ニシムタ 楽天市場店",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00swwgn.k9qwp7cf.g00swwgn.k9qwqa0d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnishimuta%2F4589655282017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnishimuta%2Fi%2F10200471%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88+USB+%E8%AA%BF%E5%85%89+%E8%AA%BF%E8%89%B2&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "モニターライト",
-    "itemCategory": "低価格モニターライト",
-    "shortTitle": "モニターライト、曲面モニターは買う前にこの3つ #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=Ku6Ainy7BIA",
-    "shortStatus": "uploaded_private",
-    "isPr": true,
     "priority": 10,
-    "updatedAt": "2026-07-05"
+    "updatedAt": "2026-07-06"
   },
   {
     "id": "s071-01-item",
