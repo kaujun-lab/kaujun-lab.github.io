@@ -1,6 +1,216 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s109-01-elecom-dpa-ss02bk",
+    "title": "ELECOM DPA-SS02BK",
+    "description": "シングルガス式モニターアームとしてShortsで紹介した候補です。画面ごとの重量、VESA規格、天板の固定条件、必要な可動域を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elecom/cabinet/s500_17/dpa-ss02bk_03r.jpg?_ex=600x600",
+    "merchant": "エレコムダイレクトショップ",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "エレコムダイレクトショップ",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkoxn.k9qwpe11.g00pkoxn.k9qwqd7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F4549550217569%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10056314%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=ELECOM+DPA-SS02BK&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "モニターアーム",
+    "itemCategory": "シングルガス式モニターアーム",
+    "shortTitle": "モニターアーム、天板の表だけ見るとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 53,
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "s108-01-logicool-signature-m750",
+    "title": "Logicool Signature M750",
+    "description": "静音ワイヤレスマウスとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m750mgr/m750mgr_r_.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm750mgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000503%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+M750&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "静音ワイヤレスマウス",
+    "shortTitle": "M750が合う人、買う前にこの3つ #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=dDTmXosn1WE",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 52,
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "s107-01-creative-pebble-v3",
+    "title": "Creative Pebble V3",
+    "description": "USB/Bluetooth PCスピーカーとしてShortsで紹介した候補です。左右の設置幅、接続方式、給電条件、入力端子を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/creative-store/cabinet/spkrs/imgrc0117636170.jpg?_ex=600x600",
+    "merchant": "クリエイティブストア@楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "クリエイティブストア@楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qfr8n.k9qwp014.g00qfr8n.k9qwq400/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcreative-store%2Fsp-pblv3-bk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcreative-store%2Fi%2F10001203%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Creative+Pebble+V3&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCスピーカー",
+    "itemCategory": "USB/Bluetooth PCスピーカー",
+    "shortTitle": "PCスピーカー、音量より先に机を測って #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=jI5xTvn3Mzs",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 51,
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "s106-01-japannext-jn-md-ips156f2",
+    "title": "JAPANNEXT JN-MD-IPS156F2",
+    "description": "15.6型モバイルモニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/japannext/cabinet/08935491/4589511170458/4589511170458_1.jpg?_ex=600x600",
+    "merchant": "JAPANNEXTオンラインストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "JAPANNEXTオンラインストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u7aon.k9qwp881.g00u7aon.k9qwqc0d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjapannext%2F4589511170458%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjapannext%2Fi%2F10000571%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=JAPANNEXT+JN-MD-IPS156F2&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCモニター",
+    "itemCategory": "15.6型モバイルモニター",
+    "shortTitle": "モバイルモニター、15.6型より先にここ #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=MwLZe30GSxw",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 50,
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "s105-01-anker-nano-ii-65w",
+    "title": "Anker Nano II 65W",
+    "description": "USB-C PD充電器としてShortsで紹介した候補です。出力W数、ポート数、対応端末、設置場所を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a2/a2663_normal.jpg?_ex=600x600",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2663%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000961%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+Nano+II+65W&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "充電器",
+    "itemCategory": "USB-C PD充電器",
+    "shortTitle": "65W充電器、数字だけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=pKPAwVRCmGg",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 49,
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "s104-01-anker-magnetic-cable-holder",
+    "title": "Anker Magnetic Cable Holder",
+    "description": "マグネット式ケーブルホルダーとしてShortsで紹介した候補です。収納サイズ、電源タップの収まり、放熱、配線の取り回しを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a8891_normal.jpg?_ex=600x600",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8891%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000881%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+Magnetic+Cable+Holder&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "ケーブル整理",
+    "itemCategory": "マグネット式ケーブルホルダー",
+    "shortTitle": "ケーブルが毎日落ちるなら、まず直径を見て #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=4mRhNR3ReUk",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 48,
+    "updatedAt": "2026-07-31"
+  },
+  {
     "id": "s103-01-item",
     "title": "モニターライト 曲面モニター対応",
     "description": "曲面モニター向けライトとしてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
@@ -32,7 +242,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 50,
+    "priority": 47,
     "updatedAt": "2026-07-24"
   },
   {
@@ -67,7 +277,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 49,
+    "priority": 46,
     "updatedAt": "2026-07-24"
   },
   {
@@ -102,7 +312,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 48,
+    "priority": 45,
     "updatedAt": "2026-07-24"
   },
   {
@@ -137,7 +347,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 47,
+    "priority": 44,
     "updatedAt": "2026-07-24"
   },
   {
@@ -172,7 +382,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 46,
+    "priority": 43,
     "updatedAt": "2026-07-24"
   },
   {
@@ -207,7 +417,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 45,
+    "priority": 42,
     "updatedAt": "2026-07-24"
   },
   {
@@ -242,42 +452,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IkTfS-EB9pg",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 44,
-    "updatedAt": "2026-07-24"
-  },
-  {
-    "id": "s101-02-logicool-signature-m750",
-    "title": "Logicool Signature M750",
-    "description": "標準サイズ静音マウスとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m750mgr/m750mgr_r_.jpg?_ex=128x128",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm750mgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000503%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+M750&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "標準サイズ静音マウス",
-    "shortTitle": "ワイヤレスマウス、接続方式だけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=IkTfS-EB9pg",
-    "shortStatus": "scheduled",
-    "isPr": true,
-    "priority": 43,
+    "priority": 41,
     "updatedAt": "2026-07-24"
   },
   {
@@ -312,7 +487,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IkTfS-EB9pg",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 42,
+    "priority": 40,
     "updatedAt": "2026-07-24"
   },
   {
@@ -347,7 +522,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 41,
+    "priority": 39,
     "updatedAt": "2026-07-24"
   },
   {
@@ -382,7 +557,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 40,
+    "priority": 38,
     "updatedAt": "2026-07-24"
   },
   {
@@ -417,7 +592,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 39,
+    "priority": 37,
     "updatedAt": "2026-07-24"
   },
   {
@@ -452,7 +627,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=1EM8iMWlQ0I",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 38,
+    "priority": 36,
     "updatedAt": "2026-07-24"
   },
   {
@@ -487,7 +662,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=1EM8iMWlQ0I",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 37,
+    "priority": 35,
     "updatedAt": "2026-07-24"
   },
   {
@@ -522,7 +697,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 36,
+    "priority": 34,
     "updatedAt": "2026-07-23"
   },
   {
@@ -557,7 +732,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 35,
+    "priority": 33,
     "updatedAt": "2026-07-23"
   },
   {
@@ -592,43 +767,8 @@
     "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 34,
+    "priority": 32,
     "updatedAt": "2026-07-23"
-  },
-  {
-    "id": "s094-01-elecom-dpa-ss02bk",
-    "title": "ELECOM DPA-SS02BK",
-    "description": "標準シングルガス式モニターアームとしてShortsで紹介した候補です。画面ごとの重量、VESA規格、天板の固定条件、必要な可動域を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elecom/cabinet/s500_17/dpa-ss02bk_03r.jpg?_ex=128x128",
-    "merchant": "エレコムダイレクトショップ",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "エレコムダイレクトショップ",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkoxn.k9qwpe11.g00pkoxn.k9qwqd7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F4549550217569%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10056314%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=ELECOM+DPA-SS02BK&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "モニターアーム",
-    "itemCategory": "標準シングルガス式モニターアーム",
-    "shortTitle": "モニターアーム、画面数だけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=FRF-SJQkaSc",
-    "shortStatus": "scheduled",
-    "isPr": true,
-    "priority": 33,
-    "updatedAt": "2026-07-22"
   },
   {
     "id": "s094-02-elecom-dpa-ss11bk",
@@ -662,7 +802,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=FRF-SJQkaSc",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 32,
+    "priority": 31,
     "updatedAt": "2026-07-22"
   },
   {
@@ -697,7 +837,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=FRF-SJQkaSc",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 31,
+    "priority": 30,
     "updatedAt": "2026-07-22"
   },
   {
@@ -732,7 +872,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=VzGLiokVMPI",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 30,
+    "priority": 29,
     "updatedAt": "2026-07-17"
   },
   {
@@ -767,7 +907,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=VzGLiokVMPI",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 29,
+    "priority": 28,
     "updatedAt": "2026-07-17"
   },
   {
@@ -802,7 +942,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 28,
+    "priority": 27,
     "updatedAt": "2026-07-17"
   },
   {
@@ -837,7 +977,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 27,
+    "priority": 26,
     "updatedAt": "2026-07-17"
   },
   {
@@ -872,7 +1012,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 26,
+    "priority": 25,
     "updatedAt": "2026-07-17"
   },
   {
@@ -907,7 +1047,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 25,
+    "priority": 24,
     "updatedAt": "2026-07-12"
   },
   {
@@ -938,41 +1078,6 @@
     ],
     "category": "ケーブル整理",
     "itemCategory": "デスク下ケーブルトレー",
-    "shortTitle": "デスク配線整理、買う前にこの3つだけ見て #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
-    "shortStatus": "uploaded_private",
-    "isPr": true,
-    "priority": 24,
-    "updatedAt": "2026-07-12"
-  },
-  {
-    "id": "s081-03-anker-magnetic-cable-holder",
-    "title": "Anker Magnetic Cable Holder",
-    "description": "ケーブルホルダーとしてShortsで紹介した候補です。収納サイズ、電源タップの収まり、放熱、配線の取り回しを購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/a8891_sn.jpg?_ex=128x128",
-    "merchant": "アンカー・ダイレクト楽天市場店",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "アンカー・ダイレクト楽天市場店",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8891%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000881%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+Magnetic+Cable+Holder&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "ケーブル整理",
-    "itemCategory": "ケーブルホルダー",
     "shortTitle": "デスク配線整理、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
     "shortStatus": "uploaded_private",
