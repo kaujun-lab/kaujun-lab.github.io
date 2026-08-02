@@ -29,8 +29,8 @@
     "category": "モニターアーム",
     "itemCategory": "シングルガス式モニターアーム",
     "shortTitle": "モニターアーム、天板の表だけ見るとズレます #Shorts",
-    "shortUrl": "",
-    "shortStatus": "rendered_local",
+    "shortUrl": "https://www.youtube.com/watch?v=OPNJWvc5eZ4",
+    "shortStatus": "scheduled",
     "isPr": true,
     "priority": 53,
     "updatedAt": "2026-08-02"
