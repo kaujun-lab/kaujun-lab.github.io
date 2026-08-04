@@ -1,6 +1,76 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s110-01-anker-332-usb-c-5-in-1",
+    "title": "Anker 332 USB-C ハブ (5-in-1)",
+    "description": "PC専用 / 5-in-1としてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a8355_normal.jpg?_ex=128x128",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001369%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/dp/B0BQMSXFP7/ref=nosim?tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "direct",
+        "ctaLabel": "Amazonで見る"
+      }
+    ],
+    "category": "USB-Cハブ",
+    "itemCategory": "PC専用 / 5-in-1",
+    "shortTitle": "USB-Cハブ、4K対応だけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=Vi90Di8m7_k",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 55,
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "s110-02-ugreen-uno-6-in-1-usb-c",
+    "title": "UGREEN Uno 6 in 1 USB-Cハブ",
+    "description": "高出力仕様 / 4K@60HzとしてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ugreen-gear/cabinet/10122288/35998-3.jpg?_ex=128x128",
+    "merchant": "UGREEN公式楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "UGREEN公式楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u0fbn.k9qwp078.g00u0fbn.k9qwq571/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fugreen-gear%2F35998%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fugreen-gear%2Fi%2F10000888%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/dp/B0D2Q5XJY9/ref=nosim?tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "direct",
+        "ctaLabel": "Amazonで見る"
+      }
+    ],
+    "category": "USB-Cハブ",
+    "itemCategory": "高出力仕様 / 4K@60Hz",
+    "shortTitle": "USB-Cハブ、4K対応だけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=Vi90Di8m7_k",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 54,
+    "updatedAt": "2026-08-04"
+  },
+  {
     "id": "s109-01-elecom-dpa-ss02bk",
     "title": "ELECOM DPA-SS02BK",
     "description": "シングルガス式モニターアームとしてShortsで紹介した候補です。画面ごとの重量、VESA規格、天板の固定条件、必要な可動域を購入前に確認してください。",
