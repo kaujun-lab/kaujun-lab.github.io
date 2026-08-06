@@ -1,6 +1,76 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s113-01-japannext-jn-ips27g300q-hsp-27-w",
+    "title": "JAPANNEXT JN-IPS27G300Q-HSP 27インチ WQHD 300Hz モニター",
+    "description": "27インチWQHD高リフレッシュモニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/japannext/cabinet/08935491/4589511171851/4589511171851_1.jpg?_ex=128x128",
+    "merchant": "JAPANNEXTオンラインストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "JAPANNEXTオンラインストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u7aon.k9qwp881.g00u7aon.k9qwqc0d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjapannext%2F4589511171851%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjapannext%2Fi%2F10000580%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=JAPANNEXT+JN-IPS27G300Q-HSP+27%E3%82%A4%E3%83%B3%E3%83%81+WQHD+300Hz+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCモニター",
+    "itemCategory": "27インチWQHD高リフレッシュモニター",
+    "shortTitle": "300Hzモニター、数字だけで選ぶとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 55,
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "s112-01-kksmart-s-4k27c-27-4k-usb-c",
+    "title": "kksmart S-4K27C 27インチ 4K USB-C モニター",
+    "description": "27インチ4K USB-CモニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/kksmart/cabinet/12389730/imgrc0133265605.jpg?_ex=128x128",
+    "merchant": "KKSmart 楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "KKSmart 楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ujkjn.k9qwpfef.g00ujkjn.k9qwq88d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkksmart%2Fs-4k27c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkksmart%2Fi%2F10000068%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=kksmart+S-4K27C+27%E3%82%A4%E3%83%B3%E3%83%81+4K+USB-C+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCモニター",
+    "itemCategory": "27インチ4K USB-Cモニター",
+    "shortTitle": "デュアルモニター、同じ27型だけで選ぶとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 54,
+    "updatedAt": "2026-08-06"
+  },
+  {
     "id": "s110-01-anker-332-usb-c-5-in-1",
     "title": "Anker 332 USB-C ハブ (5-in-1)",
     "description": "PC専用 / 5-in-1としてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
@@ -32,7 +102,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=Vi90Di8m7_k",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 55,
+    "priority": 53,
     "updatedAt": "2026-08-04"
   },
   {
@@ -67,7 +137,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=Vi90Di8m7_k",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 54,
+    "priority": 52,
     "updatedAt": "2026-08-04"
   },
   {
@@ -102,7 +172,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=OPNJWvc5eZ4",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 53,
+    "priority": 51,
     "updatedAt": "2026-08-02"
   },
   {
@@ -137,7 +207,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=dDTmXosn1WE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 52,
+    "priority": 50,
     "updatedAt": "2026-07-31"
   },
   {
@@ -172,7 +242,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=jI5xTvn3Mzs",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 51,
+    "priority": 49,
     "updatedAt": "2026-07-31"
   },
   {
@@ -207,7 +277,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=MwLZe30GSxw",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 50,
+    "priority": 48,
     "updatedAt": "2026-07-31"
   },
   {
@@ -242,7 +312,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=pKPAwVRCmGg",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 49,
+    "priority": 47,
     "updatedAt": "2026-07-31"
   },
   {
@@ -277,7 +347,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=4mRhNR3ReUk",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 48,
+    "priority": 46,
     "updatedAt": "2026-07-31"
   },
   {
@@ -312,7 +382,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 47,
+    "priority": 45,
     "updatedAt": "2026-07-24"
   },
   {
@@ -347,7 +417,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 46,
+    "priority": 44,
     "updatedAt": "2026-07-24"
   },
   {
@@ -382,7 +452,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 45,
+    "priority": 43,
     "updatedAt": "2026-07-24"
   },
   {
@@ -417,7 +487,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 44,
+    "priority": 42,
     "updatedAt": "2026-07-24"
   },
   {
@@ -452,7 +522,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 43,
+    "priority": 41,
     "updatedAt": "2026-07-24"
   },
   {
@@ -487,7 +557,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 42,
+    "priority": 40,
     "updatedAt": "2026-07-24"
   },
   {
@@ -522,7 +592,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IkTfS-EB9pg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 41,
+    "priority": 39,
     "updatedAt": "2026-07-24"
   },
   {
@@ -557,7 +627,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IkTfS-EB9pg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 40,
+    "priority": 38,
     "updatedAt": "2026-07-24"
   },
   {
@@ -592,7 +662,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 39,
+    "priority": 37,
     "updatedAt": "2026-07-24"
   },
   {
@@ -627,7 +697,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 38,
+    "priority": 36,
     "updatedAt": "2026-07-24"
   },
   {
@@ -662,7 +732,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 37,
+    "priority": 35,
     "updatedAt": "2026-07-24"
   },
   {
@@ -697,7 +767,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=1EM8iMWlQ0I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 36,
+    "priority": 34,
     "updatedAt": "2026-07-24"
   },
   {
@@ -732,7 +802,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=1EM8iMWlQ0I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 35,
+    "priority": 33,
     "updatedAt": "2026-07-24"
   },
   {
@@ -767,7 +837,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 34,
+    "priority": 32,
     "updatedAt": "2026-07-23"
   },
   {
@@ -802,7 +872,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 33,
+    "priority": 31,
     "updatedAt": "2026-07-23"
   },
   {
@@ -837,7 +907,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 32,
+    "priority": 30,
     "updatedAt": "2026-07-23"
   },
   {
@@ -872,7 +942,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=FRF-SJQkaSc",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 31,
+    "priority": 29,
     "updatedAt": "2026-07-22"
   },
   {
@@ -907,7 +977,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=FRF-SJQkaSc",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 30,
+    "priority": 28,
     "updatedAt": "2026-07-22"
   },
   {
@@ -942,7 +1012,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=VzGLiokVMPI",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 29,
+    "priority": 27,
     "updatedAt": "2026-07-17"
   },
   {
@@ -977,7 +1047,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=VzGLiokVMPI",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 28,
+    "priority": 26,
     "updatedAt": "2026-07-17"
   },
   {
@@ -1012,7 +1082,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 27,
+    "priority": 25,
     "updatedAt": "2026-07-17"
   },
   {
@@ -1047,7 +1117,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 26,
+    "priority": 24,
     "updatedAt": "2026-07-17"
   },
   {
@@ -1082,7 +1152,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 25,
+    "priority": 23,
     "updatedAt": "2026-07-17"
   },
   {
@@ -1117,7 +1187,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 24,
+    "priority": 22,
     "updatedAt": "2026-07-12"
   },
   {
@@ -1152,7 +1222,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 23,
+    "priority": 21,
     "updatedAt": "2026-07-12"
   },
   {
@@ -1187,7 +1257,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 22,
+    "priority": 20,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1222,7 +1292,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 21,
+    "priority": 19,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1257,7 +1327,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 20,
+    "priority": 18,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1292,7 +1362,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=J8-RtFnJd10",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 19,
+    "priority": 17,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1327,7 +1397,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=J8-RtFnJd10",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 18,
+    "priority": 16,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1362,7 +1432,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=37gZZ8Bz1_M",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 17,
+    "priority": 15,
     "updatedAt": "2026-07-08"
   },
   {
@@ -1397,7 +1467,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=37gZZ8Bz1_M",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 16,
+    "priority": 14,
     "updatedAt": "2026-07-08"
   },
   {
@@ -1432,43 +1502,8 @@
     "shortUrl": "https://www.youtube.com/watch?v=37gZZ8Bz1_M",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 15,
+    "priority": 13,
     "updatedAt": "2026-07-08"
-  },
-  {
-    "id": "s075-01-kksmart-s-4k27c-27-4k-usb-c",
-    "title": "kksmart S-4K27C 27インチ 4K USB-C モニター",
-    "description": "27インチ4K USB-CモニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/kksmart/cabinet/12389730/imgrc0133265605.jpg?_ex=128x128",
-    "merchant": "KKSmart 楽天市場店",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "KKSmart 楽天市場店",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ujkjn.k9qwpfef.g00ujkjn.k9qwq88d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkksmart%2Fs-4k27c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkksmart%2Fi%2F10000068%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=kksmart+S-4K27C+27%E3%82%A4%E3%83%B3%E3%83%81+4K+USB-C+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "PCモニター",
-    "itemCategory": "27インチ4K USB-Cモニター",
-    "shortTitle": "4Kモニター、買う前にこの3つだけ見て #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=D9QYV36Br2s",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 14,
-    "updatedAt": "2026-07-07"
   },
   {
     "id": "s075-02-27-wqhd-ips-pc",
@@ -1502,7 +1537,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=D9QYV36Br2s",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 13,
+    "priority": 12,
     "updatedAt": "2026-07-07"
   },
   {
@@ -1537,7 +1572,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=D9QYV36Br2s",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 12,
+    "priority": 11,
     "updatedAt": "2026-07-07"
   },
   {
@@ -1568,41 +1603,6 @@
     ],
     "category": "PCモニター",
     "itemCategory": "24インチ標準モニター",
-    "shortTitle": "デスクトップモニター、買う前にこの3つだけ見て #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=MXArN2xXicA",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 11,
-    "updatedAt": "2026-07-06"
-  },
-  {
-    "id": "s074-02-27-wqhd-ips-pc",
-    "title": "27インチ WQHD IPS PCモニター",
-    "description": "27インチ作業用モニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/japannext/cabinet/08935491/4589511171851/4589511171851_1.jpg?_ex=128x128",
-    "merchant": "JAPANNEXTオンラインストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "JAPANNEXTオンラインストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u7aon.k9qwp881.g00u7aon.k9qwqc0d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjapannext%2F4589511171851%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjapannext%2Fi%2F10000580%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=27%E3%82%A4%E3%83%B3%E3%83%81+WQHD+IPS+PC%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "PCモニター",
-    "itemCategory": "27インチ作業用モニター",
     "shortTitle": "デスクトップモニター、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=MXArN2xXicA",
     "shortStatus": "public",
