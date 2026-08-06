@@ -29,8 +29,8 @@
     "category": "PCモニター",
     "itemCategory": "27インチWQHD高リフレッシュモニター",
     "shortTitle": "300Hzモニター、数字だけで選ぶとズレます #Shorts",
-    "shortUrl": "",
-    "shortStatus": "rendered_local",
+    "shortUrl": "https://www.youtube.com/watch?v=c1LjrLqCwHg",
+    "shortStatus": "uploaded_unlisted",
     "isPr": true,
     "priority": 55,
     "updatedAt": "2026-08-06"
@@ -64,8 +64,8 @@
     "category": "PCモニター",
     "itemCategory": "27インチ4K USB-Cモニター",
     "shortTitle": "デュアルモニター、同じ27型だけで選ぶとズレます #Shorts",
-    "shortUrl": "",
-    "shortStatus": "rendered_local",
+    "shortUrl": "https://www.youtube.com/watch?v=VAHRgrknwiw",
+    "shortStatus": "uploaded_unlisted",
     "isPr": true,
     "priority": 54,
     "updatedAt": "2026-08-06"
