@@ -29,8 +29,8 @@
     "category": "電源タップ",
     "itemCategory": "天板クランプとUSB-C給電を優先する構成",
     "shortTitle": "クランプ式電源タップ、天板厚だけで選ぶとズレます #Shorts",
-    "shortUrl": "",
-    "shortStatus": "rendered_local",
+    "shortUrl": "https://www.youtube.com/watch?v=tDIG89l2FW4",
+    "shortStatus": "scheduled",
     "isPr": true,
     "priority": 55,
     "updatedAt": "2026-08-09"
@@ -64,8 +64,8 @@
     "category": "モニターアーム",
     "itemCategory": "標準シングルガス式モニターアーム",
     "shortTitle": "モニターアーム、奥行きを測らず買うとズレます #Shorts",
-    "shortUrl": "",
-    "shortStatus": "rendered_local",
+    "shortUrl": "https://www.youtube.com/watch?v=TKU8NmU6QHw",
+    "shortStatus": "scheduled",
     "isPr": true,
     "priority": 54,
     "updatedAt": "2026-08-09"
@@ -99,8 +99,8 @@
     "category": "USB-Cハブ",
     "itemCategory": "PC専用 / 5-in-1",
     "shortTitle": "USB-Cハブ、100W表記だけで選ぶとズレます #Shorts",
-    "shortUrl": "",
-    "shortStatus": "rendered_local",
+    "shortUrl": "https://www.youtube.com/watch?v=kKdIwkDet_I",
+    "shortStatus": "scheduled",
     "isPr": true,
     "priority": 53,
     "updatedAt": "2026-08-09"
@@ -134,8 +134,8 @@
     "category": "USB-Cハブ",
     "itemCategory": "高出力仕様 / 4K@60Hz",
     "shortTitle": "USB-Cハブ、100W表記だけで選ぶとズレます #Shorts",
-    "shortUrl": "",
-    "shortStatus": "rendered_local",
+    "shortUrl": "https://www.youtube.com/watch?v=kKdIwkDet_I",
+    "shortStatus": "scheduled",
     "isPr": true,
     "priority": 52,
     "updatedAt": "2026-08-09"
