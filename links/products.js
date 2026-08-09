@@ -4,7 +4,7 @@
     "id": "s119-01-benq-screenbar-pro",
     "title": "BenQ ScreenBar Pro モニターライト",
     "description": "広い作業面を照らす公式85×50cmの候補としてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
-    "imageUrl": "./product-placeholder.svg",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/benq-directshop/cabinet/07941759/10830045/imgrc0093780386.jpg?_ex=128x128",
     "merchant": "楽天市場",
     "offers": [
       {
@@ -32,21 +32,21 @@
     "shortUrl": "https://www.youtube.com/watch?v=iC-z0I_ELY0",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 55,
+    "priority": 56,
     "updatedAt": "2026-08-09"
   },
   {
     "id": "s119-02-quntis",
     "title": "Quntis モニターライト",
     "description": "必要範囲と設置条件を比較する価格重視候補としてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
-    "imageUrl": "./product-placeholder.svg",
-    "merchant": "楽天市場",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/uguisumama/cabinet/r_2024091416/20250421075444_25_1.jpg?_ex=128x128",
+    "merchant": "UGUISU MAMA",
     "offers": [
       {
         "store": "rakuten",
         "storeLabel": "楽天市場",
-        "merchant": "楽天市場",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00usuvn.k9qwpef6.g00usuvn.k9qwqa24/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeikeishop%2Fli-hy-2214-wt-qu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeikeishop%2Fi%2F10000007%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "merchant": "UGUISU MAMA",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u8u1n.k9qwp92d.g00u8u1n.k9qwq3a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fuguisumama%2F20250421075444_25%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fuguisumama%2Fi%2F10144148%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
         "program": "楽天アフィリエイト",
         "linkType": "direct",
         "ctaLabel": "楽天市場で見る"
@@ -67,7 +67,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=iC-z0I_ELY0",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 54,
+    "priority": 55,
     "updatedAt": "2026-08-09"
   },
   {
@@ -102,7 +102,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NGG92CahYKE",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 53,
+    "priority": 54,
     "updatedAt": "2026-08-09"
   },
   {
@@ -137,7 +137,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NGG92CahYKE",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 52,
+    "priority": 53,
     "updatedAt": "2026-08-09"
   },
   {
@@ -172,7 +172,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=DT05DvxhR4A",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 51,
+    "priority": 52,
     "updatedAt": "2026-08-09"
   },
   {
@@ -207,7 +207,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=DT05DvxhR4A",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 50,
+    "priority": 51,
     "updatedAt": "2026-08-09"
   },
   {
@@ -242,7 +242,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=tDIG89l2FW4",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 49,
+    "priority": 50,
     "updatedAt": "2026-08-09"
   },
   {
@@ -277,7 +277,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TKU8NmU6QHw",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 48,
+    "priority": 49,
     "updatedAt": "2026-08-09"
   },
   {
@@ -312,7 +312,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=kKdIwkDet_I",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 47,
+    "priority": 48,
     "updatedAt": "2026-08-09"
   },
   {
@@ -347,7 +347,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=kKdIwkDet_I",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 46,
+    "priority": 47,
     "updatedAt": "2026-08-09"
   },
   {
@@ -382,7 +382,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=c1LjrLqCwHg",
     "shortStatus": "uploaded_unlisted",
     "isPr": true,
-    "priority": 45,
+    "priority": 46,
     "updatedAt": "2026-08-06"
   },
   {
@@ -417,7 +417,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=VAHRgrknwiw",
     "shortStatus": "uploaded_unlisted",
     "isPr": true,
-    "priority": 44,
+    "priority": 45,
     "updatedAt": "2026-08-06"
   },
   {
@@ -452,7 +452,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=dDTmXosn1WE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 43,
+    "priority": 44,
     "updatedAt": "2026-07-31"
   },
   {
@@ -487,7 +487,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=jI5xTvn3Mzs",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 42,
+    "priority": 43,
     "updatedAt": "2026-07-31"
   },
   {
@@ -522,7 +522,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=MwLZe30GSxw",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 41,
+    "priority": 42,
     "updatedAt": "2026-07-31"
   },
   {
@@ -557,7 +557,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=pKPAwVRCmGg",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 40,
+    "priority": 41,
     "updatedAt": "2026-07-31"
   },
   {
@@ -592,7 +592,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=4mRhNR3ReUk",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 39,
+    "priority": 40,
     "updatedAt": "2026-07-31"
   },
   {
@@ -627,7 +627,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 38,
+    "priority": 39,
     "updatedAt": "2026-07-24"
   },
   {
@@ -662,7 +662,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 37,
+    "priority": 38,
     "updatedAt": "2026-07-24"
   },
   {
@@ -697,7 +697,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 36,
+    "priority": 37,
     "updatedAt": "2026-07-24"
   },
   {
@@ -732,7 +732,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 35,
+    "priority": 36,
     "updatedAt": "2026-07-24"
   },
   {
@@ -767,7 +767,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 34,
+    "priority": 35,
     "updatedAt": "2026-07-24"
   },
   {
@@ -802,7 +802,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 33,
+    "priority": 34,
     "updatedAt": "2026-07-24"
   },
   {
@@ -837,7 +837,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IkTfS-EB9pg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 32,
+    "priority": 33,
     "updatedAt": "2026-07-24"
   },
   {
@@ -872,7 +872,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IkTfS-EB9pg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 31,
+    "priority": 32,
     "updatedAt": "2026-07-24"
   },
   {
@@ -907,7 +907,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 30,
+    "priority": 31,
     "updatedAt": "2026-07-24"
   },
   {
@@ -942,7 +942,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 29,
+    "priority": 30,
     "updatedAt": "2026-07-24"
   },
   {
@@ -977,7 +977,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 28,
+    "priority": 29,
     "updatedAt": "2026-07-24"
   },
   {
@@ -1012,7 +1012,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=1EM8iMWlQ0I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 27,
+    "priority": 28,
     "updatedAt": "2026-07-24"
   },
   {
@@ -1047,7 +1047,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 26,
+    "priority": 27,
     "updatedAt": "2026-07-23"
   },
   {
@@ -1082,7 +1082,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 25,
+    "priority": 26,
     "updatedAt": "2026-07-23"
   },
   {
@@ -1117,7 +1117,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=FRF-SJQkaSc",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 24,
+    "priority": 25,
     "updatedAt": "2026-07-22"
   },
   {
@@ -1152,7 +1152,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=FRF-SJQkaSc",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 23,
+    "priority": 24,
     "updatedAt": "2026-07-22"
   },
   {
@@ -1187,7 +1187,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=VzGLiokVMPI",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 22,
+    "priority": 23,
     "updatedAt": "2026-07-17"
   },
   {
@@ -1222,7 +1222,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 21,
+    "priority": 22,
     "updatedAt": "2026-07-17"
   },
   {
@@ -1257,7 +1257,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 20,
+    "priority": 21,
     "updatedAt": "2026-07-12"
   },
   {
@@ -1292,7 +1292,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 19,
+    "priority": 20,
     "updatedAt": "2026-07-12"
   },
   {
@@ -1327,7 +1327,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 18,
+    "priority": 19,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1362,7 +1362,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 17,
+    "priority": 18,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1397,7 +1397,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 16,
+    "priority": 17,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1432,7 +1432,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=J8-RtFnJd10",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 15,
+    "priority": 16,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1467,7 +1467,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=J8-RtFnJd10",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 14,
+    "priority": 15,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1502,7 +1502,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=37gZZ8Bz1_M",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 13,
+    "priority": 14,
     "updatedAt": "2026-07-08"
   },
   {
@@ -1537,7 +1537,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=37gZZ8Bz1_M",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 12,
+    "priority": 13,
     "updatedAt": "2026-07-08"
   },
   {
@@ -1572,7 +1572,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=37gZZ8Bz1_M",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 11,
+    "priority": 12,
     "updatedAt": "2026-07-08"
   },
   {
@@ -1607,7 +1607,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=D9QYV36Br2s",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 10,
+    "priority": 11,
     "updatedAt": "2026-07-07"
   },
   {
@@ -1642,7 +1642,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=D9QYV36Br2s",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 9,
+    "priority": 10,
     "updatedAt": "2026-07-07"
   },
   {
@@ -1677,7 +1677,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=MXArN2xXicA",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 8,
+    "priority": 9,
     "updatedAt": "2026-07-06"
   },
   {
@@ -1712,7 +1712,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=gFRPB7CyreU",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 7,
+    "priority": 8,
     "updatedAt": "2026-06-30"
   },
   {
@@ -1747,7 +1747,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=gFRPB7CyreU",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 6,
+    "priority": 7,
     "updatedAt": "2026-06-30"
   },
   {
@@ -1782,7 +1782,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=gFRPB7CyreU",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 5,
+    "priority": 6,
     "updatedAt": "2026-06-30"
   },
   {
@@ -1817,7 +1817,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=gFRPB7CyreU",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 4,
+    "priority": 5,
     "updatedAt": "2026-06-30"
   },
   {
@@ -1852,7 +1852,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TosLYOCdOm4",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 3,
+    "priority": 4,
     "updatedAt": "2026-06-27"
   },
   {
@@ -1887,7 +1887,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TosLYOCdOm4",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 2,
+    "priority": 3,
     "updatedAt": "2026-06-27"
   },
   {
@@ -1920,6 +1920,41 @@
     "itemCategory": "USB充電器",
     "shortTitle": "買う前に見て。AIが選んだ後悔しやすいデスク用品 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=nbT1nysOhpA",
+    "shortStatus": "public",
+    "isPr": true,
+    "priority": 2,
+    "updatedAt": "2026-06-23"
+  },
+  {
+    "id": "s068-03-quntis",
+    "title": "Quntis モニターライト",
+    "description": "モニターライトとしてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
+    "imageUrl": "./product-placeholder.svg",
+    "merchant": "メイケイ",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "メイケイ",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00usuvn.k9qwpef6.g00usuvn.k9qwqa24/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeikeishop%2Fli-hy-2214-wt-qu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeikeishop%2Fi%2F10000007%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Quntis+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "モニターライト",
+    "itemCategory": "モニターライト",
+    "shortTitle": "モニターライト、買う前にこの3つだけ見て #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=9GkA-fnYZUA",
     "shortStatus": "public",
     "isPr": true,
     "priority": 1,
