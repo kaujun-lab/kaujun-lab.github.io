@@ -1,6 +1,146 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s116-01-anker-nano-power-strip-10-in-1-7",
+    "title": "Anker Nano Power Strip (10-in-1, 70W, クランプ式)",
+    "description": "天板クランプとUSB-C給電を優先する構成としてShortsで紹介した候補です。AC定格、差込口とUSBポートの数、USB出力、コード長、設置条件を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/plusyu/cabinet/system/rlydhuvsxc/50fi4rt71qo7dpi.jpg?_ex=128x128",
+    "merchant": "楽天市場",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkknn.k9qwp8fd.g00pkknn.k9qwq3df/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplusyu%2F4571651015973%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplusyu%2Fi%2F10680864%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/dp/B0GTKDCZ8D/ref=nosim?tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "direct",
+        "ctaLabel": "Amazonで見る"
+      }
+    ],
+    "category": "電源タップ",
+    "itemCategory": "天板クランプとUSB-C給電を優先する構成",
+    "shortTitle": "クランプ式電源タップ、天板厚だけで選ぶとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 55,
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "s115-01-elecom-dpa-ss02bk",
+    "title": "ELECOM DPA-SS02BK",
+    "description": "標準シングルガス式モニターアームとしてShortsで紹介した候補です。画面ごとの重量、VESA規格、天板の固定条件、必要な可動域を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elecom/cabinet/s500_17/dpa-ss02bk_03r.jpg?_ex=600x600",
+    "merchant": "楽天市場",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkoxn.k9qwpe11.g00pkoxn.k9qwqd7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F4549550217569%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10056314%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=ELECOM+DPA-SS02BK&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "モニターアーム",
+    "itemCategory": "標準シングルガス式モニターアーム",
+    "shortTitle": "モニターアーム、奥行きを測らず買うとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 54,
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "s114-01-anker-332-usb-c-5-in-1",
+    "title": "Anker 332 USB-C ハブ (5-in-1)",
+    "description": "PC専用 / 5-in-1としてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a8355_normal.jpg?_ex=128x128",
+    "merchant": "楽天市場",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001369%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/dp/B0BQMSXFP7/ref=nosim?tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "direct",
+        "ctaLabel": "Amazonで見る"
+      }
+    ],
+    "category": "USB-Cハブ",
+    "itemCategory": "PC専用 / 5-in-1",
+    "shortTitle": "USB-Cハブ、100W表記だけで選ぶとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 53,
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "s114-02-ugreen-uno-6-in-1-usb-c",
+    "title": "UGREEN Uno 6 in 1 USB-Cハブ",
+    "description": "高出力仕様 / 4K@60HzとしてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ugreen-gear/cabinet/10122288/35998-3.jpg?_ex=128x128",
+    "merchant": "楽天市場",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u0fbn.k9qwp078.g00u0fbn.k9qwq571/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fugreen-gear%2F35998%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fugreen-gear%2Fi%2F10000888%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/dp/B0D2Q5XJY9/ref=nosim?tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "direct",
+        "ctaLabel": "Amazonで見る"
+      }
+    ],
+    "category": "USB-Cハブ",
+    "itemCategory": "高出力仕様 / 4K@60Hz",
+    "shortTitle": "USB-Cハブ、100W表記だけで選ぶとズレます #Shorts",
+    "shortUrl": "",
+    "shortStatus": "rendered_local",
+    "isPr": true,
+    "priority": 52,
+    "updatedAt": "2026-08-09"
+  },
+  {
     "id": "s113-01-japannext-jn-ips27g300q-hsp-27-w",
     "title": "JAPANNEXT JN-IPS27G300Q-HSP 27インチ WQHD 300Hz モニター",
     "description": "27インチWQHD高リフレッシュモニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
@@ -32,7 +172,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=c1LjrLqCwHg",
     "shortStatus": "uploaded_unlisted",
     "isPr": true,
-    "priority": 55,
+    "priority": 51,
     "updatedAt": "2026-08-06"
   },
   {
@@ -67,113 +207,8 @@
     "shortUrl": "https://www.youtube.com/watch?v=VAHRgrknwiw",
     "shortStatus": "uploaded_unlisted",
     "isPr": true,
-    "priority": 54,
+    "priority": 50,
     "updatedAt": "2026-08-06"
-  },
-  {
-    "id": "s110-01-anker-332-usb-c-5-in-1",
-    "title": "Anker 332 USB-C ハブ (5-in-1)",
-    "description": "PC専用 / 5-in-1としてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a8355_normal.jpg?_ex=128x128",
-    "merchant": "アンカー・ダイレクト楽天市場店",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "アンカー・ダイレクト楽天市場店",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001369%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/dp/B0BQMSXFP7/ref=nosim?tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "direct",
-        "ctaLabel": "Amazonで見る"
-      }
-    ],
-    "category": "USB-Cハブ",
-    "itemCategory": "PC専用 / 5-in-1",
-    "shortTitle": "USB-Cハブ、4K対応だけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=Vi90Di8m7_k",
-    "shortStatus": "scheduled",
-    "isPr": true,
-    "priority": 53,
-    "updatedAt": "2026-08-04"
-  },
-  {
-    "id": "s110-02-ugreen-uno-6-in-1-usb-c",
-    "title": "UGREEN Uno 6 in 1 USB-Cハブ",
-    "description": "高出力仕様 / 4K@60HzとしてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ugreen-gear/cabinet/10122288/35998-3.jpg?_ex=128x128",
-    "merchant": "UGREEN公式楽天市場店",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "UGREEN公式楽天市場店",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u0fbn.k9qwp078.g00u0fbn.k9qwq571/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fugreen-gear%2F35998%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fugreen-gear%2Fi%2F10000888%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/dp/B0D2Q5XJY9/ref=nosim?tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "direct",
-        "ctaLabel": "Amazonで見る"
-      }
-    ],
-    "category": "USB-Cハブ",
-    "itemCategory": "高出力仕様 / 4K@60Hz",
-    "shortTitle": "USB-Cハブ、4K対応だけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=Vi90Di8m7_k",
-    "shortStatus": "scheduled",
-    "isPr": true,
-    "priority": 52,
-    "updatedAt": "2026-08-04"
-  },
-  {
-    "id": "s109-01-elecom-dpa-ss02bk",
-    "title": "ELECOM DPA-SS02BK",
-    "description": "シングルガス式モニターアームとしてShortsで紹介した候補です。画面ごとの重量、VESA規格、天板の固定条件、必要な可動域を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elecom/cabinet/s500_17/dpa-ss02bk_03r.jpg?_ex=600x600",
-    "merchant": "エレコムダイレクトショップ",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "エレコムダイレクトショップ",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkoxn.k9qwpe11.g00pkoxn.k9qwqd7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F4549550217569%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10056314%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=ELECOM+DPA-SS02BK&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "モニターアーム",
-    "itemCategory": "シングルガス式モニターアーム",
-    "shortTitle": "モニターアーム、天板の表だけ見るとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=OPNJWvc5eZ4",
-    "shortStatus": "scheduled",
-    "isPr": true,
-    "priority": 51,
-    "updatedAt": "2026-08-02"
   },
   {
     "id": "s108-01-logicool-signature-m750",
@@ -207,7 +242,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=dDTmXosn1WE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 50,
+    "priority": 49,
     "updatedAt": "2026-07-31"
   },
   {
@@ -242,7 +277,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=jI5xTvn3Mzs",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 49,
+    "priority": 48,
     "updatedAt": "2026-07-31"
   },
   {
@@ -277,7 +312,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=MwLZe30GSxw",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 48,
+    "priority": 47,
     "updatedAt": "2026-07-31"
   },
   {
@@ -312,7 +347,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=pKPAwVRCmGg",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 47,
+    "priority": 46,
     "updatedAt": "2026-07-31"
   },
   {
@@ -347,7 +382,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=4mRhNR3ReUk",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 46,
+    "priority": 45,
     "updatedAt": "2026-07-31"
   },
   {
@@ -382,7 +417,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 45,
+    "priority": 44,
     "updatedAt": "2026-07-24"
   },
   {
@@ -417,7 +452,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 44,
+    "priority": 43,
     "updatedAt": "2026-07-24"
   },
   {
@@ -452,7 +487,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 43,
+    "priority": 42,
     "updatedAt": "2026-07-24"
   },
   {
@@ -487,7 +522,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 42,
+    "priority": 41,
     "updatedAt": "2026-07-24"
   },
   {
@@ -522,7 +557,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 41,
+    "priority": 40,
     "updatedAt": "2026-07-24"
   },
   {
@@ -557,7 +592,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 40,
+    "priority": 39,
     "updatedAt": "2026-07-24"
   },
   {
@@ -592,7 +627,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IkTfS-EB9pg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 39,
+    "priority": 38,
     "updatedAt": "2026-07-24"
   },
   {
@@ -627,7 +662,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IkTfS-EB9pg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 38,
+    "priority": 37,
     "updatedAt": "2026-07-24"
   },
   {
@@ -662,7 +697,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 37,
+    "priority": 36,
     "updatedAt": "2026-07-24"
   },
   {
@@ -697,7 +732,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 36,
+    "priority": 35,
     "updatedAt": "2026-07-24"
   },
   {
@@ -732,7 +767,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 35,
+    "priority": 34,
     "updatedAt": "2026-07-24"
   },
   {
@@ -767,7 +802,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=1EM8iMWlQ0I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 34,
+    "priority": 33,
     "updatedAt": "2026-07-24"
   },
   {
@@ -802,7 +837,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=1EM8iMWlQ0I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 33,
+    "priority": 32,
     "updatedAt": "2026-07-24"
   },
   {
@@ -837,7 +872,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 32,
+    "priority": 31,
     "updatedAt": "2026-07-23"
   },
   {
@@ -868,41 +903,6 @@
     ],
     "category": "電源タップ",
     "itemCategory": "AC差込口を多く使う構成",
-    "shortTitle": "電源タップ、置き場所を決めずに買うとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
-    "shortStatus": "uploaded_private",
-    "isPr": true,
-    "priority": 31,
-    "updatedAt": "2026-07-23"
-  },
-  {
-    "id": "s097-03-anker-nano-power-strip-10-in-1-7",
-    "title": "Anker Nano Power Strip (10-in-1, 70W, クランプ式)",
-    "description": "天板クランプとUSB-C給電を優先する構成としてShortsで紹介した候補です。AC定格、差込口とUSBポートの数、USB出力、コード長、設置条件を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/plusyu/cabinet/system/rlydhuvsxc/50fi4rt71qo7dpi.jpg?_ex=128x128",
-    "merchant": "PLUSYU楽天堂",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "PLUSYU楽天堂",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkknn.k9qwp8fd.g00pkknn.k9qwq3df/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplusyu%2F4571651015973%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplusyu%2Fi%2F10680864%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/dp/B0GTKDCZ8D/ref=nosim?tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "direct",
-        "ctaLabel": "Amazonで見る"
-      }
-    ],
-    "category": "電源タップ",
-    "itemCategory": "天板クランプとUSB-C給電を優先する構成",
     "shortTitle": "電源タップ、置き場所を決めずに買うとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
     "shortStatus": "uploaded_private",
