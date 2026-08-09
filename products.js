@@ -1,6 +1,216 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s119-01-benq-screenbar-pro",
+    "title": "BenQ ScreenBar Pro モニターライト",
+    "description": "広い作業面を照らす公式85×50cmの候補としてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
+    "imageUrl": "./product-placeholder.svg",
+    "merchant": "楽天市場",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tkdfn.k9qwp815.g00tkdfn.k9qwq946/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenq-directshop%2Flighting-screenbar-pro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenq-directshop%2Fi%2F10000421%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=BenQ+ScreenBar+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "モニターライト",
+    "itemCategory": "広い作業面を照らす公式85×50cmの候補",
+    "shortTitle": "モニターライト、1000ルクスより先に範囲です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=iC-z0I_ELY0",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 55,
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "s119-02-quntis",
+    "title": "Quntis モニターライト",
+    "description": "必要範囲と設置条件を比較する価格重視候補としてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
+    "imageUrl": "./product-placeholder.svg",
+    "merchant": "楽天市場",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00usuvn.k9qwpef6.g00usuvn.k9qwqa24/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeikeishop%2Fli-hy-2214-wt-qu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeikeishop%2Fi%2F10000007%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Quntis+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "モニターライト",
+    "itemCategory": "必要範囲と設置条件を比較する価格重視候補",
+    "shortTitle": "モニターライト、1000ルクスより先に範囲です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=iC-z0I_ELY0",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 54,
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "s118-01-logicool-pebble-keys-2-k380s",
+    "title": "Logicool Pebble Keys 2 K380s",
+    "description": "マウスの操作幅を残しやすいコンパクト候補としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k380sgr/k380sgr_r_.jpg?_ex=128x128",
+    "merchant": "楽天市場",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk380sgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000560%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E9%85%8D%E5%88%97%E3%82%92%E9%81%B8%E3%81%B3%E3%82%84%E3%81%99%E3%81%84%E8%96%84%E5%9E%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "マウスの操作幅を残しやすいコンパクト候補",
+    "shortTitle": "キーボード、テンキーより先にマウス幅です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=NGG92CahYKE",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 53,
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "s118-02-logicool-signature-slim-k950",
+    "title": "Logicool Signature Slim K950",
+    "description": "テンキーを残すフルサイズ候補としてShortsで紹介した候補です。サイズ、置き場所、毎日の使いやすさを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k950/k950gr_n.jpg?_ex=128x128",
+    "merchant": "楽天市場",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk950gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000595%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+Slim+K950&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "デスク用品",
+    "itemCategory": "テンキーを残すフルサイズ候補",
+    "shortTitle": "キーボード、テンキーより先にマウス幅です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=NGG92CahYKE",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 52,
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "s117-01-logicool-c270n-hd-webcam",
+    "title": "Logicool C270n HD Webcam",
+    "description": "一人を寄り気味に映す55度画角の候補としてShortsで紹介した候補です。画角、解像度とフレームレート、ピント、設置方法、プライバシー機能を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/webcam/c270n/c270nd_01_s_r.jpg?_ex=128x128",
+    "merchant": "楽天市場",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fc270nd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000670%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+C270n+HD+Webcam&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "Webカメラ",
+    "itemCategory": "一人を寄り気味に映す55度画角の候補",
+    "shortTitle": "Webカメラ、1080pより先に画角です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=DT05DvxhR4A",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 51,
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "s117-02-logicool-c920n-hd-pro-webcam",
+    "title": "Logicool C920n HD Pro Webcam",
+    "description": "机やジェスチャーも映しやすい78度画角の候補としてShortsで紹介した候補です。画角、解像度とフレームレート、ピント、設置方法、プライバシー機能を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/webcam/c920n/c920n_s.jpg?_ex=128x128",
+    "merchant": "楽天市場",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fc920n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000181%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+C920n+HD+Pro+Webcam&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "Webカメラ",
+    "itemCategory": "机やジェスチャーも映しやすい78度画角の候補",
+    "shortTitle": "Webカメラ、1080pより先に画角です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=DT05DvxhR4A",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 50,
+    "updatedAt": "2026-08-09"
+  },
+  {
     "id": "s116-01-anker-nano-power-strip-10-in-1-7",
     "title": "Anker Nano Power Strip (10-in-1, 70W, クランプ式)",
     "description": "天板クランプとUSB-C給電を優先する構成としてShortsで紹介した候補です。AC定格、差込口とUSBポートの数、USB出力、コード長、設置条件を購入前に確認してください。",
@@ -32,7 +242,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=tDIG89l2FW4",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 55,
+    "priority": 49,
     "updatedAt": "2026-08-09"
   },
   {
@@ -67,7 +277,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TKU8NmU6QHw",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 54,
+    "priority": 48,
     "updatedAt": "2026-08-09"
   },
   {
@@ -102,7 +312,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=kKdIwkDet_I",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 53,
+    "priority": 47,
     "updatedAt": "2026-08-09"
   },
   {
@@ -137,7 +347,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=kKdIwkDet_I",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 52,
+    "priority": 46,
     "updatedAt": "2026-08-09"
   },
   {
@@ -172,7 +382,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=c1LjrLqCwHg",
     "shortStatus": "uploaded_unlisted",
     "isPr": true,
-    "priority": 51,
+    "priority": 45,
     "updatedAt": "2026-08-06"
   },
   {
@@ -207,7 +417,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=VAHRgrknwiw",
     "shortStatus": "uploaded_unlisted",
     "isPr": true,
-    "priority": 50,
+    "priority": 44,
     "updatedAt": "2026-08-06"
   },
   {
@@ -242,7 +452,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=dDTmXosn1WE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 49,
+    "priority": 43,
     "updatedAt": "2026-07-31"
   },
   {
@@ -277,7 +487,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=jI5xTvn3Mzs",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 48,
+    "priority": 42,
     "updatedAt": "2026-07-31"
   },
   {
@@ -312,7 +522,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=MwLZe30GSxw",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 47,
+    "priority": 41,
     "updatedAt": "2026-07-31"
   },
   {
@@ -347,7 +557,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=pKPAwVRCmGg",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 46,
+    "priority": 40,
     "updatedAt": "2026-07-31"
   },
   {
@@ -382,7 +592,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=4mRhNR3ReUk",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 45,
+    "priority": 39,
     "updatedAt": "2026-07-31"
   },
   {
@@ -417,7 +627,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 44,
+    "priority": 38,
     "updatedAt": "2026-07-24"
   },
   {
@@ -452,7 +662,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 43,
+    "priority": 37,
     "updatedAt": "2026-07-24"
   },
   {
@@ -487,7 +697,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 42,
+    "priority": 36,
     "updatedAt": "2026-07-24"
   },
   {
@@ -522,7 +732,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 41,
+    "priority": 35,
     "updatedAt": "2026-07-24"
   },
   {
@@ -557,7 +767,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 40,
+    "priority": 34,
     "updatedAt": "2026-07-24"
   },
   {
@@ -592,7 +802,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 39,
+    "priority": 33,
     "updatedAt": "2026-07-24"
   },
   {
@@ -627,7 +837,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IkTfS-EB9pg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 38,
+    "priority": 32,
     "updatedAt": "2026-07-24"
   },
   {
@@ -662,7 +872,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IkTfS-EB9pg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 37,
+    "priority": 31,
     "updatedAt": "2026-07-24"
   },
   {
@@ -697,7 +907,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 36,
+    "priority": 30,
     "updatedAt": "2026-07-24"
   },
   {
@@ -732,7 +942,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 35,
+    "priority": 29,
     "updatedAt": "2026-07-24"
   },
   {
@@ -767,42 +977,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 34,
-    "updatedAt": "2026-07-24"
-  },
-  {
-    "id": "s099-01-item",
-    "title": "配列を選びやすい薄型キーボード",
-    "description": "外付けキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k380sgr/k380sgr_r_.jpg?_ex=128x128",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk380sgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000560%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E9%85%8D%E5%88%97%E3%82%92%E9%81%B8%E3%81%B3%E3%82%84%E3%81%99%E3%81%84%E8%96%84%E5%9E%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "外付けキーボード",
-    "shortTitle": "ノートPC作業、スタンドだけ買うとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=1EM8iMWlQ0I",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 33,
+    "priority": 28,
     "updatedAt": "2026-07-24"
   },
   {
@@ -837,7 +1012,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=1EM8iMWlQ0I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 32,
+    "priority": 27,
     "updatedAt": "2026-07-24"
   },
   {
@@ -872,7 +1047,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 31,
+    "priority": 26,
     "updatedAt": "2026-07-23"
   },
   {
@@ -907,7 +1082,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 30,
+    "priority": 25,
     "updatedAt": "2026-07-23"
   },
   {
@@ -942,7 +1117,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=FRF-SJQkaSc",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 29,
+    "priority": 24,
     "updatedAt": "2026-07-22"
   },
   {
@@ -977,43 +1152,8 @@
     "shortUrl": "https://www.youtube.com/watch?v=FRF-SJQkaSc",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 28,
+    "priority": 23,
     "updatedAt": "2026-07-22"
-  },
-  {
-    "id": "s091-02-logicool-signature-slim-k950",
-    "title": "Logicool Signature Slim K950",
-    "description": "テンキー付きフルサイズキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k950/k950gr_n.jpg?_ex=128x128",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk950gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000595%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+Slim+K950&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "テンキー付きフルサイズキーボード",
-    "shortTitle": "ワイヤレスキーボード、薄さだけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=VzGLiokVMPI",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 27,
-    "updatedAt": "2026-07-17"
   },
   {
     "id": "s091-03-logicool-mx-keys-mini-kx700",
@@ -1047,77 +1187,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=VzGLiokVMPI",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 26,
-    "updatedAt": "2026-07-17"
-  },
-  {
-    "id": "s090-01-logicool-c270n-hd-webcam",
-    "title": "Logicool C270n HD Webcam",
-    "description": "固定フォーカスHDカメラとしてShortsで紹介した候補です。画角、解像度とフレームレート、ピント、設置方法、プライバシー機能を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/webcam/c270n/c270nd_01_s_r.jpg?_ex=128x128",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fc270nd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000670%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+C270n+HD+Webcam&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "Webカメラ",
-    "itemCategory": "固定フォーカスHDカメラ",
-    "shortTitle": "Webカメラ、画素数だけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 25,
-    "updatedAt": "2026-07-17"
-  },
-  {
-    "id": "s090-02-logicool-c920n-hd-pro-webcam",
-    "title": "Logicool C920n HD Pro Webcam",
-    "description": "オートフォーカスFull HDカメラとしてShortsで紹介した候補です。画角、解像度とフレームレート、ピント、設置方法、プライバシー機能を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/webcam/c920n/c920n_s.jpg?_ex=128x128",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fc920n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000181%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+C920n+HD+Pro+Webcam&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "Webカメラ",
-    "itemCategory": "オートフォーカスFull HDカメラ",
-    "shortTitle": "Webカメラ、画素数だけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 24,
+    "priority": 22,
     "updatedAt": "2026-07-17"
   },
   {
@@ -1152,7 +1222,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 23,
+    "priority": 21,
     "updatedAt": "2026-07-17"
   },
   {
@@ -1187,7 +1257,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 22,
+    "priority": 20,
     "updatedAt": "2026-07-12"
   },
   {
@@ -1222,7 +1292,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 21,
+    "priority": 19,
     "updatedAt": "2026-07-12"
   },
   {
@@ -1257,7 +1327,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 20,
+    "priority": 18,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1292,7 +1362,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 19,
+    "priority": 17,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1327,7 +1397,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 18,
+    "priority": 16,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1362,7 +1432,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=J8-RtFnJd10",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 17,
+    "priority": 15,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1397,7 +1467,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=J8-RtFnJd10",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 16,
+    "priority": 14,
     "updatedAt": "2026-07-10"
   },
   {
@@ -1432,7 +1502,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=37gZZ8Bz1_M",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 15,
+    "priority": 13,
     "updatedAt": "2026-07-08"
   },
   {
@@ -1467,7 +1537,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=37gZZ8Bz1_M",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 14,
+    "priority": 12,
     "updatedAt": "2026-07-08"
   },
   {
@@ -1502,7 +1572,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=37gZZ8Bz1_M",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 13,
+    "priority": 11,
     "updatedAt": "2026-07-08"
   },
   {
@@ -1537,7 +1607,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=D9QYV36Br2s",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 12,
+    "priority": 10,
     "updatedAt": "2026-07-07"
   },
   {
@@ -1572,7 +1642,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=D9QYV36Br2s",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 11,
+    "priority": 9,
     "updatedAt": "2026-07-07"
   },
   {
@@ -1607,7 +1677,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=MXArN2xXicA",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 10,
+    "priority": 8,
     "updatedAt": "2026-07-06"
   },
   {
@@ -1642,7 +1712,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=gFRPB7CyreU",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 9,
+    "priority": 7,
     "updatedAt": "2026-06-30"
   },
   {
@@ -1677,7 +1747,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=gFRPB7CyreU",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 8,
+    "priority": 6,
     "updatedAt": "2026-06-30"
   },
   {
@@ -1712,7 +1782,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=gFRPB7CyreU",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 7,
+    "priority": 5,
     "updatedAt": "2026-06-30"
   },
   {
@@ -1747,7 +1817,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=gFRPB7CyreU",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 6,
+    "priority": 4,
     "updatedAt": "2026-06-30"
   },
   {
@@ -1782,42 +1852,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TosLYOCdOm4",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 5,
-    "updatedAt": "2026-06-27"
-  },
-  {
-    "id": "s070-02-benq-screenbar",
-    "title": "BenQ ScreenBar モニターライト",
-    "description": "モニターライトとしてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
-    "imageUrl": "./product-placeholder.svg",
-    "merchant": "ベンキューダイレクト楽天市場店",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ベンキューダイレクト楽天市場店",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tkdfn.k9qwp815.g00tkdfn.k9qwq946/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenq-directshop%2Flighting-screenbar-pro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenq-directshop%2Fi%2F10000421%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=BenQ+ScreenBar+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "モニターライト",
-    "itemCategory": "モニターライト",
-    "shortTitle": "モニターライトかデスクライト、買う前に見て #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=TosLYOCdOm4",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 4,
+    "priority": 3,
     "updatedAt": "2026-06-27"
   },
   {
@@ -1852,7 +1887,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TosLYOCdOm4",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 3,
+    "priority": 2,
     "updatedAt": "2026-06-27"
   },
   {
@@ -1885,41 +1920,6 @@
     "itemCategory": "USB充電器",
     "shortTitle": "買う前に見て。AIが選んだ後悔しやすいデスク用品 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=nbT1nysOhpA",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 2,
-    "updatedAt": "2026-06-23"
-  },
-  {
-    "id": "s068-03-quntis",
-    "title": "Quntis モニターライト",
-    "description": "モニターライトとしてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
-    "imageUrl": "./product-placeholder.svg",
-    "merchant": "メイケイ",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "メイケイ",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00usuvn.k9qwpef6.g00usuvn.k9qwqa24/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeikeishop%2Fli-hy-2214-wt-qu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeikeishop%2Fi%2F10000007%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Quntis+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "モニターライト",
-    "itemCategory": "モニターライト",
-    "shortTitle": "モニターライト、買う前にこの3つだけ見て #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=9GkA-fnYZUA",
     "shortStatus": "public",
     "isPr": true,
     "priority": 1,
