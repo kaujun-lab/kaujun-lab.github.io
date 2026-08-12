@@ -1,6 +1,76 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s120-01-anker-prime-a83b3",
+    "title": "Anker Prime ドッキングステーション A83B3",
+    "description": "DisplayLinkでMac・Windowsの3画面同時出力に対応する候補としてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a83b3_normal.jpg?_ex=128x128",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa83b3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10002479%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+Prime+%E3%83%89%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+A83B3&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "USB-Cハブ",
+    "itemCategory": "DisplayLinkでMac・Windowsの3画面同時出力に対応する候補",
+    "shortTitle": "ドッキングステーション、3画面対応でも映らない理由 #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=qrJvJxhF_Y0",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 58,
+    "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "s120-02-usb-cvdk13",
+    "title": "サンワサプライ USB-CVDK13",
+    "description": "接続台数ごとの解像度上限を明記したHDMI 3ポートのドッキングステーション候補としてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/9532/00000011677302_a01.jpg?_ex=128x128",
+    "merchant": "楽天ビック(ビックカメラ×楽天)",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天ビック(ビックカメラ×楽天)",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.k9qwpe94.g00r7ldn.k9qwqe8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4969887595503%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F14258721%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%B3%E3%83%AF%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4+USB-CVDK13&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "USB-Cハブ",
+    "itemCategory": "接続台数ごとの解像度上限を明記したHDMI 3ポートのドッキングステーション候補",
+    "shortTitle": "ドッキングステーション、3画面対応でも映らない理由 #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=qrJvJxhF_Y0",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 57,
+    "updatedAt": "2026-08-13"
+  },
+  {
     "id": "s119-01-benq-screenbar-pro",
     "title": "BenQ ScreenBar Pro モニターライト",
     "description": "広い作業面を照らす公式85×50cmの候補としてShortsで紹介した候補です。モニターの厚み、固定方法、反射、給電位置を購入前に確認してください。",
