@@ -1,6 +1,216 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s123-01-sw-kvm2whuus",
+    "title": "サンワサプライ SW-KVM2WHUUS",
+    "description": "手元スイッチ式・4K60Hz対応のシンプルなPC切替器候補としてShortsで紹介した候補です。サイズ、置き場所、毎日の使いやすさを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/s/sw-kvm2whuus.jpg?_ex=128x128",
+    "merchant": "サンワダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "サンワダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pmmbn.k9qwpbfc.g00pmmbn.k9qwqbef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2Fsw-kvm2whuus%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10105928%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=SW-KVM2WHUUS&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "デスク用品",
+    "itemCategory": "手元スイッチ式・4K60Hz対応のシンプルなPC切替器候補",
+    "shortTitle": "PC切替器、切り替えるたび画面配置が崩れる理由 #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 64,
+    "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "s123-02-sw-kvm2u3hd",
+    "title": "サンワサプライ SW-KVM2U3HD",
+    "description": "EDIDエミュレーション・USB 5Gbpsハブ搭載のPC切替器候補としてShortsで紹介した候補です。出力W数、ポート数、対応端末、設置場所を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/1954/4969887595183.jpg?_ex=128x128",
+    "merchant": "Joshin web 家電とPCの大型専門店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "Joshin web 家電とPCの大型専門店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pukwn.k9qwpf98.g00pukwn.k9qwq8ee/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F4969887595183-44-7750-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjism%2Fi%2F13862925%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=SW-KVM2U3HD&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "充電器",
+    "itemCategory": "EDIDエミュレーション・USB 5Gbpsハブ搭載のPC切替器候補",
+    "shortTitle": "PC切替器、切り替えるたび画面配置が崩れる理由 #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 63,
+    "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "s122-01-anker-charging-station-7-in-1-10",
+    "title": "Anker Charging Station (7-in-1, 100W) A91C4",
+    "description": "単ポート最大100W・7-in-1のUSB電源タップ候補としてShortsで紹介した候補です。AC定格、差込口とUSBポートの数、USB出力、コード長、設置条件を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a9/a91c4_normal.jpg?_ex=128x128",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa91c4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001749%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+A91C4&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "電源タップ",
+    "itemCategory": "単ポート最大100W・7-in-1のUSB電源タップ候補",
+    "shortTitle": "PD充電器100W、2台つなぐと出力が変わります #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=TCBPQDgycCE",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 62,
+    "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "s122-02-anker-nano-charging-station-7-in",
+    "title": "Anker Nano Charging Station (7-in-1, 100W) A91C8",
+    "description": "巻取り式USB-Cケーブル搭載・7-in-1のUSB電源タップ候補としてShortsで紹介した候補です。AC定格、差込口とUSBポートの数、USB出力、コード長、設置条件を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/pc-express/cabinet/system/zejuoi9mwk/dn7b9jpdldqzqnp.jpg?_ex=128x128",
+    "merchant": "PC&家電《CaravanYU 楽天市場店》",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "PC&家電《CaravanYU 楽天市場店》",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pt6rn.k9qwp070.g00pt6rn.k9qwq345/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-express%2F4571411227912%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-express%2Fi%2F10763861%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+A91C8&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "電源タップ",
+    "itemCategory": "巻取り式USB-Cケーブル搭載・7-in-1のUSB電源タップ候補",
+    "shortTitle": "PD充電器100W、2台つなぐと出力が変わります #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=TCBPQDgycCE",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 61,
+    "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "s121-01-eizo-flexscan-ev2740x-bk",
+    "title": "EIZO FlexScan EV2740X-BK",
+    "description": "27型4K・USB-C接続の仕事用モニター候補としてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/7856/00000011235348_a01.jpg?_ex=128x128",
+    "merchant": "楽天ビック(ビックカメラ×楽天)",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天ビック(ビックカメラ×楽天)",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.k9qwpe94.g00r7ldn.k9qwqe8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4995047065180%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F14097495%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=EIZO+EV2740X-BK&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCモニター",
+    "itemCategory": "27型4K・USB-C接続の仕事用モニター候補",
+    "shortTitle": "27インチモニター、仕事用は4KかWQHDか #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=6NpLlqRv0WY",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 60,
+    "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "s121-02-eizo-flexscan-ev2720s-bk",
+    "title": "EIZO FlexScan EV2720S-BK",
+    "description": "27型WQHD・USB-C接続の仕事用モニター候補としてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/11602/00000013957683_a01.jpg?_ex=128x128",
+    "merchant": "楽天ビック(ビックカメラ×楽天)",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天ビック(ビックカメラ×楽天)",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.k9qwpe94.g00r7ldn.k9qwqe8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4995047069553%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F15096361%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=EIZO+EV2720S-BK&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCモニター",
+    "itemCategory": "27型WQHD・USB-C接続の仕事用モニター候補",
+    "shortTitle": "27インチモニター、仕事用は4KかWQHDか #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=6NpLlqRv0WY",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 59,
+    "updatedAt": "2026-08-13"
+  },
+  {
     "id": "s120-01-anker-prime-a83b3",
     "title": "Anker Prime ドッキングステーション A83B3",
     "description": "DisplayLinkでMac・Windowsの3画面同時出力に対応する候補としてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
