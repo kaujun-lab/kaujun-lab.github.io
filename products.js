@@ -1,6 +1,216 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s126-01-logicool-lift-m800",
+    "title": "Logicool Lift M800",
+    "description": "小〜中サイズの手向けと公式案内される57度の縦型マウスとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m800gr/m800gr_r.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm800gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000454%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Lift+M800&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "小〜中サイズの手向けと公式案内される57度の縦型マウス",
+    "shortTitle": "縦型マウス、57度より先に手の大きさです #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=5J8yib-YE8E",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 69,
+    "updatedAt": "2026-08-16"
+  },
+  {
+    "id": "s126-02-logicool-mx-vertical-mxv1s",
+    "title": "Logicool MX Vertical MXV1s",
+    "description": "大きい手向けの候補として公式比較に掲載される57度の縦型マウスとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/mxv1s/mxv1s_01.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fmxv1s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000302%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+MX+Vertical+MXV1s&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "大きい手向けの候補として公式比較に掲載される57度の縦型マウス",
+    "shortTitle": "縦型マウス、57度より先に手の大きさです #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=5J8yib-YE8E",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 68,
+    "updatedAt": "2026-08-16"
+  },
+  {
+    "id": "s125-01-anker-usb-c-usb-c-240w-a80e",
+    "title": "Anker USB-C & USB-C ケーブル (240W, エコフレンドリーナイロン) A80E",
+    "description": "最大240W充電に対応し、映像出力には非対応のUSB-CケーブルとしてShortsで紹介した候補です。収納サイズ、電源タップの収まり、放熱、配線の取り回しを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a80e2_normal.jpg?_ex=600x600",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa80e2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001225%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+A80E+240W+USB-C+%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "ケーブル整理",
+    "itemCategory": "最大240W充電に対応し、映像出力には非対応のUSB-Cケーブル",
+    "shortTitle": "USB-Cケーブル、240W対応でも映像は映りません #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=wtveyzidW2I",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 67,
+    "updatedAt": "2026-08-16"
+  },
+  {
+    "id": "s125-02-anker-prime-usb-c-usb-c-thunderb",
+    "title": "Anker Prime USB-C & USB-C ケーブル Thunderbolt 4 (240W, 40Gbps) A84N0",
+    "description": "240W充電・40Gbps転送・最大8K映像出力に対応するケーブルとしてShortsで紹介した候補です。収納サイズ、電源タップの収まり、放熱、配線の取り回しを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a84n0_normal.jpg?_ex=600x600",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa84n0%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10002309%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+Prime+Thunderbolt+4+240W+40Gbps+A84N0&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "ケーブル整理",
+    "itemCategory": "240W充電・40Gbps転送・最大8K映像出力に対応するケーブル",
+    "shortTitle": "USB-Cケーブル、240W対応でも映像は映りません #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=wtveyzidW2I",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 66,
+    "updatedAt": "2026-08-16"
+  },
+  {
+    "id": "s124-01-anker-prime-charger-200w-6-ports",
+    "title": "Anker Prime Charger (200W, 6 Ports, GaN) A2683",
+    "description": "合計200W・単ポート最大100Wの6ポート据え置き充電器としてShortsで紹介した候補です。出力W数、ポート数、対応端末、設置場所を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a2/a2683_normal.jpg?_ex=600x600",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2683%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001990%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+Prime+Charger+200W+A2683&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "充電器",
+    "itemCategory": "合計200W・単ポート最大100Wの6ポート据え置き充電器",
+    "shortTitle": "100WノートPC、他ポートも使うなら配分表です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=xy5b4fkVAcs",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 65,
+    "updatedAt": "2026-08-16"
+  },
+  {
+    "id": "s124-02-anker-prime-desktop-charger-240w",
+    "title": "Anker Prime Desktop Charger (240W, 4 ports, GaN) A2342",
+    "description": "C1+C2利用時に140W+100Wの組み合わせを持つ4ポート充電器としてShortsで紹介した候補です。出力W数、ポート数、対応端末、設置場所を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a2/a2342_normal.jpg?_ex=600x600",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2342%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001711%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+Prime+Desktop+Charger+240W+A2342&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "充電器",
+    "itemCategory": "C1+C2利用時に140W+100Wの組み合わせを持つ4ポート充電器",
+    "shortTitle": "100WノートPC、他ポートも使うなら配分表です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=xy5b4fkVAcs",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 64,
+    "updatedAt": "2026-08-16"
+  },
+  {
     "id": "s123-01-sw-kvm2whuus",
     "title": "サンワサプライ SW-KVM2WHUUS",
     "description": "手元スイッチ式・4K60Hz対応のシンプルなPC切替器候補としてShortsで紹介した候補です。サイズ、置き場所、毎日の使いやすさを購入前に確認してください。",
@@ -32,7 +242,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 64,
+    "priority": 63,
     "updatedAt": "2026-08-13"
   },
   {
@@ -67,7 +277,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 63,
+    "priority": 62,
     "updatedAt": "2026-08-13"
   },
   {
@@ -100,9 +310,9 @@
     "itemCategory": "単ポート最大100W・7-in-1のUSB電源タップ候補",
     "shortTitle": "PD充電器100W、2台つなぐと出力が変わります #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=TCBPQDgycCE",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 62,
+    "priority": 61,
     "updatedAt": "2026-08-13"
   },
   {
@@ -135,9 +345,9 @@
     "itemCategory": "巻取り式USB-Cケーブル搭載・7-in-1のUSB電源タップ候補",
     "shortTitle": "PD充電器100W、2台つなぐと出力が変わります #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=TCBPQDgycCE",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 61,
+    "priority": 60,
     "updatedAt": "2026-08-13"
   },
   {
@@ -170,9 +380,9 @@
     "itemCategory": "27型4K・USB-C接続の仕事用モニター候補",
     "shortTitle": "27インチモニター、仕事用は4KかWQHDか #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=6NpLlqRv0WY",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 60,
+    "priority": 59,
     "updatedAt": "2026-08-13"
   },
   {
@@ -205,9 +415,9 @@
     "itemCategory": "27型WQHD・USB-C接続の仕事用モニター候補",
     "shortTitle": "27インチモニター、仕事用は4KかWQHDか #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=6NpLlqRv0WY",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 59,
+    "priority": 58,
     "updatedAt": "2026-08-13"
   },
   {
@@ -240,9 +450,9 @@
     "itemCategory": "DisplayLinkでMac・Windowsの3画面同時出力に対応する候補",
     "shortTitle": "ドッキングステーション、3画面対応でも映らない理由 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=qrJvJxhF_Y0",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 58,
+    "priority": 57,
     "updatedAt": "2026-08-13"
   },
   {
@@ -275,9 +485,9 @@
     "itemCategory": "接続台数ごとの解像度上限を明記したHDMI 3ポートのドッキングステーション候補",
     "shortTitle": "ドッキングステーション、3画面対応でも映らない理由 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=qrJvJxhF_Y0",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 57,
+    "priority": 56,
     "updatedAt": "2026-08-13"
   },
   {
@@ -310,9 +520,9 @@
     "itemCategory": "広い作業面を照らす公式85×50cmの候補",
     "shortTitle": "モニターライト、1000ルクスより先に範囲です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=iC-z0I_ELY0",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 56,
+    "priority": 55,
     "updatedAt": "2026-08-09"
   },
   {
@@ -345,9 +555,9 @@
     "itemCategory": "必要範囲と設置条件を比較する価格重視候補",
     "shortTitle": "モニターライト、1000ルクスより先に範囲です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=iC-z0I_ELY0",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 55,
+    "priority": 54,
     "updatedAt": "2026-08-09"
   },
   {
@@ -380,9 +590,9 @@
     "itemCategory": "マウスの操作幅を残しやすいコンパクト候補",
     "shortTitle": "キーボード、テンキーより先にマウス幅です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=NGG92CahYKE",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 54,
+    "priority": 53,
     "updatedAt": "2026-08-09"
   },
   {
@@ -415,9 +625,9 @@
     "itemCategory": "テンキーを残すフルサイズ候補",
     "shortTitle": "キーボード、テンキーより先にマウス幅です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=NGG92CahYKE",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 53,
+    "priority": 52,
     "updatedAt": "2026-08-09"
   },
   {
@@ -450,9 +660,9 @@
     "itemCategory": "一人を寄り気味に映す55度画角の候補",
     "shortTitle": "Webカメラ、1080pより先に画角です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=DT05DvxhR4A",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 52,
+    "priority": 51,
     "updatedAt": "2026-08-09"
   },
   {
@@ -485,9 +695,9 @@
     "itemCategory": "机やジェスチャーも映しやすい78度画角の候補",
     "shortTitle": "Webカメラ、1080pより先に画角です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=DT05DvxhR4A",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 51,
+    "priority": 50,
     "updatedAt": "2026-08-09"
   },
   {
@@ -520,9 +730,9 @@
     "itemCategory": "天板クランプとUSB-C給電を優先する構成",
     "shortTitle": "クランプ式電源タップ、天板厚だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=tDIG89l2FW4",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 50,
+    "priority": 49,
     "updatedAt": "2026-08-09"
   },
   {
@@ -555,9 +765,9 @@
     "itemCategory": "標準シングルガス式モニターアーム",
     "shortTitle": "モニターアーム、奥行きを測らず買うとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=TKU8NmU6QHw",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 49,
+    "priority": 48,
     "updatedAt": "2026-08-09"
   },
   {
@@ -590,9 +800,9 @@
     "itemCategory": "PC専用 / 5-in-1",
     "shortTitle": "USB-Cハブ、100W表記だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=kKdIwkDet_I",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 48,
+    "priority": 47,
     "updatedAt": "2026-08-09"
   },
   {
@@ -625,9 +835,9 @@
     "itemCategory": "高出力仕様 / 4K@60Hz",
     "shortTitle": "USB-Cハブ、100W表記だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=kKdIwkDet_I",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 47,
+    "priority": 46,
     "updatedAt": "2026-08-09"
   },
   {
@@ -660,9 +870,9 @@
     "itemCategory": "27インチWQHD高リフレッシュモニター",
     "shortTitle": "300Hzモニター、数字だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=c1LjrLqCwHg",
-    "shortStatus": "uploaded_unlisted",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 46,
+    "priority": 45,
     "updatedAt": "2026-08-06"
   },
   {
@@ -695,9 +905,9 @@
     "itemCategory": "27インチ4K USB-Cモニター",
     "shortTitle": "デュアルモニター、同じ27型だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=VAHRgrknwiw",
-    "shortStatus": "uploaded_unlisted",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 45,
+    "priority": 44,
     "updatedAt": "2026-08-06"
   },
   {
@@ -732,7 +942,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=dDTmXosn1WE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 44,
+    "priority": 43,
     "updatedAt": "2026-07-31"
   },
   {
@@ -767,7 +977,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=jI5xTvn3Mzs",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 43,
+    "priority": 42,
     "updatedAt": "2026-07-31"
   },
   {
@@ -802,7 +1012,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=MwLZe30GSxw",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 42,
+    "priority": 41,
     "updatedAt": "2026-07-31"
   },
   {
@@ -835,9 +1045,9 @@
     "itemCategory": "USB-C PD充電器",
     "shortTitle": "65W充電器、数字だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=pKPAwVRCmGg",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 41,
+    "priority": 40,
     "updatedAt": "2026-07-31"
   },
   {
@@ -870,9 +1080,9 @@
     "itemCategory": "マグネット式ケーブルホルダー",
     "shortTitle": "ケーブルが毎日落ちるなら、まず直径を見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=4mRhNR3ReUk",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 40,
+    "priority": 39,
     "updatedAt": "2026-07-31"
   },
   {
@@ -907,7 +1117,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 39,
+    "priority": 38,
     "updatedAt": "2026-07-24"
   },
   {
@@ -942,7 +1152,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 38,
+    "priority": 37,
     "updatedAt": "2026-07-24"
   },
   {
@@ -977,7 +1187,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 37,
+    "priority": 36,
     "updatedAt": "2026-07-24"
   },
   {
@@ -1012,7 +1222,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 36,
+    "priority": 35,
     "updatedAt": "2026-07-24"
   },
   {
@@ -1047,7 +1257,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 35,
+    "priority": 34,
     "updatedAt": "2026-07-24"
   },
   {
@@ -1082,7 +1292,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 34,
+    "priority": 33,
     "updatedAt": "2026-07-24"
   },
   {
@@ -1113,41 +1323,6 @@
     ],
     "category": "入力機器",
     "itemCategory": "薄型コンパクトマウス",
-    "shortTitle": "ワイヤレスマウス、接続方式だけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=IkTfS-EB9pg",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 33,
-    "updatedAt": "2026-07-24"
-  },
-  {
-    "id": "s101-03-logicool-lift-m800",
-    "title": "Logicool Lift M800",
-    "description": "縦型エルゴノミックマウスとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m800gr/m800gr_r.jpg?_ex=128x128",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm800gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000454%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Lift+M800&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "縦型エルゴノミックマウス",
     "shortTitle": "ワイヤレスマウス、接続方式だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=IkTfS-EB9pg",
     "shortStatus": "public",
