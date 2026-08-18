@@ -1,6 +1,216 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s129-01-sandisk-extreme-portable-ssd-1tb",
+    "title": "SanDisk Extreme Portable SSD 1TB SDSSDE61",
+    "description": "10GbpsポータブルSSDとしてShortsで紹介した候補です。端子、接続機器側の対応速度、直挿しかケーブル式か、対応OSを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/kazamidori/cabinet/products9/0619659182557.jpg?_ex=600x600",
+    "merchant": "風見鶏",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "風見鶏",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q2htn.k9qwp34a.g00q2htn.k9qwqa72/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkazamidori%2F0619659182557%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkazamidori%2Fi%2F10015007%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=SanDisk+Extreme+Portable+SSD+1TB+SDSSDE61&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "外付けSSD",
+    "itemCategory": "10GbpsポータブルSSD",
+    "shortTitle": "外付けSSD、2000MB/sでもPC端子が10Gbpsなら伸びません #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=caXT-KLFh-8",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 74,
+    "updatedAt": "2026-08-19"
+  },
+  {
+    "id": "s129-02-sandisk-extreme-pro-portable-ssd",
+    "title": "SanDisk Extreme PRO Portable SSD 1TB SDSSDE81",
+    "description": "20GbpsポータブルSSDとしてShortsで紹介した候補です。端子、接続機器側の対応速度、直挿しかケーブル式か、対応OSを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/6040/00000008697362_a01.jpg?_ex=600x600",
+    "merchant": "楽天ビック(ビックカメラ×楽天)",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天ビック(ビックカメラ×楽天)",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.k9qwpe94.g00r7ldn.k9qwqe8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4523052024337%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F13347043%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=SanDisk+Extreme+PRO+Portable+SSD+1TB+SDSSDE81&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "外付けSSD",
+    "itemCategory": "20GbpsポータブルSSD",
+    "shortTitle": "外付けSSD、2000MB/sでもPC端子が10Gbpsなら伸びません #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=caXT-KLFh-8",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 73,
+    "updatedAt": "2026-08-19"
+  },
+  {
+    "id": "s128-01-anker-hdmi-8k-a8741",
+    "title": "Anker HDMI ケーブル (8K) A8741",
+    "description": "Ultra High Speed HDMIケーブルとしてShortsで紹介した候補です。必要な映像・転送規格、帯域、長さ、端子の向き、接続機器側の対応を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a8741_normal.jpg?_ex=600x600",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8741%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001714%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+HDMI+%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB+8K+A8741&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "接続ケーブル",
+    "itemCategory": "Ultra High Speed HDMIケーブル",
+    "shortTitle": "HDMIケーブル、4K120なら高い方が正解ではありません #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=CRZDsMcFvp8",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 72,
+    "updatedAt": "2026-08-19"
+  },
+  {
+    "id": "s128-02-anker-ultra-high-speed-hdmi-a874",
+    "title": "Anker Ultra High Speed HDMI ケーブル A8743",
+    "description": "高耐久Ultra High Speed HDMIケーブルとしてShortsで紹介した候補です。必要な映像・転送規格、帯域、長さ、端子の向き、接続機器側の対応を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a8743_normal.jpg?_ex=600x600",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8743%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000929%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+Ultra+High+Speed+HDMI+%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB+A8743&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "接続ケーブル",
+    "itemCategory": "高耐久Ultra High Speed HDMIケーブル",
+    "shortTitle": "HDMIケーブル、4K120なら高い方が正解ではありません #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=CRZDsMcFvp8",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 71,
+    "updatedAt": "2026-08-19"
+  },
+  {
+    "id": "s127-01-anker-prime-a83b3",
+    "title": "Anker Prime ドッキングステーション A83B3",
+    "description": "DisplayLinkドッキングステーションとしてShortsで紹介した候補です。PCとOS、映像方式、接続できる画面数、必要なアプリ、給電条件を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a83b3_normal.jpg?_ex=600x600",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa83b3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10002479%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+Prime+%E3%83%89%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+A83B3&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "ドッキングステーション",
+    "itemCategory": "DisplayLinkドッキングステーション",
+    "shortTitle": "Macで2画面、HDMIが2つでも別々に映らない #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=RcLlgZp3wSg",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 70,
+    "updatedAt": "2026-08-19"
+  },
+  {
+    "id": "s127-02-anker-prime-a83b6",
+    "title": "Anker Prime ドッキングステーション A83B6",
+    "description": "MSTドッキングステーションとしてShortsで紹介した候補です。PCとOS、映像方式、接続できる画面数、必要なアプリ、給電条件を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a83b6_normal.jpg?_ex=600x600",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa83b6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001986%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+Prime+%E3%83%89%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+A83B6&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "ドッキングステーション",
+    "itemCategory": "MSTドッキングステーション",
+    "shortTitle": "Macで2画面、HDMIが2つでも別々に映らない #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=RcLlgZp3wSg",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 69,
+    "updatedAt": "2026-08-19"
+  },
+  {
     "id": "s126-01-logicool-lift-m800",
     "title": "Logicool Lift M800",
     "description": "小〜中サイズの手向けと公式案内される57度の縦型マウスとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
@@ -32,7 +242,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5J8yib-YE8E",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 69,
+    "priority": 68,
     "updatedAt": "2026-08-16"
   },
   {
@@ -67,13 +277,13 @@
     "shortUrl": "https://www.youtube.com/watch?v=5J8yib-YE8E",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 68,
+    "priority": 67,
     "updatedAt": "2026-08-16"
   },
   {
     "id": "s125-01-anker-usb-c-usb-c-240w-a80e",
     "title": "Anker USB-C & USB-C ケーブル (240W, エコフレンドリーナイロン) A80E",
-    "description": "最大240W充電に対応し、映像出力には非対応のUSB-CケーブルとしてShortsで紹介した候補です。収納サイズ、電源タップの収まり、放熱、配線の取り回しを購入前に確認してください。",
+    "description": "最大240W充電に対応し、映像出力には非対応のUSB-CケーブルとしてShortsで紹介した候補です。必要な映像・転送規格、帯域、長さ、端子の向き、接続機器側の対応を購入前に確認してください。",
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a80e2_normal.jpg?_ex=600x600",
     "merchant": "アンカー・ダイレクト楽天市場店",
     "offers": [
@@ -96,19 +306,19 @@
         "ctaLabel": "Amazonで探す"
       }
     ],
-    "category": "ケーブル整理",
+    "category": "接続ケーブル",
     "itemCategory": "最大240W充電に対応し、映像出力には非対応のUSB-Cケーブル",
     "shortTitle": "USB-Cケーブル、240W対応でも映像は映りません #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=wtveyzidW2I",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 67,
+    "priority": 66,
     "updatedAt": "2026-08-16"
   },
   {
     "id": "s125-02-anker-prime-usb-c-usb-c-thunderb",
     "title": "Anker Prime USB-C & USB-C ケーブル Thunderbolt 4 (240W, 40Gbps) A84N0",
-    "description": "240W充電・40Gbps転送・最大8K映像出力に対応するケーブルとしてShortsで紹介した候補です。収納サイズ、電源タップの収まり、放熱、配線の取り回しを購入前に確認してください。",
+    "description": "240W充電・40Gbps転送・最大8K映像出力に対応するケーブルとしてShortsで紹介した候補です。必要な映像・転送規格、帯域、長さ、端子の向き、接続機器側の対応を購入前に確認してください。",
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a84n0_normal.jpg?_ex=600x600",
     "merchant": "アンカー・ダイレクト楽天市場店",
     "offers": [
@@ -131,13 +341,13 @@
         "ctaLabel": "Amazonで探す"
       }
     ],
-    "category": "ケーブル整理",
+    "category": "接続ケーブル",
     "itemCategory": "240W充電・40Gbps転送・最大8K映像出力に対応するケーブル",
     "shortTitle": "USB-Cケーブル、240W対応でも映像は映りません #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=wtveyzidW2I",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 66,
+    "priority": 65,
     "updatedAt": "2026-08-16"
   },
   {
@@ -172,7 +382,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=xy5b4fkVAcs",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 65,
+    "priority": 64,
     "updatedAt": "2026-08-16"
   },
   {
@@ -207,7 +417,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=xy5b4fkVAcs",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 64,
+    "priority": 63,
     "updatedAt": "2026-08-16"
   },
   {
@@ -242,7 +452,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 63,
+    "priority": 62,
     "updatedAt": "2026-08-13"
   },
   {
@@ -277,7 +487,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 62,
+    "priority": 61,
     "updatedAt": "2026-08-13"
   },
   {
@@ -312,7 +522,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TCBPQDgycCE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 61,
+    "priority": 60,
     "updatedAt": "2026-08-13"
   },
   {
@@ -347,7 +557,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TCBPQDgycCE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 60,
+    "priority": 59,
     "updatedAt": "2026-08-13"
   },
   {
@@ -382,7 +592,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6NpLlqRv0WY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 59,
+    "priority": 58,
     "updatedAt": "2026-08-13"
   },
   {
@@ -417,48 +627,13 @@
     "shortUrl": "https://www.youtube.com/watch?v=6NpLlqRv0WY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 58,
-    "updatedAt": "2026-08-13"
-  },
-  {
-    "id": "s120-01-anker-prime-a83b3",
-    "title": "Anker Prime ドッキングステーション A83B3",
-    "description": "DisplayLinkでMac・Windowsの3画面同時出力に対応する候補としてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a83b3_normal.jpg?_ex=128x128",
-    "merchant": "アンカー・ダイレクト楽天市場店",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "アンカー・ダイレクト楽天市場店",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa83b3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10002479%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+Prime+%E3%83%89%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+A83B3&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "USB-Cハブ",
-    "itemCategory": "DisplayLinkでMac・Windowsの3画面同時出力に対応する候補",
-    "shortTitle": "ドッキングステーション、3画面対応でも映らない理由 #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=qrJvJxhF_Y0",
-    "shortStatus": "public",
-    "isPr": true,
     "priority": 57,
     "updatedAt": "2026-08-13"
   },
   {
     "id": "s120-02-usb-cvdk13",
     "title": "サンワサプライ USB-CVDK13",
-    "description": "接続台数ごとの解像度上限を明記したHDMI 3ポートのドッキングステーション候補としてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
+    "description": "接続台数ごとの解像度上限を明記したHDMI 3ポートのドッキングステーション候補としてShortsで紹介した候補です。PCとOS、映像方式、接続できる画面数、必要なアプリ、給電条件を購入前に確認してください。",
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/9532/00000011677302_a01.jpg?_ex=128x128",
     "merchant": "楽天ビック(ビックカメラ×楽天)",
     "offers": [
@@ -481,7 +656,7 @@
         "ctaLabel": "Amazonで探す"
       }
     ],
-    "category": "USB-Cハブ",
+    "category": "ドッキングステーション",
     "itemCategory": "接続台数ごとの解像度上限を明記したHDMI 3ポートのドッキングステーション候補",
     "shortTitle": "ドッキングステーション、3画面対応でも映らない理由 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=qrJvJxhF_Y0",
@@ -1858,7 +2033,7 @@
   {
     "id": "s077-02-usb-c",
     "title": "外部モニター向けUSB-Cハブ",
-    "description": "4K60Hz HDMI対応USB-CハブとしてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
+    "description": "4K60Hz HDMI対応USB-CハブとしてShortsで紹介した候補です。必要な映像・転送規格、帯域、長さ、端子の向き、接続機器側の対応を購入前に確認してください。",
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/best-plice/cabinet/g/30/e9g6tg4civ-1.jpg?_ex=128x128",
     "merchant": "ベストプライスオンラインストア",
     "offers": [
@@ -1881,7 +2056,7 @@
         "ctaLabel": "Amazonで探す"
       }
     ],
-    "category": "USB-Cハブ",
+    "category": "接続ケーブル",
     "itemCategory": "4K60Hz HDMI対応USB-Cハブ",
     "shortTitle": "USB-Cハブ、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=J8-RtFnJd10",
