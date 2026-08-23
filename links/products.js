@@ -1,6 +1,356 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s134-01-z-pc",
+    "title": "折りたたみ式 Z型ノートPCスタンド",
+    "description": "目線と角度を調整する折りたたみ式ノートPCスタンドとしてShortsで紹介した候補です。対応インチ、高さと角度の調整幅、安定性、放熱性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/dotline/cabinet/pc/s-laptop7dan/2511laptop/2511laptop-1.jpg?_ex=600x600",
+    "merchant": "Dot Line 便利雑貨&レディース靴",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "Dot Line 便利雑貨&レディース靴",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tf97n.k9qwpaa7.g00tf97n.k9qwqa6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdotline%2F998002pcstand%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdotline%2Fi%2F10000195%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%83%8E%E3%83%BC%E3%83%88PC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89+%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF+Z%E5%9E%8B+%E3%82%A2%E3%83%AB%E3%83%9F+%E9%AB%98%E3%81%95%E8%AA%BF%E6%95%B4&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "ノートPCスタンド",
+    "itemCategory": "目線と角度を調整する折りたたみ式ノートPCスタンド",
+    "shortTitle": "ノートPCスタンド、目線と冷却は別目的です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=mC_IBzd5CC8",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 76,
+    "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "s134-02-pc-400-cln031",
+    "title": "サンワダイレクト ノートPC冷却台 400-CLN031",
+    "description": "USB給電ファンを備える15.6インチ対応ノートPC冷却台としてShortsで紹介した候補です。対応インチ、高さと角度の調整幅、安定性、放熱性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/4/400-cln031.jpg?_ex=600x600",
+    "merchant": "サンワダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "サンワダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pmmbn.k9qwpbfc.g00pmmbn.k9qwqbef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F400-cln031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10097993%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%B3%E3%83%AF%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88+400-CLN031+%E3%83%8E%E3%83%BC%E3%83%88PC+%E5%86%B7%E5%8D%B4%E5%8F%B0&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "ノートPCスタンド",
+    "itemCategory": "USB給電ファンを備える15.6インチ対応ノートPC冷却台",
+    "shortTitle": "ノートPCスタンド、目線と冷却は別目的です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=mC_IBzd5CC8",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 75,
+    "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "s133-01-elecom-dpa-ss02bk",
+    "title": "ELECOM DPA-SS02BK",
+    "description": "17〜32インチ・2〜9kg対応のガス式モニターアームとしてShortsで紹介した候補です。画面ごとの重量、VESA規格、天板の固定条件、必要な可動域を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elecom/cabinet/s500_17/dpa-ss02bk_03r.jpg?_ex=600x600",
+    "merchant": "エレコムダイレクトショップ",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "エレコムダイレクトショップ",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkoxn.k9qwpe11.g00pkoxn.k9qwqd7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F4549550217569%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10056314%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=ELECOM+DPA-SS02BK&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "モニターアーム",
+    "itemCategory": "17〜32インチ・2〜9kg対応のガス式モニターアーム",
+    "shortTitle": "モニターアーム、耐荷重内でも天板厚で付かない #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=ZeAi4VNv4C8",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 74,
+    "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "s133-02-elecom-dpa-ss11bk",
+    "title": "ELECOM DPA-SS11BK",
+    "description": "17〜49インチ・2〜20kg対応の高耐荷重モニターアームとしてShortsで紹介した候補です。画面ごとの重量、VESA規格、天板の固定条件、必要な可動域を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elecom/cabinet/s500_26/dpa-ss11bk_03r.jpg?_ex=600x600",
+    "merchant": "エレコムダイレクトショップ",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "エレコムダイレクトショップ",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkoxn.k9qwpe11.g00pkoxn.k9qwqd7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F4549550303866%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10063984%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=ELECOM+DPA-SS11BK+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%A0&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "モニターアーム",
+    "itemCategory": "17〜49インチ・2〜20kg対応の高耐荷重モニターアーム",
+    "shortTitle": "モニターアーム、耐荷重内でも天板厚で付かない #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=ZeAi4VNv4C8",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 73,
+    "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "s132-01-logicool-c920n-hd-pro-webcam",
+    "title": "Logicool C920n HD Pro Webcam",
+    "description": "1080p/30fps対応のオートフォーカスWebカメラとしてShortsで紹介した候補です。画角、解像度とフレームレート、ピント、設置方法、プライバシー機能を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/webcam/c920n/c920n_s.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fc920n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000181%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+C920n+HD+Pro+Webcam&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "Webカメラ",
+    "itemCategory": "1080p/30fps対応のオートフォーカスWebカメラ",
+    "shortTitle": "Webカメラ、60fpsを選ぶと1080pではありません #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=5TvNaZvlV-Y",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 72,
+    "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "s132-02-logicool-c922n-pro-stream-webcam",
+    "title": "Logicool C922n Pro Stream Webcam",
+    "description": "720p時に60fpsへ対応するストリーミングWebカメラとしてShortsで紹介した候補です。画角、解像度とフレームレート、ピント、設置方法、プライバシー機能を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/webcam/c922n/c922n_01_r1.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fc922n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000183%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+C922n+Pro+Stream+Webcam&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "Webカメラ",
+    "itemCategory": "720p時に60fpsへ対応するストリーミングWebカメラ",
+    "shortTitle": "Webカメラ、60fpsを選ぶと1080pではありません #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=5TvNaZvlV-Y",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 71,
+    "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "s131-01-logicool-signature-slim-k950",
+    "title": "Logicool Signature Slim K950",
+    "description": "テンキーと8度ティルトを備えるフルサイズキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k950/k950gr_n.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk950gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000595%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+Slim+K950&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "テンキーと8度ティルトを備えるフルサイズキーボード",
+    "shortTitle": "キーボード、机を広くするなら幅よりテンキー頻度です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=x8KrBLn9J04",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 70,
+    "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "s131-02-logicool-mx-keys-mini-kx700",
+    "title": "Logicool MX Keys Mini KX700",
+    "description": "テンキーを省いた充電式イルミネーションキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/kx700gr/kx700gr_01_r.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fkx700gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000432%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+MX+Keys+Mini+KX700GR&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "テンキーを省いた充電式イルミネーションキーボード",
+    "shortTitle": "キーボード、机を広くするなら幅よりテンキー頻度です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=x8KrBLn9J04",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 69,
+    "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "s130-01-logicool-ergo-m575sp",
+    "title": "Logicool ERGO M575SP",
+    "description": "固定角度・単3形乾電池式の親指操作トラックボールとしてShortsで紹介した候補です。サイズ、置き場所、毎日の使いやすさを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m575spd/m575spd_s_r.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm575spd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000682%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+ERGO+M575SP&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "デスク用品",
+    "itemCategory": "固定角度・単3形乾電池式の親指操作トラックボール",
+    "shortTitle": "トラックボール、腕を動かさないだけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=AQ4Wybf6KF8",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 68,
+    "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "s130-02-logicool-mx-ergo-s-mxtb2",
+    "title": "Logicool MX ERGO S MXTB2",
+    "description": "角度調整・精密モードを備える充電式トラックボールとしてShortsで紹介した候補です。サイズ、置き場所、毎日の使いやすさを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/mxtb2d/mxtb2d_r_.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fmxtb2d%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000684%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+MX+ERGO+S+MXTB2&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "デスク用品",
+    "itemCategory": "角度調整・精密モードを備える充電式トラックボール",
+    "shortTitle": "トラックボール、腕を動かさないだけで選ぶとズレます #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=AQ4Wybf6KF8",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 67,
+    "updatedAt": "2026-08-23"
+  },
+  {
     "id": "s129-01-sandisk-extreme-portable-ssd-1tb",
     "title": "SanDisk Extreme Portable SSD 1TB SDSSDE61",
     "description": "10GbpsポータブルSSDとしてShortsで紹介した候補です。端子、接続機器側の対応速度、直挿しかケーブル式か、対応OSを購入前に確認してください。",
@@ -32,7 +382,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=caXT-KLFh-8",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 74,
+    "priority": 66,
     "updatedAt": "2026-08-19"
   },
   {
@@ -67,7 +417,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=caXT-KLFh-8",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 73,
+    "priority": 65,
     "updatedAt": "2026-08-19"
   },
   {
@@ -102,7 +452,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CRZDsMcFvp8",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 72,
+    "priority": 64,
     "updatedAt": "2026-08-19"
   },
   {
@@ -137,7 +487,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CRZDsMcFvp8",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 71,
+    "priority": 63,
     "updatedAt": "2026-08-19"
   },
   {
@@ -172,7 +522,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=RcLlgZp3wSg",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 70,
+    "priority": 62,
     "updatedAt": "2026-08-19"
   },
   {
@@ -207,7 +557,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=RcLlgZp3wSg",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 69,
+    "priority": 61,
     "updatedAt": "2026-08-19"
   },
   {
@@ -242,7 +592,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5J8yib-YE8E",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 68,
+    "priority": 60,
     "updatedAt": "2026-08-16"
   },
   {
@@ -277,7 +627,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5J8yib-YE8E",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 67,
+    "priority": 59,
     "updatedAt": "2026-08-16"
   },
   {
@@ -312,7 +662,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=wtveyzidW2I",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 66,
+    "priority": 58,
     "updatedAt": "2026-08-16"
   },
   {
@@ -347,7 +697,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=wtveyzidW2I",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 65,
+    "priority": 57,
     "updatedAt": "2026-08-16"
   },
   {
@@ -382,7 +732,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=xy5b4fkVAcs",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 64,
+    "priority": 56,
     "updatedAt": "2026-08-16"
   },
   {
@@ -417,7 +767,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=xy5b4fkVAcs",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 63,
+    "priority": 55,
     "updatedAt": "2026-08-16"
   },
   {
@@ -452,7 +802,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 62,
+    "priority": 54,
     "updatedAt": "2026-08-13"
   },
   {
@@ -487,7 +837,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 61,
+    "priority": 53,
     "updatedAt": "2026-08-13"
   },
   {
@@ -522,7 +872,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TCBPQDgycCE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 60,
+    "priority": 52,
     "updatedAt": "2026-08-13"
   },
   {
@@ -557,7 +907,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TCBPQDgycCE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 59,
+    "priority": 51,
     "updatedAt": "2026-08-13"
   },
   {
@@ -592,7 +942,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6NpLlqRv0WY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 58,
+    "priority": 50,
     "updatedAt": "2026-08-13"
   },
   {
@@ -627,7 +977,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6NpLlqRv0WY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 57,
+    "priority": 49,
     "updatedAt": "2026-08-13"
   },
   {
@@ -662,7 +1012,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=qrJvJxhF_Y0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 56,
+    "priority": 48,
     "updatedAt": "2026-08-13"
   },
   {
@@ -697,7 +1047,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=iC-z0I_ELY0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 55,
+    "priority": 47,
     "updatedAt": "2026-08-09"
   },
   {
@@ -732,7 +1082,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=iC-z0I_ELY0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 54,
+    "priority": 46,
     "updatedAt": "2026-08-09"
   },
   {
@@ -767,42 +1117,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NGG92CahYKE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 53,
-    "updatedAt": "2026-08-09"
-  },
-  {
-    "id": "s118-02-logicool-signature-slim-k950",
-    "title": "Logicool Signature Slim K950",
-    "description": "テンキーを残すフルサイズ候補としてShortsで紹介した候補です。サイズ、置き場所、毎日の使いやすさを購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k950/k950gr_n.jpg?_ex=128x128",
-    "merchant": "楽天市場",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "楽天市場",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk950gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000595%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+Slim+K950&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "デスク用品",
-    "itemCategory": "テンキーを残すフルサイズ候補",
-    "shortTitle": "キーボード、テンキーより先にマウス幅です #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=NGG92CahYKE",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 52,
+    "priority": 45,
     "updatedAt": "2026-08-09"
   },
   {
@@ -837,42 +1152,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=DT05DvxhR4A",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 51,
-    "updatedAt": "2026-08-09"
-  },
-  {
-    "id": "s117-02-logicool-c920n-hd-pro-webcam",
-    "title": "Logicool C920n HD Pro Webcam",
-    "description": "机やジェスチャーも映しやすい78度画角の候補としてShortsで紹介した候補です。画角、解像度とフレームレート、ピント、設置方法、プライバシー機能を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/webcam/c920n/c920n_s.jpg?_ex=128x128",
-    "merchant": "楽天市場",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "楽天市場",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fc920n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000181%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+C920n+HD+Pro+Webcam&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "Webカメラ",
-    "itemCategory": "机やジェスチャーも映しやすい78度画角の候補",
-    "shortTitle": "Webカメラ、1080pより先に画角です #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=DT05DvxhR4A",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 50,
+    "priority": 44,
     "updatedAt": "2026-08-09"
   },
   {
@@ -907,42 +1187,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=tDIG89l2FW4",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 49,
-    "updatedAt": "2026-08-09"
-  },
-  {
-    "id": "s115-01-elecom-dpa-ss02bk",
-    "title": "ELECOM DPA-SS02BK",
-    "description": "標準シングルガス式モニターアームとしてShortsで紹介した候補です。画面ごとの重量、VESA規格、天板の固定条件、必要な可動域を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elecom/cabinet/s500_17/dpa-ss02bk_03r.jpg?_ex=600x600",
-    "merchant": "楽天市場",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "楽天市場",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkoxn.k9qwpe11.g00pkoxn.k9qwqd7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F4549550217569%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10056314%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=ELECOM+DPA-SS02BK&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "モニターアーム",
-    "itemCategory": "標準シングルガス式モニターアーム",
-    "shortTitle": "モニターアーム、奥行きを測らず買うとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=TKU8NmU6QHw",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 48,
+    "priority": 43,
     "updatedAt": "2026-08-09"
   },
   {
@@ -977,7 +1222,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=kKdIwkDet_I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 47,
+    "priority": 42,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1012,7 +1257,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=kKdIwkDet_I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 46,
+    "priority": 41,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1047,7 +1292,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=c1LjrLqCwHg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 45,
+    "priority": 40,
     "updatedAt": "2026-08-06"
   },
   {
@@ -1082,7 +1327,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=VAHRgrknwiw",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 44,
+    "priority": 39,
     "updatedAt": "2026-08-06"
   },
   {
@@ -1117,7 +1362,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=dDTmXosn1WE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 43,
+    "priority": 38,
     "updatedAt": "2026-07-31"
   },
   {
@@ -1152,7 +1397,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=jI5xTvn3Mzs",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 42,
+    "priority": 37,
     "updatedAt": "2026-07-31"
   },
   {
@@ -1187,7 +1432,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=MwLZe30GSxw",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 41,
+    "priority": 36,
     "updatedAt": "2026-07-31"
   },
   {
@@ -1222,7 +1467,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=pKPAwVRCmGg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 40,
+    "priority": 35,
     "updatedAt": "2026-07-31"
   },
   {
@@ -1257,7 +1502,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=4mRhNR3ReUk",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 39,
+    "priority": 34,
     "updatedAt": "2026-07-31"
   },
   {
@@ -1292,7 +1537,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 38,
+    "priority": 33,
     "updatedAt": "2026-07-24"
   },
   {
@@ -1327,7 +1572,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 37,
+    "priority": 32,
     "updatedAt": "2026-07-24"
   },
   {
@@ -1362,7 +1607,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WqiMQXzQDuQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 36,
+    "priority": 31,
     "updatedAt": "2026-07-24"
   },
   {
@@ -1397,7 +1642,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 35,
+    "priority": 30,
     "updatedAt": "2026-07-24"
   },
   {
@@ -1432,7 +1677,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 34,
+    "priority": 29,
     "updatedAt": "2026-07-24"
   },
   {
@@ -1467,7 +1712,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ac7YCG6nuvM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 33,
+    "priority": 28,
     "updatedAt": "2026-07-24"
   },
   {
@@ -1502,7 +1747,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IkTfS-EB9pg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 32,
+    "priority": 27,
     "updatedAt": "2026-07-24"
   },
   {
@@ -1537,7 +1782,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 31,
+    "priority": 26,
     "updatedAt": "2026-07-24"
   },
   {
@@ -1572,7 +1817,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 30,
+    "priority": 25,
     "updatedAt": "2026-07-24"
   },
   {
@@ -1607,7 +1852,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yEZvrZOA7JY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 29,
+    "priority": 24,
     "updatedAt": "2026-07-24"
   },
   {
@@ -1642,7 +1887,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=1EM8iMWlQ0I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 28,
+    "priority": 23,
     "updatedAt": "2026-07-24"
   },
   {
@@ -1677,7 +1922,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 27,
+    "priority": 22,
     "updatedAt": "2026-07-23"
   },
   {
@@ -1712,43 +1957,8 @@
     "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
     "shortStatus": "uploaded_private",
     "isPr": true,
-    "priority": 26,
+    "priority": 21,
     "updatedAt": "2026-07-23"
-  },
-  {
-    "id": "s094-02-elecom-dpa-ss11bk",
-    "title": "ELECOM DPA-SS11BK",
-    "description": "高耐荷重シングルガス式モニターアームとしてShortsで紹介した候補です。画面ごとの重量、VESA規格、天板の固定条件、必要な可動域を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elecom/cabinet/s500_26/dpa-ss11bk_03r.jpg?_ex=128x128",
-    "merchant": "エレコムダイレクトショップ",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "エレコムダイレクトショップ",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkoxn.k9qwpe11.g00pkoxn.k9qwqd7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F4549550303866%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10063984%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=ELECOM+DPA-SS11BK&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "モニターアーム",
-    "itemCategory": "高耐荷重シングルガス式モニターアーム",
-    "shortTitle": "モニターアーム、画面数だけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=FRF-SJQkaSc",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 25,
-    "updatedAt": "2026-07-22"
   },
   {
     "id": "s094-03-elecom-dpa-dn01bk",
@@ -1782,78 +1992,8 @@
     "shortUrl": "https://www.youtube.com/watch?v=FRF-SJQkaSc",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 24,
+    "priority": 20,
     "updatedAt": "2026-07-22"
-  },
-  {
-    "id": "s091-03-logicool-mx-keys-mini-kx700",
-    "title": "Logicool MX Keys Mini KX700",
-    "description": "充電式イルミネーションキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/kx700gr/kx700gr_01_r.jpg?_ex=128x128",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fkx700gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000432%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+MX+Keys+Mini+KX700&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "充電式イルミネーションキーボード",
-    "shortTitle": "ワイヤレスキーボード、薄さだけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=VzGLiokVMPI",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 23,
-    "updatedAt": "2026-07-17"
-  },
-  {
-    "id": "s090-03-logicool-c922n-pro-stream-webcam",
-    "title": "Logicool C922n Pro Stream Webcam",
-    "description": "60fps対応ストリーミングカメラとしてShortsで紹介した候補です。画角、解像度とフレームレート、ピント、設置方法、プライバシー機能を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/webcam/c922n/c922n_01_r1.jpg?_ex=128x128",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fc922n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000183%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+C922n+Pro+Stream+Webcam&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "Webカメラ",
-    "itemCategory": "60fps対応ストリーミングカメラ",
-    "shortTitle": "Webカメラ、画素数だけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=exMyLOcKE1Y",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 22,
-    "updatedAt": "2026-07-17"
   },
   {
     "id": "s081-01-item",
@@ -1887,7 +2027,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 21,
+    "priority": 19,
     "updatedAt": "2026-07-12"
   },
   {
@@ -1922,43 +2062,8 @@
     "shortUrl": "https://www.youtube.com/watch?v=CvVd38BlnVY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 20,
+    "priority": 18,
     "updatedAt": "2026-07-12"
-  },
-  {
-    "id": "s078-01-item",
-    "title": "持ち運び向け折りたたみスタンド",
-    "description": "折りたたみノートPCスタンドとしてShortsで紹介した候補です。対応インチ、高さと角度の調整幅、安定性、放熱性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/dotline/cabinet/pc/s-laptop7dan/2511laptop/2511laptop-1.jpg?_ex=128x128",
-    "merchant": "Dot Line 便利雑貨&レディース靴",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "Dot Line 便利雑貨&レディース靴",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tf97n.k9qwpaa7.g00tf97n.k9qwqa6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdotline%2F998002pcstand%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdotline%2Fi%2F10000195%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E6%8C%81%E3%81%A1%E9%81%8B%E3%81%B3%E5%90%91%E3%81%91%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "ノートPCスタンド",
-    "itemCategory": "折りたたみノートPCスタンド",
-    "shortTitle": "ノートPCスタンド、買う前にこの3つだけ見て #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 19,
-    "updatedAt": "2026-07-10"
   },
   {
     "id": "s078-02-item",
@@ -1988,41 +2093,6 @@
     ],
     "category": "ノートPCスタンド",
     "itemCategory": "高さ調整ノートPCスタンド",
-    "shortTitle": "ノートPCスタンド、買う前にこの3つだけ見て #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 18,
-    "updatedAt": "2026-07-10"
-  },
-  {
-    "id": "s078-03-item",
-    "title": "長時間作業向け冷却台スタンド",
-    "description": "冷却台タイプノートPCスタンドとしてShortsで紹介した候補です。対応インチ、高さと角度の調整幅、安定性、放熱性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/4/400-cln031.jpg?_ex=128x128",
-    "merchant": "サンワダイレクト楽天市場店",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "サンワダイレクト楽天市場店",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pmmbn.k9qwpbfc.g00pmmbn.k9qwqbef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F400-cln031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10097993%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E9%95%B7%E6%99%82%E9%96%93%E4%BD%9C%E6%A5%AD%E5%90%91%E3%81%91%E5%86%B7%E5%8D%B4%E5%8F%B0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "ノートPCスタンド",
-    "itemCategory": "冷却台タイプノートPCスタンド",
     "shortTitle": "ノートPCスタンド、買う前にこの3つだけ見て #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=d2K8r_NXsRs",
     "shortStatus": "public",
