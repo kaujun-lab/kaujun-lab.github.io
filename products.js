@@ -1,6 +1,356 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s139-01-logicool-zone-300",
+    "title": "Logicool Zone 300",
+    "description": "デュアルビームフォーミングマイク搭載の軽量BluetoothヘッドセットとしてShortsで紹介した候補です。サイズ、置き場所、毎日の使いやすさを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/hs/zone300mbk/zone300mbk.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fzone300mbk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000600%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Zone+300+%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "デスク用品",
+    "itemCategory": "デュアルビームフォーミングマイク搭載の軽量Bluetoothヘッドセット",
+    "shortTitle": "ヘッドセットのノイキャン、相手向けと自分向けは別です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=SBPYeYqkwUQ",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 84,
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "s139-02-sony-wh-ch720n",
+    "title": "Sony WH-CH720N",
+    "description": "リスニング用アクティブノイズキャンセリングとビームフォーミングマイクを備えるヘッドフォンとしてShortsで紹介した候補です。サイズ、置き場所、毎日の使いやすさを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/7658/00000011026220_a01.jpg?_ex=600x600",
+    "merchant": "楽天ビック(ビックカメラ×楽天)",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天ビック(ビックカメラ×楽天)",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.k9qwpe94.g00r7ldn.k9qwqe8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4548736142411%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F14003240%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Sony+WH-CH720N+%E3%83%98%E3%83%83%E3%83%89%E3%83%95%E3%82%A9%E3%83%B3+%E3%83%8E%E3%82%A4%E3%82%BA%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%AA%E3%83%B3%E3%82%B0&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "デスク用品",
+    "itemCategory": "リスニング用アクティブノイズキャンセリングとビームフォーミングマイクを備えるヘッドフォン",
+    "shortTitle": "ヘッドセットのノイキャン、相手向けと自分向けは別です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=SBPYeYqkwUQ",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 83,
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "s138-01-sandisk-extreme-pro-portable-ssd",
+    "title": "SanDisk Extreme PRO Portable SSD 1TB SDSSDE81",
+    "description": "USB 3.2 Gen 2x2対応の最大2000MB/s読み書きポータブルSSDとしてShortsで紹介した候補です。端子、接続機器側の対応速度、直挿しかケーブル式か、対応OSを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/6040/00000008697362_a01.jpg?_ex=600x600",
+    "merchant": "楽天ビック(ビックカメラ×楽天)",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天ビック(ビックカメラ×楽天)",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.k9qwpe94.g00r7ldn.k9qwqe8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4523052024337%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F13347043%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=SanDisk+Extreme+PRO+Portable+SSD+1TB+SDSSDE81&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "外付けSSD",
+    "itemCategory": "USB 3.2 Gen 2x2対応の最大2000MB/s読み書きポータブルSSD",
+    "shortTitle": "外付けSSD、USB4対応でもPC側が非対応なら3800MB/sは出ません #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=6F1pHvEpZi4",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 82,
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "s138-02-sandisk-extreme-pro-portable-ssd",
+    "title": "SanDisk Extreme PRO Portable SSD with USB4 SDSSDE82",
+    "description": "USB4対応で最大3800MB/s読み出しのポータブルSSDとしてShortsで紹介した候補です。端子、接続機器側の対応速度、直挿しかケーブル式か、対応OSを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/kaden/4523052025723-0.jpg?_ex=600x600",
+    "merchant": "楽天24 Express",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天24 Express",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.k9qwpcd2.g00ugynn.k9qwq1c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F100000000100186%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10032397%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=SanDisk+Extreme+PRO+USB4+SDSSDE82+%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%ABSSD&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "外付けSSD",
+    "itemCategory": "USB4対応で最大3800MB/s読み出しのポータブルSSD",
+    "shortTitle": "外付けSSD、USB4対応でもPC側が非対応なら3800MB/sは出ません #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=6F1pHvEpZi4",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 81,
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "s137-01-benq-pd2705u",
+    "title": "BenQ PD2705U",
+    "description": "27インチ4K 60HzでUSB-C 65W Power Deliveryを備えるモニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/pics/717/4544438016111.jpg?_ex=600x600",
+    "merchant": "XPRICE",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "XPRICE",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qn68n.k9qwp9e5.g00qn68n.k9qwq71a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F4544438016111%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F11178445%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=BenQ+PD2705U+USB-C+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC+65W&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCモニター",
+    "itemCategory": "27インチ4K 60HzでUSB-C 65W Power Deliveryを備えるモニター",
+    "shortTitle": "USB-Cモニター、1本接続でも65Wと90Wで充電が変わります #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=tZ2knNSWwqs",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 80,
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "s137-02-benq-pd3205u",
+    "title": "BenQ PD3205U",
+    "description": "31.5インチ4K 60HzでUSB-C 90W Power Deliveryを備えるモニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/benq-directshop/cabinet/monitor/pdsw/11796037/imgrc0099464368.jpg?_ex=600x600",
+    "merchant": "BenQ公式ショップ",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "BenQ公式ショップ",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tkdfn.k9qwp815.g00tkdfn.k9qwq946/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenq-directshop%2Fmonitor-pd3205u%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenq-directshop%2Fi%2F10000220%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=BenQ+PD3205U+USB-C+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC+90W&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCモニター",
+    "itemCategory": "31.5インチ4K 60HzでUSB-C 90W Power Deliveryを備えるモニター",
+    "shortTitle": "USB-Cモニター、1本接続でも65Wと90Wで充電が変わります #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=tZ2knNSWwqs",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 79,
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "s136-01-tp-link-archer-be3600",
+    "title": "TP-Link Archer BE3600",
+    "description": "5GHzと2.4GHzのデュアルバンドWi-Fi 7ルーターとしてShortsで紹介した候補です。サイズ、置き場所、毎日の使いやすさを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/11041/00000013553491_a01.jpg?_ex=600x600",
+    "merchant": "楽天ビック(ビックカメラ×楽天)",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天ビック(ビックカメラ×楽天)",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.k9qwpe94.g00r7ldn.k9qwqe8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F8885020624861%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F14981438%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=TP-Link+Archer+BE3600+Wi-Fi+7+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "デスク用品",
+    "itemCategory": "5GHzと2.4GHzのデュアルバンドWi-Fi 7ルーター",
+    "shortTitle": "Wi-Fi 7ルーター、同じ規格でも6GHzがない機種があります #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=c6sappAqeww",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 78,
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "s136-02-tp-link-archer-be550",
+    "title": "TP-Link Archer BE550",
+    "description": "6GHz・5GHz・2.4GHzのトライバンドWi-Fi 7ルーターとしてShortsで紹介した候補です。サイズ、置き場所、毎日の使いやすさを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/tplinkdirect/cabinet/06321509/be550.jpg?_ex=600x600",
+    "merchant": "TP-Link Direct",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "TP-Link Direct",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sbb0n.k9qwpbe9.g00sbb0n.k9qwqf76/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftplinkdirect%2F8885020623956%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftplinkdirect%2Fi%2F10001476%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=TP-Link+Archer+BE550+Wi-Fi+7+%E3%83%88%E3%83%A9%E3%82%A4%E3%83%90%E3%83%B3%E3%83%89+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "デスク用品",
+    "itemCategory": "6GHz・5GHz・2.4GHzのトライバンドWi-Fi 7ルーター",
+    "shortTitle": "Wi-Fi 7ルーター、同じ規格でも6GHzがない機種があります #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=c6sappAqeww",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 77,
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "s135-01-creative-pebble-v3",
+    "title": "Creative Pebble V3",
+    "description": "USBオーディオとBluetooth 5.0を備えるデスクトップスピーカーとしてShortsで紹介した候補です。左右の設置幅、接続方式、給電条件、入力端子を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/creative-store/cabinet/spkrs/imgrc0117636170.jpg?_ex=600x600",
+    "merchant": "Creative公式ショップ",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "Creative公式ショップ",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qfr8n.k9qwp014.g00qfr8n.k9qwq400/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcreative-store%2Fsp-pblv3-bk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcreative-store%2Fi%2F10001203%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Creative+Pebble+V3+%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCスピーカー",
+    "itemCategory": "USBオーディオとBluetooth 5.0を備えるデスクトップスピーカー",
+    "shortTitle": "PCスピーカー、最大60WはUSB接続だけでは出ません #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=qY2Aac8vNKM",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 76,
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "s135-02-creative-pebble-pro",
+    "title": "Creative Pebble Pro",
+    "description": "USB PD対応でピーク60Wに対応するデスクトップスピーカーとしてShortsで紹介した候補です。左右の設置幅、接続方式、給電条件、入力端子を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ksdenki/cabinet/images/72_5/4580181853672_5.jpg?_ex=600x600",
+    "merchant": "ケーズデンキ",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ケーズデンキ",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tit6n.k9qwpaf5.g00tit6n.k9qwq59d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksdenki%2F4580181853672%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fksdenki%2Fi%2F10513423%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Creative+Pebble+Pro+%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCスピーカー",
+    "itemCategory": "USB PD対応でピーク60Wに対応するデスクトップスピーカー",
+    "shortTitle": "PCスピーカー、最大60WはUSB接続だけでは出ません #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=qY2Aac8vNKM",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 75,
+    "updatedAt": "2026-08-28"
+  },
+  {
     "id": "s134-01-z-pc",
     "title": "折りたたみ式 Z型ノートPCスタンド",
     "description": "目線と角度を調整する折りたたみ式ノートPCスタンドとしてShortsで紹介した候補です。対応インチ、高さと角度の調整幅、安定性、放熱性を購入前に確認してください。",
@@ -32,7 +382,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=mC_IBzd5CC8",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 76,
+    "priority": 74,
     "updatedAt": "2026-08-23"
   },
   {
@@ -67,7 +417,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=mC_IBzd5CC8",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 75,
+    "priority": 73,
     "updatedAt": "2026-08-23"
   },
   {
@@ -102,7 +452,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ZeAi4VNv4C8",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 74,
+    "priority": 72,
     "updatedAt": "2026-08-23"
   },
   {
@@ -137,7 +487,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ZeAi4VNv4C8",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 73,
+    "priority": 71,
     "updatedAt": "2026-08-23"
   },
   {
@@ -172,7 +522,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5TvNaZvlV-Y",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 72,
+    "priority": 70,
     "updatedAt": "2026-08-23"
   },
   {
@@ -207,7 +557,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5TvNaZvlV-Y",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 71,
+    "priority": 69,
     "updatedAt": "2026-08-23"
   },
   {
@@ -242,7 +592,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=x8KrBLn9J04",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 70,
+    "priority": 68,
     "updatedAt": "2026-08-23"
   },
   {
@@ -277,7 +627,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=x8KrBLn9J04",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 69,
+    "priority": 67,
     "updatedAt": "2026-08-23"
   },
   {
@@ -312,7 +662,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=AQ4Wybf6KF8",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 68,
+    "priority": 66,
     "updatedAt": "2026-08-23"
   },
   {
@@ -347,7 +697,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=AQ4Wybf6KF8",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 67,
+    "priority": 65,
     "updatedAt": "2026-08-23"
   },
   {
@@ -382,42 +732,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=caXT-KLFh-8",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 66,
-    "updatedAt": "2026-08-19"
-  },
-  {
-    "id": "s129-02-sandisk-extreme-pro-portable-ssd",
-    "title": "SanDisk Extreme PRO Portable SSD 1TB SDSSDE81",
-    "description": "20GbpsポータブルSSDとしてShortsで紹介した候補です。端子、接続機器側の対応速度、直挿しかケーブル式か、対応OSを購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/6040/00000008697362_a01.jpg?_ex=600x600",
-    "merchant": "楽天ビック(ビックカメラ×楽天)",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "楽天ビック(ビックカメラ×楽天)",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.k9qwpe94.g00r7ldn.k9qwqe8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4523052024337%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F13347043%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=SanDisk+Extreme+PRO+Portable+SSD+1TB+SDSSDE81&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "外付けSSD",
-    "itemCategory": "20GbpsポータブルSSD",
-    "shortTitle": "外付けSSD、2000MB/sでもPC端子が10Gbpsなら伸びません #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=caXT-KLFh-8",
-    "shortStatus": "scheduled",
-    "isPr": true,
-    "priority": 65,
+    "priority": 64,
     "updatedAt": "2026-08-19"
   },
   {
@@ -452,7 +767,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CRZDsMcFvp8",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 64,
+    "priority": 63,
     "updatedAt": "2026-08-19"
   },
   {
@@ -487,7 +802,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CRZDsMcFvp8",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 63,
+    "priority": 62,
     "updatedAt": "2026-08-19"
   },
   {
@@ -522,7 +837,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=RcLlgZp3wSg",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 62,
+    "priority": 61,
     "updatedAt": "2026-08-19"
   },
   {
@@ -557,7 +872,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=RcLlgZp3wSg",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 61,
+    "priority": 60,
     "updatedAt": "2026-08-19"
   },
   {
@@ -592,7 +907,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5J8yib-YE8E",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 60,
+    "priority": 59,
     "updatedAt": "2026-08-16"
   },
   {
@@ -627,7 +942,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5J8yib-YE8E",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 59,
+    "priority": 58,
     "updatedAt": "2026-08-16"
   },
   {
@@ -662,7 +977,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=wtveyzidW2I",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 58,
+    "priority": 57,
     "updatedAt": "2026-08-16"
   },
   {
@@ -697,7 +1012,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=wtveyzidW2I",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 57,
+    "priority": 56,
     "updatedAt": "2026-08-16"
   },
   {
@@ -732,7 +1047,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=xy5b4fkVAcs",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 56,
+    "priority": 55,
     "updatedAt": "2026-08-16"
   },
   {
@@ -767,7 +1082,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=xy5b4fkVAcs",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 55,
+    "priority": 54,
     "updatedAt": "2026-08-16"
   },
   {
@@ -802,7 +1117,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 54,
+    "priority": 53,
     "updatedAt": "2026-08-13"
   },
   {
@@ -837,7 +1152,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 53,
+    "priority": 52,
     "updatedAt": "2026-08-13"
   },
   {
@@ -872,7 +1187,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TCBPQDgycCE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 52,
+    "priority": 51,
     "updatedAt": "2026-08-13"
   },
   {
@@ -907,7 +1222,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TCBPQDgycCE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 51,
+    "priority": 50,
     "updatedAt": "2026-08-13"
   },
   {
@@ -942,7 +1257,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6NpLlqRv0WY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 50,
+    "priority": 49,
     "updatedAt": "2026-08-13"
   },
   {
@@ -977,7 +1292,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6NpLlqRv0WY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 49,
+    "priority": 48,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1012,7 +1327,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=qrJvJxhF_Y0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 48,
+    "priority": 47,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1047,7 +1362,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=iC-z0I_ELY0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 47,
+    "priority": 46,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1082,7 +1397,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=iC-z0I_ELY0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 46,
+    "priority": 45,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1117,7 +1432,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NGG92CahYKE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 45,
+    "priority": 44,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1152,7 +1467,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=DT05DvxhR4A",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 44,
+    "priority": 43,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1187,7 +1502,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=tDIG89l2FW4",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 43,
+    "priority": 42,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1222,7 +1537,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=kKdIwkDet_I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 42,
+    "priority": 41,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1257,7 +1572,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=kKdIwkDet_I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 41,
+    "priority": 40,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1292,7 +1607,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=c1LjrLqCwHg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 40,
+    "priority": 39,
     "updatedAt": "2026-08-06"
   },
   {
@@ -1327,7 +1642,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=VAHRgrknwiw",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 39,
+    "priority": 38,
     "updatedAt": "2026-08-06"
   },
   {
@@ -1361,41 +1676,6 @@
     "shortTitle": "M750が合う人、買う前にこの3つ #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=dDTmXosn1WE",
     "shortStatus": "public",
-    "isPr": true,
-    "priority": 38,
-    "updatedAt": "2026-07-31"
-  },
-  {
-    "id": "s107-01-creative-pebble-v3",
-    "title": "Creative Pebble V3",
-    "description": "USB/Bluetooth PCスピーカーとしてShortsで紹介した候補です。左右の設置幅、接続方式、給電条件、入力端子を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/creative-store/cabinet/spkrs/imgrc0117636170.jpg?_ex=600x600",
-    "merchant": "クリエイティブストア@楽天市場店",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "クリエイティブストア@楽天市場店",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qfr8n.k9qwp014.g00qfr8n.k9qwq400/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcreative-store%2Fsp-pblv3-bk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcreative-store%2Fi%2F10001203%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Creative+Pebble+V3&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "PCスピーカー",
-    "itemCategory": "USB/Bluetooth PCスピーカー",
-    "shortTitle": "PCスピーカー、音量より先に机を測って #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=jI5xTvn3Mzs",
-    "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 37,
     "updatedAt": "2026-07-31"
