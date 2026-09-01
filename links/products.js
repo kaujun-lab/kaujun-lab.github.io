@@ -1,6 +1,216 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s142-01-anker-usb-c-10-in-1-dual-display",
+    "title": "Anker USB-C ハブ (10-in-1, Dual Display) A83C2",
+    "description": "HDMIとVGAの2出力だが両画面で異なる内容の表示は非対応のUSB-CハブとしてShortsで紹介した候補です。必要な映像・転送規格、帯域、長さ、端子の向き、接続機器側の対応を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a83c2_normal.jpg?_ex=128x128",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa83c2-ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001823%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+A83C2+USB-C+%E3%83%8F%E3%83%96+Dual+Display+10-in-1&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "接続ケーブル",
+    "itemCategory": "HDMIとVGAの2出力だが両画面で異なる内容の表示は非対応のUSB-Cハブ",
+    "shortTitle": "デュアルモニター、2台目より先にPC側の上限です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=-l3WMygrgUE",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 90,
+    "updatedAt": "2026-09-01"
+  },
+  {
+    "id": "s142-02-startech-com-109b-usbc-hdmi",
+    "title": "StarTech.com 109B-USBC-HDMI",
+    "description": "DisplayLinkで独立2画面4K60に対応するUSB-C/USB-A変換アダプターとしてShortsで紹介した候補です。必要な映像・転送規格、帯域、長さ、端子の向き、接続機器側の対応を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/premoa/cabinet/pics/617/0065030894579.jpg?_ex=128x128",
+    "merchant": "総合通販PREMOA 楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "総合通販PREMOA 楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r8gxn.k9qwpf14.g00r8gxn.k9qwqbf5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpremoa%2F0065030894579%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpremoa%2Fi%2F11077026%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=StarTech+109B-USBC-HDMI+%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC+%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "接続ケーブル",
+    "itemCategory": "DisplayLinkで独立2画面4K60に対応するUSB-C/USB-A変換アダプター",
+    "shortTitle": "デュアルモニター、2台目より先にPC側の上限です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=-l3WMygrgUE",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 89,
+    "updatedAt": "2026-09-01"
+  },
+  {
+    "id": "s141-01-anker-usb-c-5-in-1-4k-hdmi-a8357",
+    "title": "Anker USB-C ハブ (5-in-1, 4K, HDMI) A8357",
+    "description": "DisplayPort Alt Mode対応PCが前提の5-in-1 USB-Cハブ(HDMI 4K30)としてShortsで紹介した候補です。必要な映像・転送規格、帯域、長さ、端子の向き、接続機器側の対応を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/index8833/cabinet/trusco25/6932230.jpg?_ex=128x128",
+    "merchant": "INdex",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "INdex",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00te2qn.k9qwp644.g00te2qn.k9qwqd3e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Findex8833%2Ftr-6932230%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Findex8833%2Fi%2F10037864%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+A8357+USB-C+%E3%83%8F%E3%83%96+5-in-1+4K+HDMI&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "接続ケーブル",
+    "itemCategory": "DisplayPort Alt Mode対応PCが前提の5-in-1 USB-Cハブ(HDMI 4K30)",
+    "shortTitle": "USB-Cハブ、ポート数より先にPC側の映像対応です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=bdef7v74sgM",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 88,
+    "updatedAt": "2026-09-01"
+  },
+  {
+    "id": "s141-02-anker-nano-usb-c-7-in-1-4k-hdmi-",
+    "title": "Anker Nano USB-C ハブ (7-in-1, 4K, HDMI) A83D2",
+    "description": "HDMI 4K60対応の7-in-1 USB-CハブとしてShortsで紹介した候補です。必要な映像・転送規格、帯域、長さ、端子の向き、接続機器側の対応を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a83d2_normal.jpg?_ex=128x128",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa83d2-ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10002402%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+A83D2+USB-C+%E3%83%8F%E3%83%96+7-in-1+4K+HDMI&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "接続ケーブル",
+    "itemCategory": "HDMI 4K60対応の7-in-1 USB-Cハブ",
+    "shortTitle": "USB-Cハブ、ポート数より先にPC側の映像対応です #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=bdef7v74sgM",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 87,
+    "updatedAt": "2026-09-01"
+  },
+  {
+    "id": "s140-01-benq-gw2790q",
+    "title": "BenQ GW2790Q",
+    "description": "スタンド込み奥行き181.9mmの27インチWQHDアイケアモニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jumblestore/cabinet/38796/2336362638796-01.jpg?_ex=128x128",
+    "merchant": "2nd STREET 楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "2nd STREET 楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r3cen.k9qwp704.g00r3cen.k9qwqdd1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjumblestore%2F2336362638796%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjumblestore%2Fi%2F38430516%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=BenQ+GW2790Q+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC+27%E3%82%A4%E3%83%B3%E3%83%81+WQHD&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCモニター",
+    "itemCategory": "スタンド込み奥行き181.9mmの27インチWQHDアイケアモニター",
+    "shortTitle": "在宅デスク、モニターより先に机の奥行きです #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=IDZi-aDppZM",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 86,
+    "updatedAt": "2026-09-01"
+  },
+  {
+    "id": "s140-02-dell-s2725dsm",
+    "title": "Dell S2725DSM",
+    "description": "スタンド込み奥行き201.83mmの27インチQHD 144HzモニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/15031/00000014663194_a01.jpg?_ex=128x128",
+    "merchant": "楽天ビック(ビックカメラ×楽天)",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天ビック(ビックカメラ×楽天)",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.k9qwpe94.g00r7ldn.k9qwqe8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4573661274722%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F15311488%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Dell+S2725DSM+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC+27%E3%82%A4%E3%83%B3%E3%83%81+QHD&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCモニター",
+    "itemCategory": "スタンド込み奥行き201.83mmの27インチQHD 144Hzモニター",
+    "shortTitle": "在宅デスク、モニターより先に机の奥行きです #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=IDZi-aDppZM",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 85,
+    "updatedAt": "2026-09-01"
+  },
+  {
     "id": "s139-01-logicool-zone-300",
     "title": "Logicool Zone 300",
     "description": "デュアルビームフォーミングマイク搭載の軽量BluetoothヘッドセットとしてShortsで紹介した候補です。サイズ、置き場所、毎日の使いやすさを購入前に確認してください。",
