@@ -1,6 +1,181 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s145-01-dell-p2425d",
+    "title": "Dell P2425D",
+    "description": "23.8インチ・QHD・123PPI・100HzのPCモニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/pc-express/cabinet/system/vt0ttrajka/hxjlhvv7ahrbffk.jpg?_ex=600x600",
+    "merchant": "PC&家電《CaravanYU 楽天市場店》",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "PC&家電《CaravanYU 楽天市場店》",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pt6rn.k9qwp070.g00pt6rn.k9qwq345/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-express%2F4582724745703%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-express%2Fi%2F10759467%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Dell+P2425D+24%E3%82%A4%E3%83%B3%E3%83%81+QHD+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCモニター",
+    "itemCategory": "23.8インチ・QHD・123PPI・100HzのPCモニター",
+    "shortTitle": "24インチ 27インチ 比較、同じQHDでも文字サイズが違う #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=NYucDVk8ego",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 95,
+    "updatedAt": "2026-09-04"
+  },
+  {
+    "id": "s145-02-dell-p2725d",
+    "title": "Dell P2725D",
+    "description": "27インチ・QHD・109PPI・100HzのPCモニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/pc-express/cabinet/system/vt0ttrajka/zpmuyofwgcedesg.jpg?_ex=600x600",
+    "merchant": "PC&家電《CaravanYU 楽天市場店》",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "PC&家電《CaravanYU 楽天市場店》",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pt6rn.k9qwp070.g00pt6rn.k9qwq345/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-express%2F4582724745727%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-express%2Fi%2F10759468%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Dell+P2725D+27%E3%82%A4%E3%83%B3%E3%83%81+QHD+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCモニター",
+    "itemCategory": "27インチ・QHD・109PPI・100HzのPCモニター",
+    "shortTitle": "24インチ 27インチ 比較、同じQHDでも文字サイズが違う #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=NYucDVk8ego",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 94,
+    "updatedAt": "2026-09-04"
+  },
+  {
+    "id": "s144-01-elecom-tk-tbm023skbk",
+    "title": "ELECOM TK-TBM023SKBK",
+    "description": "USBポートを塞がないBluetooth静音テンキーパッドとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/r-kojima/cabinet/n0000000538/4549550210812_1.jpg?_ex=600x600",
+    "merchant": "コジマ楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "コジマ楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r8mvn.k9qwpa5e.g00r8mvn.k9qwqf33/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F4549550210812%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11452800%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=ELECOM+TK-TBM023SKBK+Bluetooth+%E3%83%86%E3%83%B3%E3%82%AD%E3%83%BC&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "USBポートを塞がないBluetooth静音テンキーパッド",
+    "shortTitle": "ワイヤレステンキーおすすめ、BluetoothとUSBで迷ったら #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=izF3IWr4QE0",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 93,
+    "updatedAt": "2026-09-04"
+  },
+  {
+    "id": "s144-02-elecom-tk-tdm022skbk",
+    "title": "ELECOM TK-TDM022SKBK",
+    "description": "USB-Aレシーバーで接続する2.4GHz静音テンキーパッドとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/gikstore/cabinet/11694825/11771301/11775752/imgrc0099490909.jpg?_ex=600x600",
+    "merchant": "Gikstore",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "Gikstore",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00up0zn.k9qwpd8e.g00up0zn.k9qwq085/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgikstore%2Felc0152%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgikstore%2Fi%2F10000068%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=ELECOM+TK-TDM022SKBK+%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9+%E3%83%86%E3%83%B3%E3%82%AD%E3%83%BC&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "USB-Aレシーバーで接続する2.4GHz静音テンキーパッド",
+    "shortTitle": "ワイヤレステンキーおすすめ、BluetoothとUSBで迷ったら #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=izF3IWr4QE0",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 92,
+    "updatedAt": "2026-09-04"
+  },
+  {
+    "id": "s143-01-ergotron-lx-45-241-224",
+    "title": "Ergotron LX 45-241-224",
+    "description": "1台3.2-11.3kg・VESA 75x75/100x100対応のモニターアームとしてShortsで紹介した候補です。画面ごとの重量、VESA規格、天板の固定条件、必要な可動域を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ergotron/cabinet/images_e/e1r00wv.jpg?_ex=600x600",
+    "merchant": "エルゴトロン 楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "エルゴトロン 楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uc0bn.k9qwp587.g00uc0bn.k9qwqc4e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fergotron%2Fe1r00wv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fergotron%2Fi%2F10000220%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Ergotron+LX+45-241-224+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%A0&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "モニターアーム",
+    "itemCategory": "1台3.2-11.3kg・VESA 75x75/100x100対応のモニターアーム",
+    "shortTitle": "モニターアーム、耐荷重の下限を見落とすな #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=n-RNAyPpbYw",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 91,
+    "updatedAt": "2026-09-04"
+  },
+  {
     "id": "s142-01-anker-usb-c-10-in-1-dual-display",
     "title": "Anker USB-C ハブ (10-in-1, Dual Display) A83C2",
     "description": "HDMIとVGAの2出力だが両画面で異なる内容の表示は非対応のUSB-CハブとしてShortsで紹介した候補です。必要な映像・転送規格、帯域、長さ、端子の向き、接続機器側の対応を購入前に確認してください。",
