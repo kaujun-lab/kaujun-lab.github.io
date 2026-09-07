@@ -1,9 +1,9 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
-    "id": "s145-01-dell-p2425d",
+    "id": "s148-01-dell-p2425d",
     "title": "Dell P2425D",
-    "description": "23.8インチ・QHD・123PPI・100HzのPCモニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "description": "23.8インチ・QHD・123PPI・100HzのPCモニター(デュアル構成の一例)としてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/pc-express/cabinet/system/vt0ttrajka/hxjlhvv7ahrbffk.jpg?_ex=600x600",
     "merchant": "PC&家電《CaravanYU 楽天市場店》",
     "offers": [
@@ -27,18 +27,18 @@
       }
     ],
     "category": "PCモニター",
-    "itemCategory": "23.8インチ・QHD・123PPI・100HzのPCモニター",
-    "shortTitle": "24インチ 27インチ 比較、同じQHDでも文字サイズが違う #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=NYucDVk8ego",
+    "itemCategory": "23.8インチ・QHD・123PPI・100HzのPCモニター(デュアル構成の一例)",
+    "shortTitle": "デュアルモニター、マウスが逆へ行く時の直し方 #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=IC3lyjD42eg",
     "shortStatus": "scheduled",
     "isPr": true,
     "priority": 95,
-    "updatedAt": "2026-09-04"
+    "updatedAt": "2026-09-07"
   },
   {
-    "id": "s145-02-dell-p2725d",
+    "id": "s148-02-dell-p2725d",
     "title": "Dell P2725D",
-    "description": "27インチ・QHD・109PPI・100HzのPCモニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "description": "27インチ・QHD・109PPI・100HzのPCモニター(デュアル構成の一例)としてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/pc-express/cabinet/system/vt0ttrajka/zpmuyofwgcedesg.jpg?_ex=600x600",
     "merchant": "PC&家電《CaravanYU 楽天市場店》",
     "offers": [
@@ -62,13 +62,13 @@
       }
     ],
     "category": "PCモニター",
-    "itemCategory": "27インチ・QHD・109PPI・100HzのPCモニター",
-    "shortTitle": "24インチ 27インチ 比較、同じQHDでも文字サイズが違う #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=NYucDVk8ego",
+    "itemCategory": "27インチ・QHD・109PPI・100HzのPCモニター(デュアル構成の一例)",
+    "shortTitle": "デュアルモニター、マウスが逆へ行く時の直し方 #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=IC3lyjD42eg",
     "shortStatus": "scheduled",
     "isPr": true,
     "priority": 94,
-    "updatedAt": "2026-09-04"
+    "updatedAt": "2026-09-07"
   },
   {
     "id": "s144-01-elecom-tk-tbm023skbk",
@@ -100,7 +100,7 @@
     "itemCategory": "USBポートを塞がないBluetooth静音テンキーパッド",
     "shortTitle": "ワイヤレステンキーおすすめ、BluetoothとUSBで迷ったら #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=izF3IWr4QE0",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 93,
     "updatedAt": "2026-09-04"
@@ -135,7 +135,7 @@
     "itemCategory": "USB-Aレシーバーで接続する2.4GHz静音テンキーパッド",
     "shortTitle": "ワイヤレステンキーおすすめ、BluetoothとUSBで迷ったら #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=izF3IWr4QE0",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 92,
     "updatedAt": "2026-09-04"
@@ -170,7 +170,7 @@
     "itemCategory": "1台3.2-11.3kg・VESA 75x75/100x100対応のモニターアーム",
     "shortTitle": "モニターアーム、耐荷重の下限を見落とすな #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=n-RNAyPpbYw",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 91,
     "updatedAt": "2026-09-04"
@@ -205,7 +205,7 @@
     "itemCategory": "HDMIとVGAの2出力だが両画面で異なる内容の表示は非対応のUSB-Cハブ",
     "shortTitle": "デュアルモニター、2台目より先にPC側の上限です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=-l3WMygrgUE",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 90,
     "updatedAt": "2026-09-01"
@@ -240,7 +240,7 @@
     "itemCategory": "DisplayLinkで独立2画面4K60に対応するUSB-C/USB-A変換アダプター",
     "shortTitle": "デュアルモニター、2台目より先にPC側の上限です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=-l3WMygrgUE",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 89,
     "updatedAt": "2026-09-01"
@@ -275,7 +275,7 @@
     "itemCategory": "DisplayPort Alt Mode対応PCが前提の5-in-1 USB-Cハブ(HDMI 4K30)",
     "shortTitle": "USB-Cハブ、ポート数より先にPC側の映像対応です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=bdef7v74sgM",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 88,
     "updatedAt": "2026-09-01"
@@ -310,7 +310,7 @@
     "itemCategory": "HDMI 4K60対応の7-in-1 USB-Cハブ",
     "shortTitle": "USB-Cハブ、ポート数より先にPC側の映像対応です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=bdef7v74sgM",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 87,
     "updatedAt": "2026-09-01"
@@ -345,7 +345,7 @@
     "itemCategory": "スタンド込み奥行き181.9mmの27インチWQHDアイケアモニター",
     "shortTitle": "在宅デスク、モニターより先に机の奥行きです #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=IDZi-aDppZM",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 86,
     "updatedAt": "2026-09-01"
@@ -380,7 +380,7 @@
     "itemCategory": "スタンド込み奥行き201.83mmの27インチQHD 144Hzモニター",
     "shortTitle": "在宅デスク、モニターより先に机の奥行きです #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=IDZi-aDppZM",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 85,
     "updatedAt": "2026-09-01"
@@ -415,7 +415,7 @@
     "itemCategory": "デュアルビームフォーミングマイク搭載の軽量Bluetoothヘッドセット",
     "shortTitle": "ヘッドセットのノイキャン、相手向けと自分向けは別です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=SBPYeYqkwUQ",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 84,
     "updatedAt": "2026-08-28"
@@ -450,7 +450,7 @@
     "itemCategory": "リスニング用アクティブノイズキャンセリングとビームフォーミングマイクを備えるヘッドフォン",
     "shortTitle": "ヘッドセットのノイキャン、相手向けと自分向けは別です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=SBPYeYqkwUQ",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 83,
     "updatedAt": "2026-08-28"
@@ -485,7 +485,7 @@
     "itemCategory": "USB 3.2 Gen 2x2対応の最大2000MB/s読み書きポータブルSSD",
     "shortTitle": "外付けSSD、USB4対応でもPC側が非対応なら3800MB/sは出ません #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=6F1pHvEpZi4",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 82,
     "updatedAt": "2026-08-28"
@@ -520,7 +520,7 @@
     "itemCategory": "USB4対応で最大3800MB/s読み出しのポータブルSSD",
     "shortTitle": "外付けSSD、USB4対応でもPC側が非対応なら3800MB/sは出ません #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=6F1pHvEpZi4",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 81,
     "updatedAt": "2026-08-28"
@@ -555,7 +555,7 @@
     "itemCategory": "27インチ4K 60HzでUSB-C 65W Power Deliveryを備えるモニター",
     "shortTitle": "USB-Cモニター、1本接続でも65Wと90Wで充電が変わります #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=tZ2knNSWwqs",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 80,
     "updatedAt": "2026-08-28"
@@ -590,7 +590,7 @@
     "itemCategory": "31.5インチ4K 60HzでUSB-C 90W Power Deliveryを備えるモニター",
     "shortTitle": "USB-Cモニター、1本接続でも65Wと90Wで充電が変わります #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=tZ2knNSWwqs",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 79,
     "updatedAt": "2026-08-28"
@@ -625,7 +625,7 @@
     "itemCategory": "5GHzと2.4GHzのデュアルバンドWi-Fi 7ルーター",
     "shortTitle": "Wi-Fi 7ルーター、同じ規格でも6GHzがない機種があります #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=c6sappAqeww",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 78,
     "updatedAt": "2026-08-28"
@@ -660,7 +660,7 @@
     "itemCategory": "6GHz・5GHz・2.4GHzのトライバンドWi-Fi 7ルーター",
     "shortTitle": "Wi-Fi 7ルーター、同じ規格でも6GHzがない機種があります #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=c6sappAqeww",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 77,
     "updatedAt": "2026-08-28"
@@ -695,7 +695,7 @@
     "itemCategory": "USBオーディオとBluetooth 5.0を備えるデスクトップスピーカー",
     "shortTitle": "PCスピーカー、最大60WはUSB接続だけでは出ません #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=qY2Aac8vNKM",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 76,
     "updatedAt": "2026-08-28"
@@ -730,7 +730,7 @@
     "itemCategory": "USB PD対応でピーク60Wに対応するデスクトップスピーカー",
     "shortTitle": "PCスピーカー、最大60WはUSB接続だけでは出ません #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=qY2Aac8vNKM",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 75,
     "updatedAt": "2026-08-28"
@@ -765,7 +765,7 @@
     "itemCategory": "目線と角度を調整する折りたたみ式ノートPCスタンド",
     "shortTitle": "ノートPCスタンド、目線と冷却は別目的です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=mC_IBzd5CC8",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 74,
     "updatedAt": "2026-08-23"
@@ -800,7 +800,7 @@
     "itemCategory": "USB給電ファンを備える15.6インチ対応ノートPC冷却台",
     "shortTitle": "ノートPCスタンド、目線と冷却は別目的です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=mC_IBzd5CC8",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 73,
     "updatedAt": "2026-08-23"
@@ -835,7 +835,7 @@
     "itemCategory": "17〜32インチ・2〜9kg対応のガス式モニターアーム",
     "shortTitle": "モニターアーム、耐荷重内でも天板厚で付かない #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=ZeAi4VNv4C8",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 72,
     "updatedAt": "2026-08-23"
@@ -870,7 +870,7 @@
     "itemCategory": "17〜49インチ・2〜20kg対応の高耐荷重モニターアーム",
     "shortTitle": "モニターアーム、耐荷重内でも天板厚で付かない #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=ZeAi4VNv4C8",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 71,
     "updatedAt": "2026-08-23"
@@ -905,7 +905,7 @@
     "itemCategory": "1080p/30fps対応のオートフォーカスWebカメラ",
     "shortTitle": "Webカメラ、60fpsを選ぶと1080pではありません #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=5TvNaZvlV-Y",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 70,
     "updatedAt": "2026-08-23"
@@ -940,7 +940,7 @@
     "itemCategory": "720p時に60fpsへ対応するストリーミングWebカメラ",
     "shortTitle": "Webカメラ、60fpsを選ぶと1080pではありません #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=5TvNaZvlV-Y",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 69,
     "updatedAt": "2026-08-23"
@@ -975,7 +975,7 @@
     "itemCategory": "テンキーと8度ティルトを備えるフルサイズキーボード",
     "shortTitle": "キーボード、机を広くするなら幅よりテンキー頻度です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=x8KrBLn9J04",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 68,
     "updatedAt": "2026-08-23"
@@ -1010,7 +1010,7 @@
     "itemCategory": "テンキーを省いた充電式イルミネーションキーボード",
     "shortTitle": "キーボード、机を広くするなら幅よりテンキー頻度です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=x8KrBLn9J04",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 67,
     "updatedAt": "2026-08-23"
@@ -1045,7 +1045,7 @@
     "itemCategory": "固定角度・単3形乾電池式の親指操作トラックボール",
     "shortTitle": "トラックボール、腕を動かさないだけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=AQ4Wybf6KF8",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 66,
     "updatedAt": "2026-08-23"
@@ -1080,7 +1080,7 @@
     "itemCategory": "角度調整・精密モードを備える充電式トラックボール",
     "shortTitle": "トラックボール、腕を動かさないだけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=AQ4Wybf6KF8",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 65,
     "updatedAt": "2026-08-23"
@@ -1115,7 +1115,7 @@
     "itemCategory": "10GbpsポータブルSSD",
     "shortTitle": "外付けSSD、2000MB/sでもPC端子が10Gbpsなら伸びません #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=caXT-KLFh-8",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 64,
     "updatedAt": "2026-08-19"
@@ -1150,7 +1150,7 @@
     "itemCategory": "Ultra High Speed HDMIケーブル",
     "shortTitle": "HDMIケーブル、4K120なら高い方が正解ではありません #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=CRZDsMcFvp8",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 63,
     "updatedAt": "2026-08-19"
@@ -1185,7 +1185,7 @@
     "itemCategory": "高耐久Ultra High Speed HDMIケーブル",
     "shortTitle": "HDMIケーブル、4K120なら高い方が正解ではありません #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=CRZDsMcFvp8",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 62,
     "updatedAt": "2026-08-19"
@@ -1220,7 +1220,7 @@
     "itemCategory": "DisplayLinkドッキングステーション",
     "shortTitle": "Macで2画面、HDMIが2つでも別々に映らない #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=RcLlgZp3wSg",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 61,
     "updatedAt": "2026-08-19"
@@ -1255,7 +1255,7 @@
     "itemCategory": "MSTドッキングステーション",
     "shortTitle": "Macで2画面、HDMIが2つでも別々に映らない #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=RcLlgZp3wSg",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 60,
     "updatedAt": "2026-08-19"
@@ -1290,7 +1290,7 @@
     "itemCategory": "小〜中サイズの手向けと公式案内される57度の縦型マウス",
     "shortTitle": "縦型マウス、57度より先に手の大きさです #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=5J8yib-YE8E",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 59,
     "updatedAt": "2026-08-16"
@@ -1325,7 +1325,7 @@
     "itemCategory": "大きい手向けの候補として公式比較に掲載される57度の縦型マウス",
     "shortTitle": "縦型マウス、57度より先に手の大きさです #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=5J8yib-YE8E",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 58,
     "updatedAt": "2026-08-16"
@@ -1360,7 +1360,7 @@
     "itemCategory": "最大240W充電に対応し、映像出力には非対応のUSB-Cケーブル",
     "shortTitle": "USB-Cケーブル、240W対応でも映像は映りません #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=wtveyzidW2I",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 57,
     "updatedAt": "2026-08-16"
@@ -1395,7 +1395,7 @@
     "itemCategory": "240W充電・40Gbps転送・最大8K映像出力に対応するケーブル",
     "shortTitle": "USB-Cケーブル、240W対応でも映像は映りません #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=wtveyzidW2I",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 56,
     "updatedAt": "2026-08-16"
@@ -1430,7 +1430,7 @@
     "itemCategory": "合計200W・単ポート最大100Wの6ポート据え置き充電器",
     "shortTitle": "100WノートPC、他ポートも使うなら配分表です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=xy5b4fkVAcs",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 55,
     "updatedAt": "2026-08-16"
@@ -1465,7 +1465,7 @@
     "itemCategory": "C1+C2利用時に140W+100Wの組み合わせを持つ4ポート充電器",
     "shortTitle": "100WノートPC、他ポートも使うなら配分表です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=xy5b4fkVAcs",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 54,
     "updatedAt": "2026-08-16"
@@ -1500,7 +1500,7 @@
     "itemCategory": "手元スイッチ式・4K60Hz対応のシンプルなPC切替器候補",
     "shortTitle": "PC切替器、切り替えるたび画面配置が崩れる理由 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 53,
     "updatedAt": "2026-08-13"
@@ -1535,7 +1535,7 @@
     "itemCategory": "EDIDエミュレーション・USB 5Gbpsハブ搭載のPC切替器候補",
     "shortTitle": "PC切替器、切り替えるたび画面配置が崩れる理由 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 52,
     "updatedAt": "2026-08-13"
