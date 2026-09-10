@@ -1,6 +1,111 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s151-01-elecom-tk-tbm023skbk",
+    "title": "ELECOM TK-TBM023SKBK",
+    "description": "Bluetooth 5.1接続のワイヤレステンキーパッド(数値入力用の一例)としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/r-kojima/cabinet/n0000000538/4549550210812_1.jpg?_ex=600x600",
+    "merchant": "コジマ楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "コジマ楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r8mvn.k9qwpa5e.g00r8mvn.k9qwqf33/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F4549550210812%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11452800%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=ELECOM+TK-TBM023SKBK+Bluetooth+%E3%83%86%E3%83%B3%E3%82%AD%E3%83%BC&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "Bluetooth 5.1接続のワイヤレステンキーパッド(数値入力用の一例)",
+    "shortTitle": "テンキーでマウスが動く？この設定を確認 #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=WGzNjED6brY",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 96,
+    "updatedAt": "2026-09-10"
+  },
+  {
+    "id": "s150-01-logicool-signature-m750",
+    "title": "Logicool Signature M750",
+    "description": "小〜中サイズの手向けのワイヤレスマウス(マウスの一例)としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m750mgr/m750mgr_r_.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm750mgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000503%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+M750+M750MGR&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "小〜中サイズの手向けのワイヤレスマウス(マウスの一例)",
+    "shortTitle": "マウスが速すぎる？買い替え前にこの設定 #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=AkEK9RjJFqo",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 95,
+    "updatedAt": "2026-09-10"
+  },
+  {
+    "id": "s149-01-creative-pebble-v3",
+    "title": "Creative Pebble V3",
+    "description": "USBオーディオに対応するデスクトップスピーカー(外部スピーカーの一例)としてShortsで紹介した候補です。左右の設置幅、接続方式、給電条件、入力端子を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ilmondomall/cabinet/g/5/e9ew5vgwaq-4.jpg?_ex=600x600",
+    "merchant": "Ilmondomall",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "Ilmondomall",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u1n4n.k9qwpb10.g00u1n4n.k9qwq84f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Filmondomall%2Fgr-e9ew5vgwaq%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Filmondomall%2Fi%2F10082698%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Creative+Pebble+V3+%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCスピーカー",
+    "itemCategory": "USBオーディオに対応するデスクトップスピーカー(外部スピーカーの一例)",
+    "shortTitle": "HDMI接続後、音が出ない？まず出力先を確認 #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=MG-QmmMVV40",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 94,
+    "updatedAt": "2026-09-10"
+  },
+  {
     "id": "s148-01-dell-p2425d",
     "title": "Dell P2425D",
     "description": "23.8インチ・QHD・123PPI・100HzのPCモニター(デュアル構成の一例)としてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
@@ -32,7 +137,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IC3lyjD42eg",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 95,
+    "priority": 93,
     "updatedAt": "2026-09-07"
   },
   {
@@ -67,43 +172,8 @@
     "shortUrl": "https://www.youtube.com/watch?v=IC3lyjD42eg",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 94,
+    "priority": 92,
     "updatedAt": "2026-09-07"
-  },
-  {
-    "id": "s144-01-elecom-tk-tbm023skbk",
-    "title": "ELECOM TK-TBM023SKBK",
-    "description": "USBポートを塞がないBluetooth静音テンキーパッドとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/r-kojima/cabinet/n0000000538/4549550210812_1.jpg?_ex=600x600",
-    "merchant": "コジマ楽天市場店",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "コジマ楽天市場店",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r8mvn.k9qwpa5e.g00r8mvn.k9qwqf33/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F4549550210812%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11452800%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=ELECOM+TK-TBM023SKBK+Bluetooth+%E3%83%86%E3%83%B3%E3%82%AD%E3%83%BC&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "USBポートを塞がないBluetooth静音テンキーパッド",
-    "shortTitle": "ワイヤレステンキーおすすめ、BluetoothとUSBで迷ったら #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=izF3IWr4QE0",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 93,
-    "updatedAt": "2026-09-04"
   },
   {
     "id": "s144-02-elecom-tk-tdm022skbk",
@@ -137,7 +207,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=izF3IWr4QE0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 92,
+    "priority": 91,
     "updatedAt": "2026-09-04"
   },
   {
@@ -172,7 +242,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=n-RNAyPpbYw",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 91,
+    "priority": 90,
     "updatedAt": "2026-09-04"
   },
   {
@@ -207,7 +277,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=-l3WMygrgUE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 90,
+    "priority": 89,
     "updatedAt": "2026-09-01"
   },
   {
@@ -242,7 +312,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=-l3WMygrgUE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 89,
+    "priority": 88,
     "updatedAt": "2026-09-01"
   },
   {
@@ -277,7 +347,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=bdef7v74sgM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 88,
+    "priority": 87,
     "updatedAt": "2026-09-01"
   },
   {
@@ -312,7 +382,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=bdef7v74sgM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 87,
+    "priority": 86,
     "updatedAt": "2026-09-01"
   },
   {
@@ -347,7 +417,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IDZi-aDppZM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 86,
+    "priority": 85,
     "updatedAt": "2026-09-01"
   },
   {
@@ -382,7 +452,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IDZi-aDppZM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 85,
+    "priority": 84,
     "updatedAt": "2026-09-01"
   },
   {
@@ -417,7 +487,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=SBPYeYqkwUQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 84,
+    "priority": 83,
     "updatedAt": "2026-08-28"
   },
   {
@@ -452,7 +522,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=SBPYeYqkwUQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 83,
+    "priority": 82,
     "updatedAt": "2026-08-28"
   },
   {
@@ -487,7 +557,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6F1pHvEpZi4",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 82,
+    "priority": 81,
     "updatedAt": "2026-08-28"
   },
   {
@@ -522,7 +592,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6F1pHvEpZi4",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 81,
+    "priority": 80,
     "updatedAt": "2026-08-28"
   },
   {
@@ -557,7 +627,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=tZ2knNSWwqs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 80,
+    "priority": 79,
     "updatedAt": "2026-08-28"
   },
   {
@@ -592,7 +662,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=tZ2knNSWwqs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 79,
+    "priority": 78,
     "updatedAt": "2026-08-28"
   },
   {
@@ -627,7 +697,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=c6sappAqeww",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 78,
+    "priority": 77,
     "updatedAt": "2026-08-28"
   },
   {
@@ -662,7 +732,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=c6sappAqeww",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 77,
+    "priority": 76,
     "updatedAt": "2026-08-28"
   },
   {
@@ -697,7 +767,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=qY2Aac8vNKM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 76,
+    "priority": 75,
     "updatedAt": "2026-08-28"
   },
   {
@@ -732,7 +802,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=qY2Aac8vNKM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 75,
+    "priority": 74,
     "updatedAt": "2026-08-28"
   },
   {
@@ -767,7 +837,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=mC_IBzd5CC8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 74,
+    "priority": 73,
     "updatedAt": "2026-08-23"
   },
   {
@@ -802,7 +872,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=mC_IBzd5CC8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 73,
+    "priority": 72,
     "updatedAt": "2026-08-23"
   },
   {
@@ -837,7 +907,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ZeAi4VNv4C8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 72,
+    "priority": 71,
     "updatedAt": "2026-08-23"
   },
   {
@@ -872,7 +942,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ZeAi4VNv4C8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 71,
+    "priority": 70,
     "updatedAt": "2026-08-23"
   },
   {
@@ -907,7 +977,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5TvNaZvlV-Y",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 70,
+    "priority": 69,
     "updatedAt": "2026-08-23"
   },
   {
@@ -942,7 +1012,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5TvNaZvlV-Y",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 69,
+    "priority": 68,
     "updatedAt": "2026-08-23"
   },
   {
@@ -977,7 +1047,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=x8KrBLn9J04",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 68,
+    "priority": 67,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1012,7 +1082,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=x8KrBLn9J04",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 67,
+    "priority": 66,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1047,7 +1117,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=AQ4Wybf6KF8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 66,
+    "priority": 65,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1082,7 +1152,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=AQ4Wybf6KF8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 65,
+    "priority": 64,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1117,7 +1187,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=caXT-KLFh-8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 64,
+    "priority": 63,
     "updatedAt": "2026-08-19"
   },
   {
@@ -1152,7 +1222,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CRZDsMcFvp8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 63,
+    "priority": 62,
     "updatedAt": "2026-08-19"
   },
   {
@@ -1187,7 +1257,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CRZDsMcFvp8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 62,
+    "priority": 61,
     "updatedAt": "2026-08-19"
   },
   {
@@ -1222,7 +1292,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=RcLlgZp3wSg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 61,
+    "priority": 60,
     "updatedAt": "2026-08-19"
   },
   {
@@ -1257,7 +1327,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=RcLlgZp3wSg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 60,
+    "priority": 59,
     "updatedAt": "2026-08-19"
   },
   {
@@ -1292,7 +1362,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5J8yib-YE8E",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 59,
+    "priority": 58,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1327,7 +1397,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5J8yib-YE8E",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 58,
+    "priority": 57,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1362,7 +1432,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=wtveyzidW2I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 57,
+    "priority": 56,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1397,7 +1467,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=wtveyzidW2I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 56,
+    "priority": 55,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1432,7 +1502,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=xy5b4fkVAcs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 55,
+    "priority": 54,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1467,7 +1537,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=xy5b4fkVAcs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 54,
+    "priority": 53,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1502,7 +1572,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 53,
+    "priority": 52,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1537,7 +1607,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 52,
+    "priority": 51,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1572,7 +1642,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TCBPQDgycCE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 51,
+    "priority": 50,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1607,7 +1677,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TCBPQDgycCE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 50,
+    "priority": 49,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1642,7 +1712,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6NpLlqRv0WY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 49,
+    "priority": 48,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1677,7 +1747,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6NpLlqRv0WY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 48,
+    "priority": 47,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1712,7 +1782,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=qrJvJxhF_Y0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 47,
+    "priority": 46,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1747,7 +1817,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=iC-z0I_ELY0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 46,
+    "priority": 45,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1782,7 +1852,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=iC-z0I_ELY0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 45,
+    "priority": 44,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1817,7 +1887,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NGG92CahYKE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 44,
+    "priority": 43,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1852,7 +1922,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=DT05DvxhR4A",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 43,
+    "priority": 42,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1887,7 +1957,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=tDIG89l2FW4",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 42,
+    "priority": 41,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1922,7 +1992,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=kKdIwkDet_I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 41,
+    "priority": 40,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1957,7 +2027,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=kKdIwkDet_I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 40,
+    "priority": 39,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1992,7 +2062,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=c1LjrLqCwHg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 39,
+    "priority": 38,
     "updatedAt": "2026-08-06"
   },
   {
@@ -2027,43 +2097,8 @@
     "shortUrl": "https://www.youtube.com/watch?v=VAHRgrknwiw",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 38,
-    "updatedAt": "2026-08-06"
-  },
-  {
-    "id": "s108-01-logicool-signature-m750",
-    "title": "Logicool Signature M750",
-    "description": "静音ワイヤレスマウスとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m750mgr/m750mgr_r_.jpg?_ex=600x600",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm750mgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000503%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+M750&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "静音ワイヤレスマウス",
-    "shortTitle": "M750が合う人、買う前にこの3つ #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=dDTmXosn1WE",
-    "shortStatus": "public",
-    "isPr": true,
     "priority": 37,
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-08-06"
   },
   {
     "id": "s106-01-japannext-jn-md-ips156f2",
