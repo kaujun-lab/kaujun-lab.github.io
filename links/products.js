@@ -3,7 +3,7 @@
   {
     "id": "s154-01-logicool-logi-bolt-usb-receiver-",
     "title": "Logicool Logi Bolt USB receiver LBUSB1",
-    "description": "Logi Bolt規格のUSBレシーバー(受信機の一例)としてShortsで紹介した候補です。出力W数、ポート数、対応端末、設置場所を購入前に確認してください。",
+    "description": "Logi Bolt規格のUSBレシーバー(受信機の一例)としてShortsで紹介した候補です。接続する機器の正確な型番、対応する無線規格、USB端子、ペアリング手順を購入前に確認してください。",
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/lbusb1/lbusb1_01_r.jpg?_ex=600x600",
     "merchant": "ロジクール 公式ストア",
     "offers": [
@@ -26,7 +26,7 @@
         "ctaLabel": "Amazonで探す"
       }
     ],
-    "category": "充電器",
+    "category": "ワイヤレス受信機",
     "itemCategory": "Logi Bolt規格のUSBレシーバー(受信機の一例)",
     "shortTitle": "ロジクールの受信機、挿せるのに動かない？ #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=9N8vD1VYv8s",
@@ -38,7 +38,7 @@
   {
     "id": "s153-01-logicool-zone-300",
     "title": "Logicool Zone 300",
-    "description": "マイク付きワイヤレスヘッドセット(ヘッドセットの一例)としてShortsで紹介した候補です。サイズ、置き場所、毎日の使いやすさを購入前に確認してください。",
+    "description": "マイク付きワイヤレスヘッドセット(ヘッドセットの一例)としてShortsで紹介した候補です。対応端末、接続方式、マイクの入力設定、会議アプリとの相性を購入前に確認してください。",
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/hs/zone300mbk/zone300mbk.jpg?_ex=600x600",
     "merchant": "ロジクール 公式ストア",
     "offers": [
@@ -61,7 +61,7 @@
         "ctaLabel": "Amazonで探す"
       }
     ],
-    "category": "デスク用品",
+    "category": "ヘッドセット",
     "itemCategory": "マイク付きワイヤレスヘッドセット(ヘッドセットの一例)",
     "shortTitle": "ヘッドセット、声が届かない？入力先を確認 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=lo9geLX_mv8",
@@ -283,7 +283,7 @@
   {
     "id": "s144-02-elecom-tk-tdm022skbk",
     "title": "ELECOM TK-TDM022SKBK",
-    "description": "USB-Aレシーバーで接続する2.4GHz静音テンキーパッドとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "description": "USB-Aレシーバーで接続する2.4GHz静音テンキーパッドとしてShortsで紹介した候補です。接続する機器の正確な型番、対応する無線規格、USB端子、ペアリング手順を購入前に確認してください。",
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/gikstore/cabinet/11694825/11771301/11775752/imgrc0099490909.jpg?_ex=600x600",
     "merchant": "Gikstore",
     "offers": [
@@ -306,7 +306,7 @@
         "ctaLabel": "Amazonで探す"
       }
     ],
-    "category": "入力機器",
+    "category": "ワイヤレス受信機",
     "itemCategory": "USB-Aレシーバーで接続する2.4GHz静音テンキーパッド",
     "shortTitle": "ワイヤレステンキーおすすめ、BluetoothとUSBで迷ったら #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=izF3IWr4QE0",
