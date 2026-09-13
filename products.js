@@ -1,6 +1,111 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s154-01-logicool-logi-bolt-usb-receiver-",
+    "title": "Logicool Logi Bolt USB receiver LBUSB1",
+    "description": "Logi Bolt規格のUSBレシーバー(受信機の一例)としてShortsで紹介した候補です。出力W数、ポート数、対応端末、設置場所を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/lbusb1/lbusb1_01_r.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Flbusb1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000433%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Logi+Bolt+LBUSB1&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "充電器",
+    "itemCategory": "Logi Bolt規格のUSBレシーバー(受信機の一例)",
+    "shortTitle": "ロジクールの受信機、挿せるのに動かない？ #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=9N8vD1VYv8s",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 98,
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s153-01-logicool-zone-300",
+    "title": "Logicool Zone 300",
+    "description": "マイク付きワイヤレスヘッドセット(ヘッドセットの一例)としてShortsで紹介した候補です。サイズ、置き場所、毎日の使いやすさを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/hs/zone300mbk/zone300mbk.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fzone300mbk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000600%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Zone+300+%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "デスク用品",
+    "itemCategory": "マイク付きワイヤレスヘッドセット(ヘッドセットの一例)",
+    "shortTitle": "ヘッドセット、声が届かない？入力先を確認 #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=lo9geLX_mv8",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 97,
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s152-01-logicool-brio-100-c660gr",
+    "title": "Logicool BRIO 100 C660GR",
+    "description": "スライド式プライバシーシャッター内蔵のWebカメラ(レンズカバー付きWebカメラの一例)としてShortsで紹介した候補です。画角、解像度とフレームレート、ピント、設置方法、プライバシー機能を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/webcam/c660gr/c660gr_.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fc660gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000558%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+BRIO+100+C660GR&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "Webカメラ",
+    "itemCategory": "スライド式プライバシーシャッター内蔵のWebカメラ(レンズカバー付きWebカメラの一例)",
+    "shortTitle": "Webカメラが真っ暗？設定前にレンズカバー #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=h0j4yTbEq6g",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 96,
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "s151-01-elecom-tk-tbm023skbk",
     "title": "ELECOM TK-TBM023SKBK",
     "description": "Bluetooth 5.1接続のワイヤレステンキーパッド(数値入力用の一例)としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
@@ -30,9 +135,9 @@
     "itemCategory": "Bluetooth 5.1接続のワイヤレステンキーパッド(数値入力用の一例)",
     "shortTitle": "テンキーでマウスが動く？この設定を確認 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=WGzNjED6brY",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 96,
+    "priority": 95,
     "updatedAt": "2026-09-10"
   },
   {
@@ -65,9 +170,9 @@
     "itemCategory": "小〜中サイズの手向けのワイヤレスマウス(マウスの一例)",
     "shortTitle": "マウスが速すぎる？買い替え前にこの設定 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=AkEK9RjJFqo",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 95,
+    "priority": 94,
     "updatedAt": "2026-09-10"
   },
   {
@@ -100,9 +205,9 @@
     "itemCategory": "USBオーディオに対応するデスクトップスピーカー(外部スピーカーの一例)",
     "shortTitle": "HDMI接続後、音が出ない？まず出力先を確認 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=MG-QmmMVV40",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 94,
+    "priority": 93,
     "updatedAt": "2026-09-10"
   },
   {
@@ -135,9 +240,9 @@
     "itemCategory": "23.8インチ・QHD・123PPI・100HzのPCモニター(デュアル構成の一例)",
     "shortTitle": "デュアルモニター、マウスが逆へ行く時の直し方 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=IC3lyjD42eg",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 93,
+    "priority": 92,
     "updatedAt": "2026-09-07"
   },
   {
@@ -170,9 +275,9 @@
     "itemCategory": "27インチ・QHD・109PPI・100HzのPCモニター(デュアル構成の一例)",
     "shortTitle": "デュアルモニター、マウスが逆へ行く時の直し方 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=IC3lyjD42eg",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 92,
+    "priority": 91,
     "updatedAt": "2026-09-07"
   },
   {
@@ -207,7 +312,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=izF3IWr4QE0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 91,
+    "priority": 90,
     "updatedAt": "2026-09-04"
   },
   {
@@ -242,7 +347,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=n-RNAyPpbYw",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 90,
+    "priority": 89,
     "updatedAt": "2026-09-04"
   },
   {
@@ -277,7 +382,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=-l3WMygrgUE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 89,
+    "priority": 88,
     "updatedAt": "2026-09-01"
   },
   {
@@ -312,7 +417,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=-l3WMygrgUE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 88,
+    "priority": 87,
     "updatedAt": "2026-09-01"
   },
   {
@@ -347,7 +452,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=bdef7v74sgM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 87,
+    "priority": 86,
     "updatedAt": "2026-09-01"
   },
   {
@@ -382,7 +487,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=bdef7v74sgM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 86,
+    "priority": 85,
     "updatedAt": "2026-09-01"
   },
   {
@@ -417,7 +522,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IDZi-aDppZM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 85,
+    "priority": 84,
     "updatedAt": "2026-09-01"
   },
   {
@@ -452,43 +557,8 @@
     "shortUrl": "https://www.youtube.com/watch?v=IDZi-aDppZM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 84,
-    "updatedAt": "2026-09-01"
-  },
-  {
-    "id": "s139-01-logicool-zone-300",
-    "title": "Logicool Zone 300",
-    "description": "デュアルビームフォーミングマイク搭載の軽量BluetoothヘッドセットとしてShortsで紹介した候補です。サイズ、置き場所、毎日の使いやすさを購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/hs/zone300mbk/zone300mbk.jpg?_ex=600x600",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fzone300mbk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000600%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Zone+300+%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "デスク用品",
-    "itemCategory": "デュアルビームフォーミングマイク搭載の軽量Bluetoothヘッドセット",
-    "shortTitle": "ヘッドセットのノイキャン、相手向けと自分向けは別です #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=SBPYeYqkwUQ",
-    "shortStatus": "public",
-    "isPr": true,
     "priority": 83,
-    "updatedAt": "2026-08-28"
+    "updatedAt": "2026-09-01"
   },
   {
     "id": "s139-02-sony-wh-ch720n",
