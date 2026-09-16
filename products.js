@@ -1,9 +1,44 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
-    "id": "s157-01-logicool-mx-keys-mini-kx700",
+    "id": "s162-01-logicool-signature-slim-k950",
+    "title": "Logicool Signature Slim K950",
+    "description": "ワイヤレスキーボード(関連製品の一例。上書きモードの解除に特定のキーボードは不要)としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k950/k950gr_n.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk950gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000595%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+Slim+K950&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "ワイヤレスキーボード(関連製品の一例。上書きモードの解除に特定のキーボードは不要)",
+    "shortTitle": "Wordで打つと後ろの文字が消える？上書きモードを確認 #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=MOrkQZZtVVs",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 98,
+    "updatedAt": "2026-09-17"
+  },
+  {
+    "id": "s161-01-logicool-mx-keys-mini-kx700",
     "title": "Logicool MX Keys Mini KX700",
-    "description": "コンパクトワイヤレスキーボード(関連製品の一例。範囲スクショに特定のキーボードは不要)としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "description": "コンパクトワイヤレスキーボード(関連製品の一例。Scroll Lockの解除に特定のキーボードは不要)としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/kx700gr/kx700gr_01_r.jpg?_ex=600x600",
     "merchant": "ロジクール 公式ストア",
     "offers": [
@@ -27,13 +62,13 @@
       }
     ],
     "category": "入力機器",
-    "itemCategory": "コンパクトワイヤレスキーボード(関連製品の一例。範囲スクショに特定のキーボードは不要)",
-    "shortTitle": "スクショは必要な所だけ、Win+Shift+Sで範囲指定 #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=hSjx_B2ubOE",
+    "itemCategory": "コンパクトワイヤレスキーボード(関連製品の一例。Scroll Lockの解除に特定のキーボードは不要)",
+    "shortTitle": "Excelで矢印を押すと画面が動く？Scroll Lockを確認 #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=86TZpVUFlWY",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 98,
-    "updatedAt": "2026-09-16"
+    "priority": 97,
+    "updatedAt": "2026-09-17"
   },
   {
     "id": "s156-01-dell-s2725dsm",
@@ -65,41 +100,6 @@
     "itemCategory": "27インチQHDモニター(関連製品の一例。1画面のスナップにモニター購入は不要)",
     "shortTitle": "モニターを増やす前に、Win+←で一台を二分割 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=tZDsJ61y-Dw",
-    "shortStatus": "scheduled",
-    "isPr": true,
-    "priority": 97,
-    "updatedAt": "2026-09-16"
-  },
-  {
-    "id": "s155-01-logicool-signature-slim-k950",
-    "title": "Logicool Signature Slim K950",
-    "description": "Windowsキー付きワイヤレスキーボード(関連製品の一例。クリップボード履歴に特定のキーボードは不要)としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k950/k950gr_n.jpg?_ex=600x600",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk950gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000595%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+Slim+K950&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "Windowsキー付きワイヤレスキーボード(関連製品の一例。クリップボード履歴に特定のキーボードは不要)",
-    "shortTitle": "コピーし直す前に、Win+Vでクリップボード履歴 #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=cx8tOE8lXZs",
     "shortStatus": "scheduled",
     "isPr": true,
     "priority": 96,
