@@ -1,6 +1,111 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s157-01-logicool-mx-keys-mini-kx700",
+    "title": "Logicool MX Keys Mini KX700",
+    "description": "コンパクトワイヤレスキーボード(関連製品の一例。範囲スクショに特定のキーボードは不要)としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/kx700gr/kx700gr_01_r.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fkx700gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000432%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+MX+Keys+Mini+KX700GR&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "コンパクトワイヤレスキーボード(関連製品の一例。範囲スクショに特定のキーボードは不要)",
+    "shortTitle": "スクショは必要な所だけ、Win+Shift+Sで範囲指定 #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=hSjx_B2ubOE",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 98,
+    "updatedAt": "2026-09-16"
+  },
+  {
+    "id": "s156-01-dell-s2725dsm",
+    "title": "Dell S2725DSM",
+    "description": "27インチQHDモニター(関連製品の一例。1画面のスナップにモニター購入は不要)としてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/15031/00000014663194_a01.jpg?_ex=600x600",
+    "merchant": "楽天ビック(ビックカメラ×楽天)",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天ビック(ビックカメラ×楽天)",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.k9qwpe94.g00r7ldn.k9qwqe8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4573661274722%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F15311488%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Dell+S2725DSM+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC+27%E3%82%A4%E3%83%B3%E3%83%81+QHD&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCモニター",
+    "itemCategory": "27インチQHDモニター(関連製品の一例。1画面のスナップにモニター購入は不要)",
+    "shortTitle": "モニターを増やす前に、Win+←で一台を二分割 #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=tZDsJ61y-Dw",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 97,
+    "updatedAt": "2026-09-16"
+  },
+  {
+    "id": "s155-01-logicool-signature-slim-k950",
+    "title": "Logicool Signature Slim K950",
+    "description": "Windowsキー付きワイヤレスキーボード(関連製品の一例。クリップボード履歴に特定のキーボードは不要)としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k950/k950gr_n.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk950gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000595%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+Slim+K950&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "Windowsキー付きワイヤレスキーボード(関連製品の一例。クリップボード履歴に特定のキーボードは不要)",
+    "shortTitle": "コピーし直す前に、Win+Vでクリップボード履歴 #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=cx8tOE8lXZs",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 96,
+    "updatedAt": "2026-09-16"
+  },
+  {
     "id": "s154-01-logicool-logi-bolt-usb-receiver-",
     "title": "Logicool Logi Bolt USB receiver LBUSB1",
     "description": "Logi Bolt規格のUSBレシーバー(受信機の一例)としてShortsで紹介した候補です。接続する機器の正確な型番、対応する無線規格、USB端子、ペアリング手順を購入前に確認してください。",
@@ -30,9 +135,9 @@
     "itemCategory": "Logi Bolt規格のUSBレシーバー(受信機の一例)",
     "shortTitle": "ロジクールの受信機、挿せるのに動かない？ #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=9N8vD1VYv8s",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 98,
+    "priority": 95,
     "updatedAt": "2026-09-13"
   },
   {
@@ -65,9 +170,9 @@
     "itemCategory": "マイク付きワイヤレスヘッドセット(ヘッドセットの一例)",
     "shortTitle": "ヘッドセット、声が届かない？入力先を確認 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=lo9geLX_mv8",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 97,
+    "priority": 94,
     "updatedAt": "2026-09-13"
   },
   {
@@ -100,9 +205,9 @@
     "itemCategory": "スライド式プライバシーシャッター内蔵のWebカメラ(レンズカバー付きWebカメラの一例)",
     "shortTitle": "Webカメラが真っ暗？設定前にレンズカバー #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=h0j4yTbEq6g",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 96,
+    "priority": 93,
     "updatedAt": "2026-09-13"
   },
   {
@@ -137,7 +242,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WGzNjED6brY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 95,
+    "priority": 92,
     "updatedAt": "2026-09-10"
   },
   {
@@ -172,7 +277,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=AkEK9RjJFqo",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 94,
+    "priority": 91,
     "updatedAt": "2026-09-10"
   },
   {
@@ -207,7 +312,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=MG-QmmMVV40",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 93,
+    "priority": 90,
     "updatedAt": "2026-09-10"
   },
   {
@@ -242,7 +347,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IC3lyjD42eg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 92,
+    "priority": 89,
     "updatedAt": "2026-09-07"
   },
   {
@@ -277,7 +382,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IC3lyjD42eg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 91,
+    "priority": 88,
     "updatedAt": "2026-09-07"
   },
   {
@@ -312,7 +417,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=izF3IWr4QE0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 90,
+    "priority": 87,
     "updatedAt": "2026-09-04"
   },
   {
@@ -347,7 +452,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=n-RNAyPpbYw",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 89,
+    "priority": 86,
     "updatedAt": "2026-09-04"
   },
   {
@@ -382,7 +487,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=-l3WMygrgUE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 88,
+    "priority": 85,
     "updatedAt": "2026-09-01"
   },
   {
@@ -417,7 +522,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=-l3WMygrgUE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 87,
+    "priority": 84,
     "updatedAt": "2026-09-01"
   },
   {
@@ -452,7 +557,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=bdef7v74sgM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 86,
+    "priority": 83,
     "updatedAt": "2026-09-01"
   },
   {
@@ -487,7 +592,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=bdef7v74sgM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 85,
+    "priority": 82,
     "updatedAt": "2026-09-01"
   },
   {
@@ -522,42 +627,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IDZi-aDppZM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 84,
-    "updatedAt": "2026-09-01"
-  },
-  {
-    "id": "s140-02-dell-s2725dsm",
-    "title": "Dell S2725DSM",
-    "description": "スタンド込み奥行き201.83mmの27インチQHD 144HzモニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/15031/00000014663194_a01.jpg?_ex=128x128",
-    "merchant": "楽天ビック(ビックカメラ×楽天)",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "楽天ビック(ビックカメラ×楽天)",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.k9qwpe94.g00r7ldn.k9qwqe8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4573661274722%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F15311488%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Dell+S2725DSM+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC+27%E3%82%A4%E3%83%B3%E3%83%81+QHD&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "PCモニター",
-    "itemCategory": "スタンド込み奥行き201.83mmの27インチQHD 144Hzモニター",
-    "shortTitle": "在宅デスク、モニターより先に机の奥行きです #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=IDZi-aDppZM",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 83,
+    "priority": 81,
     "updatedAt": "2026-09-01"
   },
   {
@@ -592,7 +662,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=SBPYeYqkwUQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 82,
+    "priority": 80,
     "updatedAt": "2026-08-28"
   },
   {
@@ -627,7 +697,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6F1pHvEpZi4",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 81,
+    "priority": 79,
     "updatedAt": "2026-08-28"
   },
   {
@@ -662,7 +732,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6F1pHvEpZi4",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 80,
+    "priority": 78,
     "updatedAt": "2026-08-28"
   },
   {
@@ -697,7 +767,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=tZ2knNSWwqs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 79,
+    "priority": 77,
     "updatedAt": "2026-08-28"
   },
   {
@@ -732,7 +802,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=tZ2knNSWwqs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 78,
+    "priority": 76,
     "updatedAt": "2026-08-28"
   },
   {
@@ -767,7 +837,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=c6sappAqeww",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 77,
+    "priority": 75,
     "updatedAt": "2026-08-28"
   },
   {
@@ -802,7 +872,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=c6sappAqeww",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 76,
+    "priority": 74,
     "updatedAt": "2026-08-28"
   },
   {
@@ -837,7 +907,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=qY2Aac8vNKM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 75,
+    "priority": 73,
     "updatedAt": "2026-08-28"
   },
   {
@@ -872,7 +942,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=qY2Aac8vNKM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 74,
+    "priority": 72,
     "updatedAt": "2026-08-28"
   },
   {
@@ -907,7 +977,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=mC_IBzd5CC8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 73,
+    "priority": 71,
     "updatedAt": "2026-08-23"
   },
   {
@@ -942,7 +1012,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=mC_IBzd5CC8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 72,
+    "priority": 70,
     "updatedAt": "2026-08-23"
   },
   {
@@ -977,7 +1047,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ZeAi4VNv4C8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 71,
+    "priority": 69,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1012,7 +1082,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ZeAi4VNv4C8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 70,
+    "priority": 68,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1047,7 +1117,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5TvNaZvlV-Y",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 69,
+    "priority": 67,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1080,76 +1150,6 @@
     "itemCategory": "720p時に60fpsへ対応するストリーミングWebカメラ",
     "shortTitle": "Webカメラ、60fpsを選ぶと1080pではありません #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=5TvNaZvlV-Y",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 68,
-    "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "s131-01-logicool-signature-slim-k950",
-    "title": "Logicool Signature Slim K950",
-    "description": "テンキーと8度ティルトを備えるフルサイズキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k950/k950gr_n.jpg?_ex=600x600",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk950gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000595%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+Slim+K950&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "テンキーと8度ティルトを備えるフルサイズキーボード",
-    "shortTitle": "キーボード、机を広くするなら幅よりテンキー頻度です #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=x8KrBLn9J04",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 67,
-    "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "s131-02-logicool-mx-keys-mini-kx700",
-    "title": "Logicool MX Keys Mini KX700",
-    "description": "テンキーを省いた充電式イルミネーションキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/kx700gr/kx700gr_01_r.jpg?_ex=600x600",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fkx700gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000432%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+MX+Keys+Mini+KX700GR&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "テンキーを省いた充電式イルミネーションキーボード",
-    "shortTitle": "キーボード、机を広くするなら幅よりテンキー頻度です #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=x8KrBLn9J04",
     "shortStatus": "public",
     "isPr": true,
     "priority": 66,
