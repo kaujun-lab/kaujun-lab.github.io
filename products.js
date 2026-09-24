@@ -1,9 +1,9 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
-    "id": "s162-01-logicool-signature-slim-k950",
+    "id": "s167-01-logicool-signature-slim-k950",
     "title": "Logicool Signature Slim K950",
-    "description": "ワイヤレスキーボード(関連製品の一例。上書きモードの解除に特定のキーボードは不要)としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "description": "ワイヤレスキーボード(関連製品の一例。拡大鏡の終了に特定のキーボードは不要)としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k950/k950gr_n.jpg?_ex=600x600",
     "merchant": "ロジクール 公式ストア",
     "offers": [
@@ -27,13 +27,48 @@
       }
     ],
     "category": "入力機器",
-    "itemCategory": "ワイヤレスキーボード(関連製品の一例。上書きモードの解除に特定のキーボードは不要)",
-    "shortTitle": "Wordで打つと後ろの文字が消える？上書きモードを確認 #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=MOrkQZZtVVs",
+    "itemCategory": "ワイヤレスキーボード(関連製品の一例。拡大鏡の終了に特定のキーボードは不要)",
+    "shortTitle": "拡大鏡で画面が大きすぎる？Win+Escで終了 #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=2EaTSiuy2rk",
     "shortStatus": "scheduled",
     "isPr": true,
     "priority": 98,
-    "updatedAt": "2026-09-17"
+    "updatedAt": "2026-09-24"
+  },
+  {
+    "id": "s166-01-dell-s2725dsm",
+    "title": "Dell S2725DSM",
+    "description": "27インチQHDモニター(関連製品の一例。隣のモニターへのウィンドウ移動にモニターの購入は不要)としてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/15031/00000014663194_a01.jpg?_ex=600x600",
+    "merchant": "楽天ビック(ビックカメラ×楽天)",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "楽天ビック(ビックカメラ×楽天)",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.k9qwpe94.g00r7ldn.k9qwqe8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4573661274722%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F15311488%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Dell+S2725DSM+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC+27%E3%82%A4%E3%83%B3%E3%83%81+QHD&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCモニター",
+    "itemCategory": "27インチQHDモニター(関連製品の一例。隣のモニターへのウィンドウ移動にモニターの購入は不要)",
+    "shortTitle": "隣のモニターへ一瞬で移動、Win+Shift+矢印 #Shorts",
+    "shortUrl": "https://www.youtube.com/watch?v=HtYj7JWkCow",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 97,
+    "updatedAt": "2026-09-24"
   },
   {
     "id": "s161-01-logicool-mx-keys-mini-kx700",
@@ -65,45 +100,10 @@
     "itemCategory": "コンパクトワイヤレスキーボード(関連製品の一例。Scroll Lockの解除に特定のキーボードは不要)",
     "shortTitle": "Excelで矢印を押すと画面が動く？Scroll Lockを確認 #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=86TZpVUFlWY",
-    "shortStatus": "scheduled",
-    "isPr": true,
-    "priority": 97,
-    "updatedAt": "2026-09-17"
-  },
-  {
-    "id": "s156-01-dell-s2725dsm",
-    "title": "Dell S2725DSM",
-    "description": "27インチQHDモニター(関連製品の一例。1画面のスナップにモニター購入は不要)としてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/15031/00000014663194_a01.jpg?_ex=600x600",
-    "merchant": "楽天ビック(ビックカメラ×楽天)",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "楽天ビック(ビックカメラ×楽天)",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.k9qwpe94.g00r7ldn.k9qwqe8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4573661274722%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F15311488%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Dell+S2725DSM+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC+27%E3%82%A4%E3%83%B3%E3%83%81+QHD&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "PCモニター",
-    "itemCategory": "27インチQHDモニター(関連製品の一例。1画面のスナップにモニター購入は不要)",
-    "shortTitle": "モニターを増やす前に、Win+←で一台を二分割 #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=tZDsJ61y-Dw",
-    "shortStatus": "scheduled",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 96,
-    "updatedAt": "2026-09-16"
+    "updatedAt": "2026-09-17"
   },
   {
     "id": "s154-01-logicool-logi-bolt-usb-receiver-",
