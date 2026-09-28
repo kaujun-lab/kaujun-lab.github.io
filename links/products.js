@@ -1,9 +1,9 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
-    "id": "s167-01-logicool-signature-slim-k950",
+    "id": "s172-01-logicool-signature-slim-k950",
     "title": "Logicool Signature Slim K950",
-    "description": "ワイヤレスキーボード(関連製品の一例。拡大鏡の終了に特定のキーボードは不要)としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "description": "ワイヤレスキーボード(関連製品の一例。下方向へのコピーに特定のキーボードは不要)としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k950/k950gr_n.jpg?_ex=600x600",
     "merchant": "ロジクール 公式ストア",
     "offers": [
@@ -27,18 +27,18 @@
       }
     ],
     "category": "入力機器",
-    "itemCategory": "ワイヤレスキーボード(関連製品の一例。拡大鏡の終了に特定のキーボードは不要)",
-    "shortTitle": "拡大鏡で画面が大きすぎる？Win+Escで終了 #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=2EaTSiuy2rk",
+    "itemCategory": "ワイヤレスキーボード(関連製品の一例。下方向へのコピーに特定のキーボードは不要)",
+    "shortTitle": "Excelで同じ文字を何度も入力？Ctrl+Dで下へコピー #Shorts",
+    "shortUrl": "",
     "shortStatus": "scheduled",
     "isPr": true,
     "priority": 98,
-    "updatedAt": "2026-09-24"
+    "updatedAt": "2026-09-29"
   },
   {
-    "id": "s166-01-dell-s2725dsm",
+    "id": "s170-01-dell-s2725dsm",
     "title": "Dell S2725DSM",
-    "description": "27インチQHDモニター(関連製品の一例。隣のモニターへのウィンドウ移動にモニターの購入は不要)としてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "description": "27インチQHDモニター(関連製品の一例。ウィンドウ枠の固定にモニターの購入は不要)としてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/15031/00000014663194_a01.jpg?_ex=600x600",
     "merchant": "楽天ビック(ビックカメラ×楽天)",
     "offers": [
@@ -62,13 +62,13 @@
       }
     ],
     "category": "PCモニター",
-    "itemCategory": "27インチQHDモニター(関連製品の一例。隣のモニターへのウィンドウ移動にモニターの購入は不要)",
-    "shortTitle": "隣のモニターへ一瞬で移動、Win+Shift+矢印 #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=HtYj7JWkCow",
+    "itemCategory": "27インチQHDモニター(関連製品の一例。ウィンドウ枠の固定にモニターの購入は不要)",
+    "shortTitle": "Excelの見出しが消える？1行目を固定して迷わずスクロール #Shorts",
+    "shortUrl": "",
     "shortStatus": "scheduled",
     "isPr": true,
     "priority": 97,
-    "updatedAt": "2026-09-24"
+    "updatedAt": "2026-09-29"
   },
   {
     "id": "s161-01-logicool-mx-keys-mini-kx700",
@@ -2689,7 +2689,7 @@
     "category": "電源タップ",
     "itemCategory": "ACとUSBをまとめる基本構成",
     "shortTitle": "電源タップ、置き場所を決めずに買うとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
+    "shortUrl": "",
     "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 22,
@@ -2724,7 +2724,7 @@
     "category": "電源タップ",
     "itemCategory": "AC差込口を多く使う構成",
     "shortTitle": "電源タップ、置き場所を決めずに買うとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=rozvueuNPwQ",
+    "shortUrl": "",
     "shortStatus": "uploaded_private",
     "isPr": true,
     "priority": 21,
