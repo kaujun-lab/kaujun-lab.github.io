@@ -1,7 +1,7 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
-    "id": "s177-01-logicool-signature-slim-k950",
+    "id": "s182-01-logicool-signature-slim-k950",
     "title": "Logicool Signature Slim K950",
     "description": "ワイヤレスキーボード(関連製品の一例。Excelの操作に特定のキーボードは不要)としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k950/k950gr_n.jpg?_ex=600x600",
@@ -28,12 +28,12 @@
     ],
     "category": "入力機器",
     "itemCategory": "ワイヤレスキーボード(関連製品の一例。Excelの操作に特定のキーボードは不要)",
-    "shortTitle": "Excelの合計、電卓に打ち直してる？オートSUMで範囲を確認 #Shorts",
+    "shortTitle": "Excel、同じ表を作り直す前にシートごとコピー #Shorts",
     "shortUrl": "",
     "shortStatus": "scheduled",
     "isPr": true,
     "priority": 98,
-    "updatedAt": "2026-10-04"
+    "updatedAt": "2026-10-09"
   },
   {
     "id": "s176-01-dell-s2725dsm",
@@ -64,8 +64,8 @@
     "category": "PCモニター",
     "itemCategory": "27インチQHDモニター(関連製品の一例。拡張子の表示にモニターの購入は不要)",
     "shortTitle": "Windowsで同じファイル名に見える？拡張子を表示して見分ける #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
+    "shortUrl": "https://www.youtube.com/watch?v=3p43u8xr0l8",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 97,
     "updatedAt": "2026-10-04"
