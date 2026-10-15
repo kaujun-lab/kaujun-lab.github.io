@@ -1,44 +1,9 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
-    "id": "s182-01-logicool-signature-slim-k950",
-    "title": "Logicool Signature Slim K950",
-    "description": "ワイヤレスキーボード(関連製品の一例。Excelの操作に特定のキーボードは不要)としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k950/k950gr_n.jpg?_ex=600x600",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk950gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000595%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+Slim+K950&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "ワイヤレスキーボード(関連製品の一例。Excelの操作に特定のキーボードは不要)",
-    "shortTitle": "Excel、同じ表を作り直す前にシートごとコピー #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
-    "isPr": true,
-    "priority": 98,
-    "updatedAt": "2026-10-09"
-  },
-  {
-    "id": "s176-01-dell-s2725dsm",
+    "id": "s187-01-dell-s2725dsm",
     "title": "Dell S2725DSM",
-    "description": "27インチQHDモニター(関連製品の一例。拡張子の表示にモニターの購入は不要)としてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "description": "ピボット対応スタンド付き27インチQHDモニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/15031/00000014663194_a01.jpg?_ex=600x600",
     "merchant": "楽天ビック(ビックカメラ×楽天)",
     "offers": [
@@ -62,13 +27,188 @@
       }
     ],
     "category": "PCモニター",
-    "itemCategory": "27インチQHDモニター(関連製品の一例。拡張子の表示にモニターの購入は不要)",
-    "shortTitle": "Windowsで同じファイル名に見える？拡張子を表示して見分ける #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=3p43u8xr0l8",
-    "shortStatus": "public",
+    "itemCategory": "ピボット対応スタンド付き27インチQHDモニター",
+    "shortTitle": "モニターを縦にしたのに文字が横向き？回転と設定は別 #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 98,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "s186-01-logicool-brio-100-c660gr",
+    "title": "Logicool BRIO 100 C660GR",
+    "description": "固定フォーカスの1080p WebカメラとしてShortsで紹介した候補です。画角、解像度とフレームレート、ピント、設置方法、プライバシー機能を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/webcam/c660gr/c660gr_.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fc660gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000558%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+BRIO+100+C660GR&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "Webカメラ",
+    "itemCategory": "固定フォーカスの1080p Webカメラ",
+    "shortTitle": "Webカメラ、1080pが同じでもピントの仕組みは違う #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
     "isPr": true,
     "priority": 97,
-    "updatedAt": "2026-10-04"
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "s186-02-logicool-c920n-c920na",
+    "title": "Logicool C920nシリーズ C920na",
+    "description": "オートフォーカスの1080p WebカメラとしてShortsで紹介した候補です。画角、解像度とフレームレート、ピント、設置方法、プライバシー機能を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/webcam/c920n/c920n_s.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fc920n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000181%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+C920n%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA+C920na&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "Webカメラ",
+    "itemCategory": "オートフォーカスの1080p Webカメラ",
+    "shortTitle": "Webカメラ、1080pが同じでもピントの仕組みは違う #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 96,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "s185-01-anker-332-usb-c-a8355",
+    "title": "Anker 332 USB-C ハブ A8355",
+    "description": "USB-C充電用とデータ用の端子が別の5-in-1ハブとしてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a8355_normal.jpg?_ex=600x600",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001369%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/dp/B0BQMSXFP7/ref=nosim?tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "direct",
+        "ctaLabel": "Amazonで見る"
+      }
+    ],
+    "category": "USB-Cハブ",
+    "itemCategory": "USB-C充電用とデータ用の端子が別の5-in-1ハブ",
+    "shortTitle": "USB-CハブにSSDを挿しても出てこない？その穴は充電用かも #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 95,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "s184-01-logicool-signature-plus-m750-m75",
+    "title": "Logicool Signature Plus M750 M750MGR",
+    "description": "サイドボタンとホイールで横スクロールするマウスとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m750mgr/m750mgr_r_.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm750mgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000503%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+Plus+M750+M750MGR&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "サイドボタンとホイールで横スクロールするマウス",
+    "shortTitle": "Excelの横スクロール、下のバーを毎回つかんでる？M750の操作 #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 94,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "s183-01-logicool-signature-slim-k950",
+    "title": "Logicool Signature Slim K950",
+    "description": "PC2台を切り替えるキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k950/k950gr_n.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk950gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000595%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+Slim+K950&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "PC2台を切り替えるキーボード",
+    "shortTitle": "PC2台、キーボードを毎回入れ替えてる？K950の切り替え #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 93,
+    "updatedAt": "2026-10-15"
   },
   {
     "id": "s161-01-logicool-mx-keys-mini-kx700",
@@ -102,7 +242,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=86TZpVUFlWY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 96,
+    "priority": 92,
     "updatedAt": "2026-09-17"
   },
   {
@@ -137,7 +277,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=9N8vD1VYv8s",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 95,
+    "priority": 91,
     "updatedAt": "2026-09-13"
   },
   {
@@ -172,42 +312,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=lo9geLX_mv8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 94,
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "s152-01-logicool-brio-100-c660gr",
-    "title": "Logicool BRIO 100 C660GR",
-    "description": "スライド式プライバシーシャッター内蔵のWebカメラ(レンズカバー付きWebカメラの一例)としてShortsで紹介した候補です。画角、解像度とフレームレート、ピント、設置方法、プライバシー機能を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/webcam/c660gr/c660gr_.jpg?_ex=600x600",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fc660gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000558%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+BRIO+100+C660GR&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "Webカメラ",
-    "itemCategory": "スライド式プライバシーシャッター内蔵のWebカメラ(レンズカバー付きWebカメラの一例)",
-    "shortTitle": "Webカメラが真っ暗？設定前にレンズカバー #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=h0j4yTbEq6g",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 93,
+    "priority": 90,
     "updatedAt": "2026-09-13"
   },
   {
@@ -242,42 +347,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WGzNjED6brY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 92,
-    "updatedAt": "2026-09-10"
-  },
-  {
-    "id": "s150-01-logicool-signature-m750",
-    "title": "Logicool Signature M750",
-    "description": "小〜中サイズの手向けのワイヤレスマウス(マウスの一例)としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m750mgr/m750mgr_r_.jpg?_ex=600x600",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm750mgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000503%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+M750+M750MGR&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "小〜中サイズの手向けのワイヤレスマウス(マウスの一例)",
-    "shortTitle": "マウスが速すぎる？買い替え前にこの設定 #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=AkEK9RjJFqo",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 91,
+    "priority": 89,
     "updatedAt": "2026-09-10"
   },
   {
@@ -312,7 +382,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=MG-QmmMVV40",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 90,
+    "priority": 88,
     "updatedAt": "2026-09-10"
   },
   {
@@ -347,7 +417,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IC3lyjD42eg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 89,
+    "priority": 87,
     "updatedAt": "2026-09-07"
   },
   {
@@ -382,7 +452,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IC3lyjD42eg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 88,
+    "priority": 86,
     "updatedAt": "2026-09-07"
   },
   {
@@ -417,7 +487,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=izF3IWr4QE0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 87,
+    "priority": 85,
     "updatedAt": "2026-09-04"
   },
   {
@@ -452,7 +522,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=n-RNAyPpbYw",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 86,
+    "priority": 84,
     "updatedAt": "2026-09-04"
   },
   {
@@ -487,7 +557,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=-l3WMygrgUE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 85,
+    "priority": 83,
     "updatedAt": "2026-09-01"
   },
   {
@@ -522,7 +592,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=-l3WMygrgUE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 84,
+    "priority": 82,
     "updatedAt": "2026-09-01"
   },
   {
@@ -557,7 +627,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=bdef7v74sgM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 83,
+    "priority": 81,
     "updatedAt": "2026-09-01"
   },
   {
@@ -592,7 +662,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=bdef7v74sgM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 82,
+    "priority": 80,
     "updatedAt": "2026-09-01"
   },
   {
@@ -627,7 +697,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IDZi-aDppZM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 81,
+    "priority": 79,
     "updatedAt": "2026-09-01"
   },
   {
@@ -662,7 +732,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=SBPYeYqkwUQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 80,
+    "priority": 78,
     "updatedAt": "2026-08-28"
   },
   {
@@ -697,7 +767,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6F1pHvEpZi4",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 79,
+    "priority": 77,
     "updatedAt": "2026-08-28"
   },
   {
@@ -732,7 +802,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6F1pHvEpZi4",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 78,
+    "priority": 76,
     "updatedAt": "2026-08-28"
   },
   {
@@ -767,7 +837,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=tZ2knNSWwqs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 77,
+    "priority": 75,
     "updatedAt": "2026-08-28"
   },
   {
@@ -802,7 +872,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=tZ2knNSWwqs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 76,
+    "priority": 74,
     "updatedAt": "2026-08-28"
   },
   {
@@ -837,7 +907,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=c6sappAqeww",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 75,
+    "priority": 73,
     "updatedAt": "2026-08-28"
   },
   {
@@ -872,7 +942,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=c6sappAqeww",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 74,
+    "priority": 72,
     "updatedAt": "2026-08-28"
   },
   {
@@ -907,7 +977,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=qY2Aac8vNKM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 73,
+    "priority": 71,
     "updatedAt": "2026-08-28"
   },
   {
@@ -942,7 +1012,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=qY2Aac8vNKM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 72,
+    "priority": 70,
     "updatedAt": "2026-08-28"
   },
   {
@@ -977,7 +1047,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=mC_IBzd5CC8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 71,
+    "priority": 69,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1012,7 +1082,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=mC_IBzd5CC8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 70,
+    "priority": 68,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1047,7 +1117,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ZeAi4VNv4C8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 69,
+    "priority": 67,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1082,42 +1152,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ZeAi4VNv4C8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 68,
-    "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "s132-01-logicool-c920n-hd-pro-webcam",
-    "title": "Logicool C920n HD Pro Webcam",
-    "description": "1080p/30fps対応のオートフォーカスWebカメラとしてShortsで紹介した候補です。画角、解像度とフレームレート、ピント、設置方法、プライバシー機能を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/webcam/c920n/c920n_s.jpg?_ex=600x600",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fc920n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000181%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+C920n+HD+Pro+Webcam&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "Webカメラ",
-    "itemCategory": "1080p/30fps対応のオートフォーカスWebカメラ",
-    "shortTitle": "Webカメラ、60fpsを選ぶと1080pではありません #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=5TvNaZvlV-Y",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 67,
+    "priority": 66,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1152,7 +1187,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5TvNaZvlV-Y",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 66,
+    "priority": 65,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1187,7 +1222,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=AQ4Wybf6KF8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 65,
+    "priority": 64,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1222,7 +1257,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=AQ4Wybf6KF8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 64,
+    "priority": 63,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1257,7 +1292,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=caXT-KLFh-8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 63,
+    "priority": 62,
     "updatedAt": "2026-08-19"
   },
   {
@@ -1292,7 +1327,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CRZDsMcFvp8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 62,
+    "priority": 61,
     "updatedAt": "2026-08-19"
   },
   {
@@ -1327,7 +1362,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CRZDsMcFvp8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 61,
+    "priority": 60,
     "updatedAt": "2026-08-19"
   },
   {
@@ -1362,7 +1397,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=RcLlgZp3wSg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 60,
+    "priority": 59,
     "updatedAt": "2026-08-19"
   },
   {
@@ -1397,7 +1432,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=RcLlgZp3wSg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 59,
+    "priority": 58,
     "updatedAt": "2026-08-19"
   },
   {
@@ -1432,7 +1467,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5J8yib-YE8E",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 58,
+    "priority": 57,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1467,7 +1502,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5J8yib-YE8E",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 57,
+    "priority": 56,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1502,7 +1537,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=wtveyzidW2I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 56,
+    "priority": 55,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1537,7 +1572,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=wtveyzidW2I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 55,
+    "priority": 54,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1572,7 +1607,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=xy5b4fkVAcs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 54,
+    "priority": 53,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1607,7 +1642,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=xy5b4fkVAcs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 53,
+    "priority": 52,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1642,7 +1677,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 52,
+    "priority": 51,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1677,7 +1712,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 51,
+    "priority": 50,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1712,7 +1747,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TCBPQDgycCE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 50,
+    "priority": 49,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1747,7 +1782,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TCBPQDgycCE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 49,
+    "priority": 48,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1782,7 +1817,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6NpLlqRv0WY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 48,
+    "priority": 47,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1817,7 +1852,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6NpLlqRv0WY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 47,
+    "priority": 46,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1852,7 +1887,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=qrJvJxhF_Y0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 46,
+    "priority": 45,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1887,7 +1922,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=iC-z0I_ELY0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 45,
+    "priority": 44,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1922,7 +1957,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=iC-z0I_ELY0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 44,
+    "priority": 43,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1957,7 +1992,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NGG92CahYKE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 43,
+    "priority": 42,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1992,7 +2027,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=DT05DvxhR4A",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 42,
+    "priority": 41,
     "updatedAt": "2026-08-09"
   },
   {
@@ -2025,41 +2060,6 @@
     "itemCategory": "天板クランプとUSB-C給電を優先する構成",
     "shortTitle": "クランプ式電源タップ、天板厚だけで選ぶとズレます #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=tDIG89l2FW4",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 41,
-    "updatedAt": "2026-08-09"
-  },
-  {
-    "id": "s114-01-anker-332-usb-c-5-in-1",
-    "title": "Anker 332 USB-C ハブ (5-in-1)",
-    "description": "PC専用 / 5-in-1としてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a8355_normal.jpg?_ex=128x128",
-    "merchant": "楽天市場",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "楽天市場",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001369%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/dp/B0BQMSXFP7/ref=nosim?tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "direct",
-        "ctaLabel": "Amazonで見る"
-      }
-    ],
-    "category": "USB-Cハブ",
-    "itemCategory": "PC専用 / 5-in-1",
-    "shortTitle": "USB-Cハブ、100W表記だけで選ぶとズレます #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=kKdIwkDet_I",
     "shortStatus": "public",
     "isPr": true,
     "priority": 40,
