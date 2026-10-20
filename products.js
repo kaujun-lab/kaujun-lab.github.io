@@ -1,6 +1,286 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s192-01-logicool-usb-h390r",
+    "title": "Logicool USBヘッドセット H390r",
+    "description": "音量調整とマイクミュートの操作を持つUSBヘッドセットとしてShortsで紹介した候補です。対応端末、接続方式、マイクの入力設定、会議アプリとの相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/hs/h390r/h390r_r2_1.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fh390r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000228%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+USB%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88+H390r&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "ヘッドセット",
+    "itemCategory": "音量調整とマイクミュートの操作を持つUSBヘッドセット",
+    "shortTitle": "会議の音量ゼロ、マイクも消えたと思ってない？ #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 101,
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "s191-01-anker-332-usb-c-a8355",
+    "title": "Anker 332 USB-C ハブ A8355",
+    "description": "LAN端子なしの5-in-1 USB-CハブとしてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a8355_normal.jpg?_ex=600x600",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001369%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/dp/B0BQMSXFP7/ref=nosim?tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "direct",
+        "ctaLabel": "Amazonで見る"
+      }
+    ],
+    "category": "USB-Cハブ",
+    "itemCategory": "LAN端子なしの5-in-1 USB-Cハブ",
+    "shortTitle": "USB-Cハブ、ポートが多くてもLANは付いていない？ #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 100,
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "s191-02-anker-powerexpand-8-in-1-a8383",
+    "title": "Anker PowerExpand 8-in-1 A8383",
+    "description": "最大1Gbpsイーサネット端子付きUSB-CハブとしてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a8383_normal.jpg?_ex=600x600",
+    "merchant": "アンカー・ダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "アンカー・ダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8383%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001022%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Anker+PowerExpand+8-in-1+A8383&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "USB-Cハブ",
+    "itemCategory": "最大1Gbpsイーサネット端子付きUSB-Cハブ",
+    "shortTitle": "USB-Cハブ、ポートが多くてもLANは付いていない？ #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 99,
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "s190-01-logicool-pebble-keys-2-k380s",
+    "title": "Logicool Pebble Keys 2 K380s",
+    "description": "Logi Boltレシーバー別売のコンパクトキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k380sgr/k380sgr_r_.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk380sgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000560%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E9%85%8D%E5%88%97%E3%82%92%E9%81%B8%E3%81%B3%E3%82%84%E3%81%99%E3%81%84%E8%96%84%E5%9E%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "Logi Boltレシーバー別売のコンパクトキーボード",
+    "shortTitle": "無線キーボード、USB受信機が入っていない？K380sとK950 #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 98,
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "s190-02-logicool-signature-slim-k950",
+    "title": "Logicool Signature Slim K950",
+    "description": "Logi Boltレシーバー付属のキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k950/k950gr_n.jpg?_ex=600x600",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk950gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000595%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+Slim+K950&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "Logi Boltレシーバー付属のキーボード",
+    "shortTitle": "無線キーボード、USB受信機が入っていない？K380sとK950 #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 97,
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "s189-01-creative-pebble-v2",
+    "title": "Creative Pebble V2",
+    "description": "USB給電と3.5mm音声入力のPCスピーカーとしてShortsで紹介した候補です。左右の設置幅、接続方式、給電条件、入力端子を購入前に確認してください。",
+    "imageUrl": "https://img.creative.com/images/products/large/pdt_23379.png?format=jpg&quality=80&height=1000",
+    "merchant": "クリエイティブストア@楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "クリエイティブストア@楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qfr8n.k9qwp014.g00qfr8n.k9qwq400/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcreative-store%2Fsp-pblv2-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcreative-store%2Fi%2F10001350%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Creative+Pebble+V2&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCスピーカー",
+    "itemCategory": "USB給電と3.5mm音声入力のPCスピーカー",
+    "shortTitle": "USBスピーカー、挿すだけで音が出る？Pebble V2とV3の違い #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 96,
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "s189-02-creative-pebble-v3",
+    "title": "Creative Pebble V3",
+    "description": "USBオーディオ対応のPCスピーカーとしてShortsで紹介した候補です。左右の設置幅、接続方式、給電条件、入力端子を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ilmondomall/cabinet/g/5/e9ew5vgwaq-4.jpg?_ex=600x600",
+    "merchant": "Ilmondomall",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "Ilmondomall",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u1n4n.k9qwpb10.g00u1n4n.k9qwq84f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Filmondomall%2Fgr-e9ew5vgwaq%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Filmondomall%2Fi%2F10082698%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Creative+Pebble+V3+%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCスピーカー",
+    "itemCategory": "USBオーディオ対応のPCスピーカー",
+    "shortTitle": "USBスピーカー、挿すだけで音が出る？Pebble V2とV3の違い #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 95,
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "s188-01-dell-p2725d",
+    "title": "Dell P2725D",
+    "description": "USB Type-Bアップストリーム接続を持つ27インチQHDモニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/pc-express/cabinet/system/vt0ttrajka/zpmuyofwgcedesg.jpg?_ex=600x600",
+    "merchant": "PC&家電《CaravanYU 楽天市場店》",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "PC&家電《CaravanYU 楽天市場店》",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pt6rn.k9qwp070.g00pt6rn.k9qwq345/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-express%2F4582724745727%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-express%2Fi%2F10759468%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=Dell+P2725D+27%E3%82%A4%E3%83%B3%E3%83%81+QHD+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "PCモニター",
+    "itemCategory": "USB Type-Bアップストリーム接続を持つ27インチQHDモニター",
+    "shortTitle": "モニターのUSBが反応しない？HDMIだけでは足りない接続 #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 94,
+    "updatedAt": "2026-10-20"
+  },
+  {
     "id": "s187-01-dell-s2725dsm",
     "title": "Dell S2725DSM",
     "description": "ピボット対応スタンド付き27インチQHDモニターとしてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
@@ -29,10 +309,10 @@
     "category": "PCモニター",
     "itemCategory": "ピボット対応スタンド付き27インチQHDモニター",
     "shortTitle": "モニターを縦にしたのに文字が横向き？回転と設定は別 #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
+    "shortUrl": "https://www.youtube.com/watch?v=9cCcJ60bwJ8",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 98,
+    "priority": 93,
     "updatedAt": "2026-10-15"
   },
   {
@@ -64,10 +344,10 @@
     "category": "Webカメラ",
     "itemCategory": "固定フォーカスの1080p Webカメラ",
     "shortTitle": "Webカメラ、1080pが同じでもピントの仕組みは違う #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
+    "shortUrl": "https://www.youtube.com/watch?v=V1tnwZADkZI",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 97,
+    "priority": 92,
     "updatedAt": "2026-10-15"
   },
   {
@@ -99,45 +379,10 @@
     "category": "Webカメラ",
     "itemCategory": "オートフォーカスの1080p Webカメラ",
     "shortTitle": "Webカメラ、1080pが同じでもピントの仕組みは違う #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
+    "shortUrl": "https://www.youtube.com/watch?v=V1tnwZADkZI",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 96,
-    "updatedAt": "2026-10-15"
-  },
-  {
-    "id": "s185-01-anker-332-usb-c-a8355",
-    "title": "Anker 332 USB-C ハブ A8355",
-    "description": "USB-C充電用とデータ用の端子が別の5-in-1ハブとしてShortsで紹介した候補です。PD充電W数、HDMIの4K対応、必要なポート数、発熱レビューを購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a8/a8355_normal.jpg?_ex=600x600",
-    "merchant": "アンカー・ダイレクト楽天市場店",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "アンカー・ダイレクト楽天市場店",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.k9qwp9f6.g00rr09n.k9qwq1c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa8355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001369%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/dp/B0BQMSXFP7/ref=nosim?tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "direct",
-        "ctaLabel": "Amazonで見る"
-      }
-    ],
-    "category": "USB-Cハブ",
-    "itemCategory": "USB-C充電用とデータ用の端子が別の5-in-1ハブ",
-    "shortTitle": "USB-CハブにSSDを挿しても出てこない？その穴は充電用かも #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
-    "isPr": true,
-    "priority": 95,
+    "priority": 91,
     "updatedAt": "2026-10-15"
   },
   {
@@ -169,45 +414,10 @@
     "category": "入力機器",
     "itemCategory": "サイドボタンとホイールで横スクロールするマウス",
     "shortTitle": "Excelの横スクロール、下のバーを毎回つかんでる？M750の操作 #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
+    "shortUrl": "https://www.youtube.com/watch?v=qL4c6DhsNJA",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 94,
-    "updatedAt": "2026-10-15"
-  },
-  {
-    "id": "s183-01-logicool-signature-slim-k950",
-    "title": "Logicool Signature Slim K950",
-    "description": "PC2台を切り替えるキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k950/k950gr_n.jpg?_ex=600x600",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk950gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000595%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Logicool+Signature+Slim+K950&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "PC2台を切り替えるキーボード",
-    "shortTitle": "PC2台、キーボードを毎回入れ替えてる？K950の切り替え #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
-    "isPr": true,
-    "priority": 93,
+    "priority": 90,
     "updatedAt": "2026-10-15"
   },
   {
@@ -242,7 +452,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=86TZpVUFlWY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 92,
+    "priority": 89,
     "updatedAt": "2026-09-17"
   },
   {
@@ -277,7 +487,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=9N8vD1VYv8s",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 91,
+    "priority": 88,
     "updatedAt": "2026-09-13"
   },
   {
@@ -312,7 +522,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=lo9geLX_mv8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 90,
+    "priority": 87,
     "updatedAt": "2026-09-13"
   },
   {
@@ -347,42 +557,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=WGzNjED6brY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 89,
-    "updatedAt": "2026-09-10"
-  },
-  {
-    "id": "s149-01-creative-pebble-v3",
-    "title": "Creative Pebble V3",
-    "description": "USBオーディオに対応するデスクトップスピーカー(外部スピーカーの一例)としてShortsで紹介した候補です。左右の設置幅、接続方式、給電条件、入力端子を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ilmondomall/cabinet/g/5/e9ew5vgwaq-4.jpg?_ex=600x600",
-    "merchant": "Ilmondomall",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "Ilmondomall",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u1n4n.k9qwpb10.g00u1n4n.k9qwq84f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Filmondomall%2Fgr-e9ew5vgwaq%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Filmondomall%2Fi%2F10082698%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Creative+Pebble+V3+%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "PCスピーカー",
-    "itemCategory": "USBオーディオに対応するデスクトップスピーカー(外部スピーカーの一例)",
-    "shortTitle": "HDMI接続後、音が出ない？まず出力先を確認 #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=MG-QmmMVV40",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 88,
+    "priority": 86,
     "updatedAt": "2026-09-10"
   },
   {
@@ -417,42 +592,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IC3lyjD42eg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 87,
-    "updatedAt": "2026-09-07"
-  },
-  {
-    "id": "s148-02-dell-p2725d",
-    "title": "Dell P2725D",
-    "description": "27インチ・QHD・109PPI・100HzのPCモニター(デュアル構成の一例)としてShortsで紹介した候補です。机の奥行き、解像度、入力端子、スタンド仕様を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/pc-express/cabinet/system/vt0ttrajka/zpmuyofwgcedesg.jpg?_ex=600x600",
-    "merchant": "PC&家電《CaravanYU 楽天市場店》",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "PC&家電《CaravanYU 楽天市場店》",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pt6rn.k9qwp070.g00pt6rn.k9qwq345/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-express%2F4582724745727%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-express%2Fi%2F10759468%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=Dell+P2725D+27%E3%82%A4%E3%83%B3%E3%83%81+QHD+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "PCモニター",
-    "itemCategory": "27インチ・QHD・109PPI・100HzのPCモニター(デュアル構成の一例)",
-    "shortTitle": "デュアルモニター、マウスが逆へ行く時の直し方 #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=IC3lyjD42eg",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 86,
+    "priority": 85,
     "updatedAt": "2026-09-07"
   },
   {
@@ -487,7 +627,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=izF3IWr4QE0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 85,
+    "priority": 84,
     "updatedAt": "2026-09-04"
   },
   {
@@ -522,7 +662,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=n-RNAyPpbYw",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 84,
+    "priority": 83,
     "updatedAt": "2026-09-04"
   },
   {
@@ -557,7 +697,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=-l3WMygrgUE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 83,
+    "priority": 82,
     "updatedAt": "2026-09-01"
   },
   {
@@ -592,7 +732,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=-l3WMygrgUE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 82,
+    "priority": 81,
     "updatedAt": "2026-09-01"
   },
   {
@@ -627,7 +767,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=bdef7v74sgM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 81,
+    "priority": 80,
     "updatedAt": "2026-09-01"
   },
   {
@@ -662,7 +802,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=bdef7v74sgM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 80,
+    "priority": 79,
     "updatedAt": "2026-09-01"
   },
   {
@@ -697,7 +837,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=IDZi-aDppZM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 79,
+    "priority": 78,
     "updatedAt": "2026-09-01"
   },
   {
@@ -732,7 +872,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=SBPYeYqkwUQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 78,
+    "priority": 77,
     "updatedAt": "2026-08-28"
   },
   {
@@ -767,7 +907,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6F1pHvEpZi4",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 77,
+    "priority": 76,
     "updatedAt": "2026-08-28"
   },
   {
@@ -802,7 +942,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6F1pHvEpZi4",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 76,
+    "priority": 75,
     "updatedAt": "2026-08-28"
   },
   {
@@ -837,7 +977,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=tZ2knNSWwqs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 75,
+    "priority": 74,
     "updatedAt": "2026-08-28"
   },
   {
@@ -872,7 +1012,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=tZ2knNSWwqs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 74,
+    "priority": 73,
     "updatedAt": "2026-08-28"
   },
   {
@@ -907,7 +1047,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=c6sappAqeww",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 73,
+    "priority": 72,
     "updatedAt": "2026-08-28"
   },
   {
@@ -942,7 +1082,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=c6sappAqeww",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 72,
+    "priority": 71,
     "updatedAt": "2026-08-28"
   },
   {
@@ -977,7 +1117,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=qY2Aac8vNKM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 71,
+    "priority": 70,
     "updatedAt": "2026-08-28"
   },
   {
@@ -1012,7 +1152,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=qY2Aac8vNKM",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 70,
+    "priority": 69,
     "updatedAt": "2026-08-28"
   },
   {
@@ -1047,7 +1187,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=mC_IBzd5CC8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 69,
+    "priority": 68,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1082,7 +1222,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=mC_IBzd5CC8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 68,
+    "priority": 67,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1117,7 +1257,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ZeAi4VNv4C8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 67,
+    "priority": 66,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1152,7 +1292,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ZeAi4VNv4C8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 66,
+    "priority": 65,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1187,7 +1327,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5TvNaZvlV-Y",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 65,
+    "priority": 64,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1222,7 +1362,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=AQ4Wybf6KF8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 64,
+    "priority": 63,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1257,7 +1397,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=AQ4Wybf6KF8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 63,
+    "priority": 62,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1292,7 +1432,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=caXT-KLFh-8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 62,
+    "priority": 61,
     "updatedAt": "2026-08-19"
   },
   {
@@ -1327,7 +1467,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CRZDsMcFvp8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 61,
+    "priority": 60,
     "updatedAt": "2026-08-19"
   },
   {
@@ -1362,7 +1502,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=CRZDsMcFvp8",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 60,
+    "priority": 59,
     "updatedAt": "2026-08-19"
   },
   {
@@ -1397,7 +1537,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=RcLlgZp3wSg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 59,
+    "priority": 58,
     "updatedAt": "2026-08-19"
   },
   {
@@ -1432,7 +1572,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=RcLlgZp3wSg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 58,
+    "priority": 57,
     "updatedAt": "2026-08-19"
   },
   {
@@ -1467,7 +1607,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5J8yib-YE8E",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 57,
+    "priority": 56,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1502,7 +1642,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=5J8yib-YE8E",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 56,
+    "priority": 55,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1537,7 +1677,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=wtveyzidW2I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 55,
+    "priority": 54,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1572,7 +1712,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=wtveyzidW2I",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 54,
+    "priority": 53,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1607,7 +1747,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=xy5b4fkVAcs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 53,
+    "priority": 52,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1642,7 +1782,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=xy5b4fkVAcs",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 52,
+    "priority": 51,
     "updatedAt": "2026-08-16"
   },
   {
@@ -1677,7 +1817,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 51,
+    "priority": 50,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1712,7 +1852,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=NN7wlCD_BmI",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 50,
+    "priority": 49,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1747,7 +1887,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TCBPQDgycCE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 49,
+    "priority": 48,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1782,7 +1922,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=TCBPQDgycCE",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 48,
+    "priority": 47,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1817,7 +1957,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6NpLlqRv0WY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 47,
+    "priority": 46,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1852,7 +1992,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=6NpLlqRv0WY",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 46,
+    "priority": 45,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1887,7 +2027,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=qrJvJxhF_Y0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 45,
+    "priority": 44,
     "updatedAt": "2026-08-13"
   },
   {
@@ -1922,7 +2062,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=iC-z0I_ELY0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 44,
+    "priority": 43,
     "updatedAt": "2026-08-09"
   },
   {
@@ -1955,41 +2095,6 @@
     "itemCategory": "必要範囲と設置条件を比較する価格重視候補",
     "shortTitle": "モニターライト、1000ルクスより先に範囲です #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=iC-z0I_ELY0",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 43,
-    "updatedAt": "2026-08-09"
-  },
-  {
-    "id": "s118-01-logicool-pebble-keys-2-k380s",
-    "title": "Logicool Pebble Keys 2 K380s",
-    "description": "マウスの操作幅を残しやすいコンパクト候補としてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k380sgr/k380sgr_r_.jpg?_ex=128x128",
-    "merchant": "楽天市場",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "楽天市場",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk380sgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000560%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E9%85%8D%E5%88%97%E3%82%92%E9%81%B8%E3%81%B3%E3%82%84%E3%81%99%E3%81%84%E8%96%84%E5%9E%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "マウスの操作幅を残しやすいコンパクト候補",
-    "shortTitle": "キーボード、テンキーより先にマウス幅です #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=NGG92CahYKE",
     "shortStatus": "public",
     "isPr": true,
     "priority": 42,
