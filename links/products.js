@@ -1,6 +1,181 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s197-01-pc-200-stn060",
+    "title": "サンワダイレクト 縦置きPCスタンド 200-STN060",
+    "description": "設置幅14〜32mmに調整できる2台用の縦置きPCスタンド。ケース込みの厚みと机の安定性を確認し、終了したPCを収納する用途で紹介しています。起動中のクラムシェル運用の説明ではありません。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/2/200-stn060.jpg?_ex=600x600",
+    "merchant": "サンワダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "サンワダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pmmbn.k9qwpbfc.g00pmmbn.k9qwqbef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F200-stn060%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10097916%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%B3%E3%83%AF%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88+%E7%B8%A6%E7%BD%AE%E3%81%8DPC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89+200-STN060&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "ノートPCスタンド",
+    "itemCategory": "設置幅14〜32mmに調整でき、2台を立てて収納するPCスタンド",
+    "shortTitle": "使っていないノートPCで机が狭い？立てる前に厚みを確認 #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 106,
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "id": "s196-01-ca-mf5kn",
+    "title": "サンワサプライ 面ファスナーケーブルタイ CA-MF5KN",
+    "description": "幅10mm・長さ1.5mの面ファスナー。必要な長さに切り、外して再利用できます。常設の信号線と毎日抜く一本を分ける整理案です。電源コードを束ねたまま通電しないでください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/c/ca-mf5kn.jpg?_ex=600x600",
+    "merchant": "サンワダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "サンワダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pmmbn.k9qwpbfc.g00pmmbn.k9qwqbef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2Fca-mf5kn%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10081178%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%B3%E3%83%AF%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4+%E9%9D%A2%E3%83%95%E3%82%A1%E3%82%B9%E3%83%8A%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%BF%E3%82%A4+CA-MF5KN&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "ケーブル整理",
+    "itemCategory": "長さを切って使い、取り外して再利用できる幅10mmの面ファスナー",
+    "shortTitle": "配線をまとめたのに外せない？毎日抜く1本は分けておく #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 105,
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "id": "s195-01-200-stn036",
+    "title": "サンワダイレクト スマホスタンド 200-STN036",
+    "description": "ホルダー中央が開いた折りたたみ式スマホスタンド。ケース込みで厚さ13mmまで。端子位置とケーブルの通り道を確認してください。充電機能はなく、充電器・ケーブルは別途必要です。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/2/200-stn036.jpg?_ex=600x600",
+    "merchant": "サンワダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "サンワダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pmmbn.k9qwpbfc.g00pmmbn.k9qwqbef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F200-stn036%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10095385%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%B3%E3%83%AF%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88+%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89+200-STN036&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "デスク用品",
+    "itemCategory": "充電口の部分が開いた折りたたみ式スマホスタンド",
+    "shortTitle": "スマホスタンド、充電するとケーブルが当たる？底の形を確認 #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 104,
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "id": "s194-01-usb-ku-en1k",
+    "title": "サンワサプライ USB延長ケーブル KU-EN1K",
+    "description": "USB-Aオス・メスの1m延長ケーブル。対応するUSB受信機をUSB3機器から離す際の候補です。まず離れたポートで確認し、移動だけで足りれば購入不要。無線受信機そのものではありません。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/k/ku-en1k.jpg?_ex=600x600",
+    "merchant": "サンワダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "サンワダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pmmbn.k9qwpbfc.g00pmmbn.k9qwqbef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2Fku-en1k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10086864%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%B3%E3%83%AF%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4+USB%E5%BB%B6%E9%95%B7%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB+KU-EN1K&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "接続ケーブル",
+    "itemCategory": "受信機の位置を調整するUSB-Aオス・メスの1m延長ケーブル",
+    "shortTitle": "無線マウスがカクつく？買い替える前に受信機を離してみる #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 103,
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "id": "s193-01-tap-slim8n-1",
+    "title": "サンワサプライ TAP-SLIM8N-1",
+    "description": "上面と側面に差込口がある8個口・1mのタップ。合計1500Wまで。アダプターの幅と向きを確認し、全ての形を8個挿せるとは限らない点に注意してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/t/tap-slim8n-1.jpg?_ex=600x600",
+    "merchant": "サンワダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "サンワダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pmmbn.k9qwpbfc.g00pmmbn.k9qwqbef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2Ftap-slim8n-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10106078%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%B3%E3%83%AF%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4+TAP-SLIM8N-1&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "電源タップ",
+    "itemCategory": "上面と側面に交互に差込口がある8個口タップ（1m）",
+    "shortTitle": "電源タップ、空いているのに挿せない？口数よりこの配置 #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 102,
+    "updatedAt": "2026-10-25"
+  },
+  {
     "id": "s192-01-logicool-usb-h390r",
     "title": "Logicool USBヘッドセット H390r",
     "description": "音量調整とマイクミュートの操作を持つUSBヘッドセットとしてShortsで紹介した候補です。対応端末、接続方式、マイクの入力設定、会議アプリとの相性を購入前に確認してください。",
@@ -29,8 +204,8 @@
     "category": "ヘッドセット",
     "itemCategory": "音量調整とマイクミュートの操作を持つUSBヘッドセット",
     "shortTitle": "会議の音量ゼロ、マイクも消えたと思ってない？ #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
+    "shortUrl": "https://www.youtube.com/watch?v=J0QuVRdTfKg",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 101,
     "updatedAt": "2026-10-20"
@@ -64,8 +239,8 @@
     "category": "USB-Cハブ",
     "itemCategory": "LAN端子なしの5-in-1 USB-Cハブ",
     "shortTitle": "USB-Cハブ、ポートが多くてもLANは付いていない？ #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
+    "shortUrl": "https://www.youtube.com/watch?v=ZbHWNvL9rKk",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 100,
     "updatedAt": "2026-10-20"
@@ -99,8 +274,8 @@
     "category": "USB-Cハブ",
     "itemCategory": "最大1Gbpsイーサネット端子付きUSB-Cハブ",
     "shortTitle": "USB-Cハブ、ポートが多くてもLANは付いていない？ #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
+    "shortUrl": "https://www.youtube.com/watch?v=ZbHWNvL9rKk",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 99,
     "updatedAt": "2026-10-20"
@@ -134,8 +309,8 @@
     "category": "入力機器",
     "itemCategory": "Logi Boltレシーバー別売のコンパクトキーボード",
     "shortTitle": "無線キーボード、USB受信機が入っていない？K380sとK950 #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
+    "shortUrl": "https://www.youtube.com/watch?v=03S1pAoMYQg",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 98,
     "updatedAt": "2026-10-20"
@@ -169,8 +344,8 @@
     "category": "入力機器",
     "itemCategory": "Logi Boltレシーバー付属のキーボード",
     "shortTitle": "無線キーボード、USB受信機が入っていない？K380sとK950 #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
+    "shortUrl": "https://www.youtube.com/watch?v=03S1pAoMYQg",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 97,
     "updatedAt": "2026-10-20"
@@ -204,8 +379,8 @@
     "category": "PCスピーカー",
     "itemCategory": "USB給電と3.5mm音声入力のPCスピーカー",
     "shortTitle": "USBスピーカー、挿すだけで音が出る？Pebble V2とV3の違い #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
+    "shortUrl": "https://www.youtube.com/watch?v=2L9ZcF1-lAc",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 96,
     "updatedAt": "2026-10-20"
@@ -239,8 +414,8 @@
     "category": "PCスピーカー",
     "itemCategory": "USBオーディオ対応のPCスピーカー",
     "shortTitle": "USBスピーカー、挿すだけで音が出る？Pebble V2とV3の違い #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
+    "shortUrl": "https://www.youtube.com/watch?v=2L9ZcF1-lAc",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 95,
     "updatedAt": "2026-10-20"
@@ -274,8 +449,8 @@
     "category": "PCモニター",
     "itemCategory": "USB Type-Bアップストリーム接続を持つ27インチQHDモニター",
     "shortTitle": "モニターのUSBが反応しない？HDMIだけでは足りない接続 #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
+    "shortUrl": "https://www.youtube.com/watch?v=ZSBBO7uNw7Y",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 94,
     "updatedAt": "2026-10-20"
