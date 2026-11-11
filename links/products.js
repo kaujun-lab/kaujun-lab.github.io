@@ -1,6 +1,146 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s201-01-pc-pda-stn53bk",
+    "title": "サンワサプライ ノートPC用モバイルスタンド PDA-STN53BK",
+    "description": "約220gの折りたたみ式ノートPCスタンド。収納ポーチ付き。15.6インチまで・耐荷重3kgに対応します。PCの重量と支持部、バッグへの収まりを確認し、平らで安定した場所で使用してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/p/pda-stn53bk.jpg?_ex=600x600",
+    "merchant": "サンワダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "サンワダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pmmbn.k9qwpbfc.g00pmmbn.k9qwqbef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2Fpda-stn53bk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10099207%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%B3%E3%83%AF%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4+%E3%83%8E%E3%83%BC%E3%83%88PC%E7%94%A8%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89+PDA-STN53BK&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "ノートPCスタンド",
+    "itemCategory": "約220gで折りたたみ・収納ポーチ付きのノートPCスタンド",
+    "shortTitle": "PCスタンド、バッグに入らない？持ち運びは形と重さを確認 #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 110,
+    "updatedAt": "2026-11-11"
+  },
+  {
+    "id": "s200-01-mr-lc103bk",
+    "title": "サンワサプライ 卓上モニター台 MR-LC103BK",
+    "description": "外幅595mmのモニター台ですが、メーカー案内のキーボード対応幅は530mmまで。台下の有効内寸は559×172×80mm、総耐荷重10kg。奥行・高さ・配線の余裕も照合してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/m/mr-lc103bk.jpg?_ex=600x600",
+    "merchant": "サンワダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "サンワダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pmmbn.k9qwpbfc.g00pmmbn.k9qwqbef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2Fmr-lc103bk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10105926%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%B3%E3%83%AF%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4+%E5%8D%93%E4%B8%8A%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E5%8F%B0+MR-LC103BK&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "モニター台",
+    "itemCategory": "外幅595mmと台下の収納寸法を区別して選ぶ木製モニター台",
+    "shortTitle": "幅60cmのモニター台でもキーボードが入らない？内側を確認 #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 109,
+    "updatedAt": "2026-11-11"
+  },
+  {
+    "id": "s199-01-pda-stn18bk",
+    "title": "サンワサプライ 回転式ヘッドホンフック PDA-STN18BK",
+    "description": "バネ式クランプで天板に挟む360度回転フック。天板厚38mmまで、ヘッドバンド幅60mmまで、重さ約1kgまで。脚・引き出し・膝との干渉も確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/p/pda-stn18bk.jpg?_ex=600x600",
+    "merchant": "サンワダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "サンワダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pmmbn.k9qwpbfc.g00pmmbn.k9qwqbef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2Fpda-stn18bk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10089270%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%B3%E3%83%AF%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4+%E5%9B%9E%E8%BB%A2%E5%BC%8F%E3%83%98%E3%83%83%E3%83%89%E3%83%9B%E3%83%B3%E3%83%95%E3%83%83%E3%82%AF+PDA-STN18BK&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "デスク用品",
+    "itemCategory": "天板に挟み、ヘッドホンを机の外向き・内向きに掛けられるフック",
+    "shortTitle": "ヘッドホンでマウスが狭い？机に置くより端に掛ける #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 108,
+    "updatedAt": "2026-11-11"
+  },
+  {
+    "id": "s198-01-200-ca038",
+    "title": "サンワダイレクト マグネットケーブルホルダー 200-CA038",
+    "description": "線に付けたホルダーを磁石で台座へ戻す方式。台座は両面テープ固定です。通常用の溝は直径2.75 / 3 / 3.5mmに対応。ケーブルの形状・太さと貼る面を確認してください。充電機能はありません。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/2/200-ca038.jpg?_ex=600x600",
+    "merchant": "サンワダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "サンワダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pmmbn.k9qwpbfc.g00pmmbn.k9qwqbef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F200-ca038%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10093202%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%B3%E3%83%AF%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88+%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC+200-CA038&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "ケーブル整理",
+    "itemCategory": "ケーブルに付けたホルダーを磁石で台座へ戻すケーブルホルダー",
+    "shortTitle": "抜いた充電ケーブル、また床へ？戻す場所を作る #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 107,
+    "updatedAt": "2026-11-11"
+  },
+  {
     "id": "s197-01-pc-200-stn060",
     "title": "サンワダイレクト 縦置きPCスタンド 200-STN060",
     "description": "設置幅14〜32mmに調整できる2台用の縦置きPCスタンド。ケース込みの厚みと机の安定性を確認し、終了したPCを収納する用途で紹介しています。起動中のクラムシェル運用の説明ではありません。",
