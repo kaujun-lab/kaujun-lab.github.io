@@ -1,6 +1,41 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s202-01-pc-100-cpu001",
+    "title": "サンワダイレクト キャスター付きPCスタンド 100-CPU001",
+    "description": "対応幅70〜240mm・総耐荷重10kgのPC台。幅調整で奥行も変わります。底面・通気口・配線も確認。電源を切ってからケーブルを引っ張らずに動かし、置いたら車輪を固定してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/1/100-cpu001.jpg?_ex=600x600",
+    "merchant": "サンワダイレクト楽天市場店",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "サンワダイレクト楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pmmbn.k9qwpbfc.g00pmmbn.k9qwqbef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F100-cpu001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10081479%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%B3%E3%83%AF%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88+%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E4%BB%98%E3%81%8DPC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89+100-CPU001&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "デスク用品",
+    "itemCategory": "幅70〜240mm・耐荷重10kgのキャスター付きデスクトップPC台",
+    "shortTitle": "デスクトップPCの下だけ掃除できない？動かす台は重さも確認 #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 111,
+    "updatedAt": "2026-11-11"
+  },
+  {
     "id": "s201-01-pc-pda-stn53bk",
     "title": "サンワサプライ ノートPC用モバイルスタンド PDA-STN53BK",
     "description": "約220gの折りたたみ式ノートPCスタンド。収納ポーチ付き。15.6インチまで・耐荷重3kgに対応します。PCの重量と支持部、バッグへの収まりを確認し、平らで安定した場所で使用してください。",
@@ -29,8 +64,8 @@
     "category": "ノートPCスタンド",
     "itemCategory": "約220gで折りたたみ・収納ポーチ付きのノートPCスタンド",
     "shortTitle": "PCスタンド、バッグに入らない？持ち運びは形と重さを確認 #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
+    "shortUrl": "https://www.youtube.com/watch?v=t_uO9IslnLw",
+    "shortStatus": "public",
     "isPr": true,
     "priority": 110,
     "updatedAt": "2026-11-11"
