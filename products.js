@@ -1,6 +1,41 @@
 (function () {
   window.KAUJUN_PRODUCTS = [
   {
+    "id": "s204-01-logicool-pebble-keys-2-k380s",
+    "title": "Logicool Pebble Keys 2 K380s",
+    "description": "テンキーなし・幅約28cmのコンパクトキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k380sgr/k380sgr_r_.jpg?_ex=128x128",
+    "merchant": "ロジクール 公式ストア",
+    "offers": [
+      {
+        "store": "rakuten",
+        "storeLabel": "楽天市場",
+        "merchant": "ロジクール 公式ストア",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk380sgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000560%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
+        "program": "楽天アフィリエイト",
+        "linkType": "direct",
+        "ctaLabel": "楽天市場で見る"
+      },
+      {
+        "store": "amazon",
+        "storeLabel": "Amazon",
+        "merchant": "Amazon.co.jp",
+        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E9%85%8D%E5%88%97%E3%82%92%E9%81%B8%E3%81%B3%E3%82%84%E3%81%99%E3%81%84%E8%96%84%E5%9E%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89&tag=satsusubuke-22",
+        "program": "Amazonアソシエイト・プログラム",
+        "linkType": "search",
+        "ctaLabel": "Amazonで探す"
+      }
+    ],
+    "category": "入力機器",
+    "itemCategory": "テンキーなし・幅約28cmのコンパクトキーボード",
+    "shortTitle": "マウスがキーボードにぶつかる？小型化する前にテンキーを確認 #Shorts",
+    "shortUrl": "",
+    "shortStatus": "scheduled",
+    "isPr": true,
+    "priority": 111,
+    "updatedAt": "2026-11-13"
+  },
+  {
     "id": "s202-01-pc-100-cpu001",
     "title": "サンワダイレクト キャスター付きPCスタンド 100-CPU001",
     "description": "対応幅70〜240mm・総耐荷重10kgのPC台。幅調整で奥行も変わります。底面・通気口・配線も確認。電源を切ってからケーブルを引っ張らずに動かし、置いたら車輪を固定してください。",
@@ -32,7 +67,7 @@
     "shortUrl": "",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 111,
+    "priority": 110,
     "updatedAt": "2026-11-11"
   },
   {
@@ -67,7 +102,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=t_uO9IslnLw",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 110,
+    "priority": 109,
     "updatedAt": "2026-11-11"
   },
   {
@@ -102,7 +137,7 @@
     "shortUrl": "",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 109,
+    "priority": 108,
     "updatedAt": "2026-11-11"
   },
   {
@@ -137,7 +172,7 @@
     "shortUrl": "",
     "shortStatus": "scheduled",
     "isPr": true,
-    "priority": 108,
+    "priority": 107,
     "updatedAt": "2026-11-11"
   },
   {
@@ -169,10 +204,10 @@
     "category": "ケーブル整理",
     "itemCategory": "ケーブルに付けたホルダーを磁石で台座へ戻すケーブルホルダー",
     "shortTitle": "抜いた充電ケーブル、また床へ？戻す場所を作る #Shorts",
-    "shortUrl": "",
-    "shortStatus": "scheduled",
+    "shortUrl": "https://www.youtube.com/watch?v=EsdApO_S_A8",
+    "shortStatus": "public",
     "isPr": true,
-    "priority": 107,
+    "priority": 106,
     "updatedAt": "2026-11-11"
   },
   {
@@ -207,7 +242,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=zpDWsoAujfI",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 106,
+    "priority": 105,
     "updatedAt": "2026-10-25"
   },
   {
@@ -242,7 +277,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=hUxaC1rXl38",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 105,
+    "priority": 104,
     "updatedAt": "2026-10-25"
   },
   {
@@ -277,7 +312,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=yBV8sDS4zq0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 104,
+    "priority": 103,
     "updatedAt": "2026-10-25"
   },
   {
@@ -312,7 +347,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=zUtb_Fr2ItQ",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 103,
+    "priority": 102,
     "updatedAt": "2026-10-25"
   },
   {
@@ -347,7 +382,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ZmblYBd4TC0",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 102,
+    "priority": 101,
     "updatedAt": "2026-10-25"
   },
   {
@@ -382,7 +417,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=J0QuVRdTfKg",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 101,
+    "priority": 100,
     "updatedAt": "2026-10-20"
   },
   {
@@ -417,7 +452,7 @@
     "shortUrl": "https://www.youtube.com/watch?v=ZbHWNvL9rKk",
     "shortStatus": "public",
     "isPr": true,
-    "priority": 100,
+    "priority": 99,
     "updatedAt": "2026-10-20"
   },
   {
@@ -450,41 +485,6 @@
     "itemCategory": "最大1Gbpsイーサネット端子付きUSB-Cハブ",
     "shortTitle": "USB-Cハブ、ポートが多くてもLANは付いていない？ #Shorts",
     "shortUrl": "https://www.youtube.com/watch?v=ZbHWNvL9rKk",
-    "shortStatus": "public",
-    "isPr": true,
-    "priority": 99,
-    "updatedAt": "2026-10-20"
-  },
-  {
-    "id": "s190-01-logicool-pebble-keys-2-k380s",
-    "title": "Logicool Pebble Keys 2 K380s",
-    "description": "Logi Boltレシーバー別売のコンパクトキーボードとしてShortsで紹介した候補です。手のサイズ、接続方式、静音性、使用する端末との相性を購入前に確認してください。",
-    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k380sgr/k380sgr_r_.jpg?_ex=600x600",
-    "merchant": "ロジクール 公式ストア",
-    "offers": [
-      {
-        "store": "rakuten",
-        "storeLabel": "楽天市場",
-        "merchant": "ロジクール 公式ストア",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdn.k9qwp262.g00tpxdn.k9qwqa61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk380sgr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000560%2F&rafcid=wsc_i_is_cfffb985-e82f-4439-9947-c9a1499a5f56",
-        "program": "楽天アフィリエイト",
-        "linkType": "direct",
-        "ctaLabel": "楽天市場で見る"
-      },
-      {
-        "store": "amazon",
-        "storeLabel": "Amazon",
-        "merchant": "Amazon.co.jp",
-        "affiliateUrl": "https://www.amazon.co.jp/s?k=%E9%85%8D%E5%88%97%E3%82%92%E9%81%B8%E3%81%B3%E3%82%84%E3%81%99%E3%81%84%E8%96%84%E5%9E%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89&tag=satsusubuke-22",
-        "program": "Amazonアソシエイト・プログラム",
-        "linkType": "search",
-        "ctaLabel": "Amazonで探す"
-      }
-    ],
-    "category": "入力機器",
-    "itemCategory": "Logi Boltレシーバー別売のコンパクトキーボード",
-    "shortTitle": "無線キーボード、USB受信機が入っていない？K380sとK950 #Shorts",
-    "shortUrl": "https://www.youtube.com/watch?v=03S1pAoMYQg",
     "shortStatus": "public",
     "isPr": true,
     "priority": 98,
